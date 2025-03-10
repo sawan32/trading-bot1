@@ -1,0 +1,8008 @@
+[
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.76,
+        "stop_loss": 16.2,
+        "take_profit": 48.47,
+        "market_volatility": 1.45,
+        "profit": 33.16
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.71,
+        "stop_loss": 32.73,
+        "take_profit": 12.62,
+        "market_volatility": 0.58,
+        "profit": -13.33
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.81,
+        "stop_loss": 49.22,
+        "take_profit": 22.33,
+        "market_volatility": 0.26,
+        "profit": -5.93
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.85,
+        "stop_loss": 41.91,
+        "take_profit": 26.23,
+        "market_volatility": 0.29,
+        "profit": 17.11
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.31,
+        "stop_loss": 43.31,
+        "take_profit": 21.22,
+        "market_volatility": 0.22,
+        "profit": 6.13
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.68,
+        "stop_loss": 12.96,
+        "take_profit": 30.61,
+        "market_volatility": 1.28,
+        "profit": 29.97
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.67,
+        "stop_loss": 31.46,
+        "take_profit": 26.89,
+        "market_volatility": 1.34,
+        "profit": 47.19
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.66,
+        "stop_loss": 13.58,
+        "take_profit": 18.98,
+        "market_volatility": 1.2,
+        "profit": -4.33
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.81,
+        "stop_loss": 17.83,
+        "take_profit": 41.67,
+        "market_volatility": 0.57,
+        "profit": -39.31
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.58,
+        "stop_loss": 13.73,
+        "take_profit": 38.42,
+        "market_volatility": 0.97,
+        "profit": -49.51
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.34,
+        "stop_loss": 16.29,
+        "take_profit": 29.3,
+        "market_volatility": 0.84,
+        "profit": -27.42
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.6,
+        "stop_loss": 28.68,
+        "take_profit": 16.04,
+        "market_volatility": 1.17,
+        "profit": 14.38
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.49,
+        "stop_loss": 30.92,
+        "take_profit": 29.22,
+        "market_volatility": 1.43,
+        "profit": 95.13
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.16,
+        "stop_loss": 11.99,
+        "take_profit": 43.9,
+        "market_volatility": 0.85,
+        "profit": 75.51
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.07,
+        "stop_loss": 21.6,
+        "take_profit": 15.17,
+        "market_volatility": 1.36,
+        "profit": 68.13
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.59,
+        "stop_loss": 35.37,
+        "take_profit": 46.96,
+        "market_volatility": 0.92,
+        "profit": 51.25
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.34,
+        "stop_loss": 45.66,
+        "take_profit": 12.93,
+        "market_volatility": 0.38,
+        "profit": -2.34
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.24,
+        "stop_loss": 17.86,
+        "take_profit": 20.32,
+        "market_volatility": 1.33,
+        "profit": -23.91
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.4,
+        "stop_loss": 28.61,
+        "take_profit": 27.7,
+        "market_volatility": 0.86,
+        "profit": 11.01
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.86,
+        "stop_loss": 39.57,
+        "take_profit": 42.08,
+        "market_volatility": 0.29,
+        "profit": -18.11
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.08,
+        "stop_loss": 49.37,
+        "take_profit": 39.96,
+        "market_volatility": 1.13,
+        "profit": -18.72
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.76,
+        "stop_loss": 22.66,
+        "take_profit": 20.09,
+        "market_volatility": 0.82,
+        "profit": 97.39
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.48,
+        "stop_loss": 32.6,
+        "take_profit": 24.03,
+        "market_volatility": 0.43,
+        "profit": -14.35
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.82,
+        "stop_loss": 36.94,
+        "take_profit": 27.02,
+        "market_volatility": 0.58,
+        "profit": 14.53
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.88,
+        "stop_loss": 41.37,
+        "take_profit": 24.37,
+        "market_volatility": 0.98,
+        "profit": -10.08
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.35,
+        "stop_loss": 43.34,
+        "take_profit": 39.1,
+        "market_volatility": 0.97,
+        "profit": 20.02
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.54,
+        "stop_loss": 45.06,
+        "take_profit": 34.28,
+        "market_volatility": 1.03,
+        "profit": 3.8
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.68,
+        "stop_loss": 41.01,
+        "take_profit": 25.86,
+        "market_volatility": 0.53,
+        "profit": 81.02
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.97,
+        "stop_loss": 15.35,
+        "take_profit": 26.54,
+        "market_volatility": 1.09,
+        "profit": 72.55
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.46,
+        "stop_loss": 12.19,
+        "take_profit": 48.22,
+        "market_volatility": 0.86,
+        "profit": 32.56
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.37,
+        "stop_loss": 17.42,
+        "take_profit": 17.58,
+        "market_volatility": 0.87,
+        "profit": 39.49
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.58,
+        "stop_loss": 45.65,
+        "take_profit": 44.51,
+        "market_volatility": 1.26,
+        "profit": 88.7
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.99,
+        "stop_loss": 37.44,
+        "take_profit": 31.34,
+        "market_volatility": 0.85,
+        "profit": 73.21
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.47,
+        "stop_loss": 30.23,
+        "take_profit": 41.19,
+        "market_volatility": 1.19,
+        "profit": 35.45
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.75,
+        "stop_loss": 20.64,
+        "take_profit": 21.23,
+        "market_volatility": 0.56,
+        "profit": -24.75
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.78,
+        "stop_loss": 14.39,
+        "take_profit": 41.87,
+        "market_volatility": 0.74,
+        "profit": 78.45
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.48,
+        "stop_loss": 30.74,
+        "take_profit": 13.02,
+        "market_volatility": 0.97,
+        "profit": 45.72
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.27,
+        "stop_loss": 30.94,
+        "take_profit": 40.2,
+        "market_volatility": 0.81,
+        "profit": -25.32
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.12,
+        "stop_loss": 13.45,
+        "take_profit": 14.18,
+        "market_volatility": 1.28,
+        "profit": 43.98
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.28,
+        "stop_loss": 38.16,
+        "take_profit": 48.1,
+        "market_volatility": 1.3,
+        "profit": -42.1
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.64,
+        "stop_loss": 26.16,
+        "take_profit": 47.58,
+        "market_volatility": 0.73,
+        "profit": 87.49
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.18,
+        "stop_loss": 48.41,
+        "take_profit": 12.74,
+        "market_volatility": 0.6,
+        "profit": 17.77
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.35,
+        "stop_loss": 17.51,
+        "take_profit": 38.39,
+        "market_volatility": 0.53,
+        "profit": 25.62
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.35,
+        "stop_loss": 32.47,
+        "take_profit": 44.27,
+        "market_volatility": 0.71,
+        "profit": 14.38
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.1,
+        "stop_loss": 15.37,
+        "take_profit": 45.19,
+        "market_volatility": 0.85,
+        "profit": -32.45
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.4,
+        "stop_loss": 43.03,
+        "take_profit": 45.09,
+        "market_volatility": 0.94,
+        "profit": 60.89
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.41,
+        "stop_loss": 41.75,
+        "take_profit": 13.38,
+        "market_volatility": 1.05,
+        "profit": 73.71
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.89,
+        "stop_loss": 36.58,
+        "take_profit": 23.48,
+        "market_volatility": 0.3,
+        "profit": 22.39
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.93,
+        "stop_loss": 21.78,
+        "take_profit": 15.7,
+        "market_volatility": 0.41,
+        "profit": 84.11
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.99,
+        "stop_loss": 34.45,
+        "take_profit": 33.76,
+        "market_volatility": 0.37,
+        "profit": 47.8
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.32,
+        "stop_loss": 42.65,
+        "take_profit": 30.3,
+        "market_volatility": 1.06,
+        "profit": 50.8
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.68,
+        "stop_loss": 42.41,
+        "take_profit": 41.12,
+        "market_volatility": 1.45,
+        "profit": -34.9
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.23,
+        "stop_loss": 47.14,
+        "take_profit": 49.3,
+        "market_volatility": 0.34,
+        "profit": -17.46
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.97,
+        "stop_loss": 45.46,
+        "take_profit": 49.37,
+        "market_volatility": 0.87,
+        "profit": 33.0
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.43,
+        "stop_loss": 37.41,
+        "take_profit": 25.27,
+        "market_volatility": 0.2,
+        "profit": 57.27
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.8,
+        "stop_loss": 34.75,
+        "take_profit": 20.4,
+        "market_volatility": 0.16,
+        "profit": 45.67
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.81,
+        "stop_loss": 20.47,
+        "take_profit": 15.88,
+        "market_volatility": 0.35,
+        "profit": 68.94
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.46,
+        "stop_loss": 27.7,
+        "take_profit": 17.22,
+        "market_volatility": 0.95,
+        "profit": -43.07
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.47,
+        "stop_loss": 37.35,
+        "take_profit": 37.92,
+        "market_volatility": 1.37,
+        "profit": 4.69
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.73,
+        "stop_loss": 49.03,
+        "take_profit": 24.39,
+        "market_volatility": 1.28,
+        "profit": 73.2
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.3,
+        "stop_loss": 23.98,
+        "take_profit": 15.12,
+        "market_volatility": 0.71,
+        "profit": 86.24
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.64,
+        "stop_loss": 48.84,
+        "take_profit": 13.78,
+        "market_volatility": 0.16,
+        "profit": 11.07
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.09,
+        "stop_loss": 15.59,
+        "take_profit": 31.3,
+        "market_volatility": 0.27,
+        "profit": 32.76
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.73,
+        "stop_loss": 30.34,
+        "take_profit": 12.05,
+        "market_volatility": 0.84,
+        "profit": 19.66
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.47,
+        "stop_loss": 32.29,
+        "take_profit": 22.03,
+        "market_volatility": 1.32,
+        "profit": -30.75
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.53,
+        "stop_loss": 25.06,
+        "take_profit": 43.01,
+        "market_volatility": 0.81,
+        "profit": 24.43
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.34,
+        "stop_loss": 40.6,
+        "take_profit": 14.46,
+        "market_volatility": 0.8,
+        "profit": 98.69
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.96,
+        "stop_loss": 24.11,
+        "take_profit": 28.68,
+        "market_volatility": 0.94,
+        "profit": -27.91
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.41,
+        "stop_loss": 42.29,
+        "take_profit": 21.42,
+        "market_volatility": 0.13,
+        "profit": 13.01
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.0,
+        "stop_loss": 33.16,
+        "take_profit": 13.71,
+        "market_volatility": 0.61,
+        "profit": 2.22
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.41,
+        "stop_loss": 37.0,
+        "take_profit": 35.3,
+        "market_volatility": 0.65,
+        "profit": 61.32
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.35,
+        "stop_loss": 35.2,
+        "take_profit": 10.62,
+        "market_volatility": 1.05,
+        "profit": 95.41
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.83,
+        "stop_loss": 33.42,
+        "take_profit": 12.84,
+        "market_volatility": 0.98,
+        "profit": -39.24
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.45,
+        "stop_loss": 48.25,
+        "take_profit": 42.15,
+        "market_volatility": 0.94,
+        "profit": 27.57
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.49,
+        "stop_loss": 29.94,
+        "take_profit": 29.28,
+        "market_volatility": 0.94,
+        "profit": 34.59
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.97,
+        "stop_loss": 19.62,
+        "take_profit": 14.47,
+        "market_volatility": 0.46,
+        "profit": -7.44
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.24,
+        "stop_loss": 45.26,
+        "take_profit": 17.04,
+        "market_volatility": 0.18,
+        "profit": 44.18
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.06,
+        "stop_loss": 48.54,
+        "take_profit": 25.42,
+        "market_volatility": 1.46,
+        "profit": -36.46
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.12,
+        "stop_loss": 25.14,
+        "take_profit": 44.31,
+        "market_volatility": 0.47,
+        "profit": 86.16
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.66,
+        "stop_loss": 11.4,
+        "take_profit": 45.99,
+        "market_volatility": 0.51,
+        "profit": 73.8
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.87,
+        "stop_loss": 32.94,
+        "take_profit": 45.37,
+        "market_volatility": 0.64,
+        "profit": 34.71
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.68,
+        "stop_loss": 43.94,
+        "take_profit": 24.75,
+        "market_volatility": 1.07,
+        "profit": -29.72
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.76,
+        "stop_loss": 40.56,
+        "take_profit": 44.3,
+        "market_volatility": 0.11,
+        "profit": 25.64
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.31,
+        "stop_loss": 13.55,
+        "take_profit": 32.56,
+        "market_volatility": 1.0,
+        "profit": 43.72
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.99,
+        "stop_loss": 12.3,
+        "take_profit": 39.51,
+        "market_volatility": 0.69,
+        "profit": -40.01
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.29,
+        "stop_loss": 32.26,
+        "take_profit": 41.83,
+        "market_volatility": 1.28,
+        "profit": -21.68
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.32,
+        "stop_loss": 41.24,
+        "take_profit": 21.96,
+        "market_volatility": 0.12,
+        "profit": 34.82
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.57,
+        "stop_loss": 17.8,
+        "take_profit": 18.04,
+        "market_volatility": 0.37,
+        "profit": -45.17
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.91,
+        "stop_loss": 42.98,
+        "take_profit": 31.73,
+        "market_volatility": 0.75,
+        "profit": -25.04
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.55,
+        "stop_loss": 38.35,
+        "take_profit": 28.31,
+        "market_volatility": 0.41,
+        "profit": 73.69
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.88,
+        "stop_loss": 18.6,
+        "take_profit": 34.57,
+        "market_volatility": 0.6,
+        "profit": 55.47
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.98,
+        "stop_loss": 46.59,
+        "take_profit": 15.68,
+        "market_volatility": 0.58,
+        "profit": -20.67
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.32,
+        "stop_loss": 23.18,
+        "take_profit": 20.78,
+        "market_volatility": 0.52,
+        "profit": 2.47
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.22,
+        "stop_loss": 39.39,
+        "take_profit": 45.42,
+        "market_volatility": 0.71,
+        "profit": 74.78
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.9,
+        "stop_loss": 21.52,
+        "take_profit": 31.88,
+        "market_volatility": 1.39,
+        "profit": -11.56
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.45,
+        "stop_loss": 33.36,
+        "take_profit": 21.8,
+        "market_volatility": 0.57,
+        "profit": -11.58
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.51,
+        "stop_loss": 14.95,
+        "take_profit": 28.96,
+        "market_volatility": 0.72,
+        "profit": -39.08
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.06,
+        "stop_loss": 46.2,
+        "take_profit": 46.28,
+        "market_volatility": 0.22,
+        "profit": -2.28
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.22,
+        "stop_loss": 11.03,
+        "take_profit": 14.98,
+        "market_volatility": 1.42,
+        "profit": 82.83
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.63,
+        "stop_loss": 39.95,
+        "take_profit": 41.95,
+        "market_volatility": 0.98,
+        "profit": 43.53
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.25,
+        "stop_loss": 26.93,
+        "take_profit": 40.89,
+        "market_volatility": 1.44,
+        "profit": 18.11
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.17,
+        "stop_loss": 25.14,
+        "take_profit": 36.03,
+        "market_volatility": 1.21,
+        "profit": 2.65
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.78,
+        "stop_loss": 19.32,
+        "take_profit": 38.02,
+        "market_volatility": 0.63,
+        "profit": -15.47
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.55,
+        "stop_loss": 34.79,
+        "take_profit": 26.8,
+        "market_volatility": 0.63,
+        "profit": 51.35
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.89,
+        "stop_loss": 43.35,
+        "take_profit": 43.68,
+        "market_volatility": 1.42,
+        "profit": 13.83
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.07,
+        "stop_loss": 41.71,
+        "take_profit": 12.33,
+        "market_volatility": 0.88,
+        "profit": -41.52
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.72,
+        "stop_loss": 33.04,
+        "take_profit": 42.41,
+        "market_volatility": 1.43,
+        "profit": 36.86
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.53,
+        "stop_loss": 46.1,
+        "take_profit": 44.58,
+        "market_volatility": 1.5,
+        "profit": -33.74
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.24,
+        "stop_loss": 19.49,
+        "take_profit": 38.06,
+        "market_volatility": 0.77,
+        "profit": 17.37
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.7,
+        "stop_loss": 48.73,
+        "take_profit": 48.83,
+        "market_volatility": 1.39,
+        "profit": 94.23
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.12,
+        "stop_loss": 37.23,
+        "take_profit": 23.86,
+        "market_volatility": 0.64,
+        "profit": -34.59
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.65,
+        "stop_loss": 16.25,
+        "take_profit": 20.66,
+        "market_volatility": 1.33,
+        "profit": 78.59
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.29,
+        "stop_loss": 46.15,
+        "take_profit": 48.19,
+        "market_volatility": 0.92,
+        "profit": -41.1
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.57,
+        "stop_loss": 34.32,
+        "take_profit": 16.33,
+        "market_volatility": 0.88,
+        "profit": 1.55
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.21,
+        "stop_loss": 24.51,
+        "take_profit": 45.05,
+        "market_volatility": 0.23,
+        "profit": 41.04
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.29,
+        "stop_loss": 39.73,
+        "take_profit": 47.8,
+        "market_volatility": 1.0,
+        "profit": -29.66
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.84,
+        "stop_loss": 45.88,
+        "take_profit": 14.7,
+        "market_volatility": 0.98,
+        "profit": 92.5
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.6,
+        "stop_loss": 24.04,
+        "take_profit": 41.91,
+        "market_volatility": 1.11,
+        "profit": 86.56
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.43,
+        "stop_loss": 44.81,
+        "take_profit": 46.67,
+        "market_volatility": 0.28,
+        "profit": 52.54
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.36,
+        "stop_loss": 10.99,
+        "take_profit": 38.96,
+        "market_volatility": 0.13,
+        "profit": 16.83
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.73,
+        "stop_loss": 46.97,
+        "take_profit": 28.33,
+        "market_volatility": 0.31,
+        "profit": -1.62
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.39,
+        "stop_loss": 43.95,
+        "take_profit": 28.74,
+        "market_volatility": 1.19,
+        "profit": -6.64
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.11,
+        "stop_loss": 41.92,
+        "take_profit": 22.02,
+        "market_volatility": 0.98,
+        "profit": -38.21
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.85,
+        "stop_loss": 25.67,
+        "take_profit": 41.7,
+        "market_volatility": 0.86,
+        "profit": 38.12
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.73,
+        "stop_loss": 10.54,
+        "take_profit": 32.29,
+        "market_volatility": 0.2,
+        "profit": 64.04
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.86,
+        "stop_loss": 48.58,
+        "take_profit": 11.6,
+        "market_volatility": 1.43,
+        "profit": 29.43
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.12,
+        "stop_loss": 25.57,
+        "take_profit": 27.61,
+        "market_volatility": 1.26,
+        "profit": -6.35
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.5,
+        "stop_loss": 49.74,
+        "take_profit": 36.97,
+        "market_volatility": 1.09,
+        "profit": 24.67
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.72,
+        "stop_loss": 19.21,
+        "take_profit": 35.96,
+        "market_volatility": 0.52,
+        "profit": -45.42
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.89,
+        "stop_loss": 23.88,
+        "take_profit": 44.23,
+        "market_volatility": 0.49,
+        "profit": 73.87
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.59,
+        "stop_loss": 32.15,
+        "take_profit": 40.91,
+        "market_volatility": 0.53,
+        "profit": 60.19
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.13,
+        "stop_loss": 48.84,
+        "take_profit": 27.73,
+        "market_volatility": 0.78,
+        "profit": -5.63
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.85,
+        "stop_loss": 25.07,
+        "take_profit": 35.83,
+        "market_volatility": 0.88,
+        "profit": 61.43
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.25,
+        "stop_loss": 40.06,
+        "take_profit": 28.87,
+        "market_volatility": 0.42,
+        "profit": 86.26
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.21,
+        "stop_loss": 10.72,
+        "take_profit": 12.8,
+        "market_volatility": 0.13,
+        "profit": 87.96
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.86,
+        "stop_loss": 13.83,
+        "take_profit": 40.26,
+        "market_volatility": 0.66,
+        "profit": -24.33
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.06,
+        "stop_loss": 40.51,
+        "take_profit": 36.01,
+        "market_volatility": 0.86,
+        "profit": -27.92
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.38,
+        "stop_loss": 21.56,
+        "take_profit": 46.49,
+        "market_volatility": 0.88,
+        "profit": 43.75
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.32,
+        "stop_loss": 15.37,
+        "take_profit": 47.74,
+        "market_volatility": 0.37,
+        "profit": 72.35
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.05,
+        "stop_loss": 30.83,
+        "take_profit": 28.25,
+        "market_volatility": 0.22,
+        "profit": -24.05
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.07,
+        "stop_loss": 10.23,
+        "take_profit": 42.32,
+        "market_volatility": 1.23,
+        "profit": 57.12
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.99,
+        "stop_loss": 27.05,
+        "take_profit": 10.53,
+        "market_volatility": 1.07,
+        "profit": -42.02
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.41,
+        "stop_loss": 40.6,
+        "take_profit": 43.06,
+        "market_volatility": 1.33,
+        "profit": -1.75
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.11,
+        "stop_loss": 29.53,
+        "take_profit": 45.67,
+        "market_volatility": 0.58,
+        "profit": -11.9
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.04,
+        "stop_loss": 12.63,
+        "take_profit": 24.52,
+        "market_volatility": 0.89,
+        "profit": -43.46
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.5,
+        "stop_loss": 26.46,
+        "take_profit": 20.19,
+        "market_volatility": 0.77,
+        "profit": 0.61
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.75,
+        "stop_loss": 15.85,
+        "take_profit": 42.03,
+        "market_volatility": 1.03,
+        "profit": -22.08
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.5,
+        "stop_loss": 40.46,
+        "take_profit": 33.88,
+        "market_volatility": 0.41,
+        "profit": 99.37
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.99,
+        "stop_loss": 15.83,
+        "take_profit": 29.46,
+        "market_volatility": 0.75,
+        "profit": -5.72
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.71,
+        "stop_loss": 18.94,
+        "take_profit": 48.15,
+        "market_volatility": 0.8,
+        "profit": 91.42
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.64,
+        "stop_loss": 20.9,
+        "take_profit": 17.22,
+        "market_volatility": 1.21,
+        "profit": -33.82
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.96,
+        "stop_loss": 40.45,
+        "take_profit": 25.81,
+        "market_volatility": 0.88,
+        "profit": 19.75
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.44,
+        "stop_loss": 48.9,
+        "take_profit": 21.66,
+        "market_volatility": 0.42,
+        "profit": 14.86
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.63,
+        "stop_loss": 35.24,
+        "take_profit": 21.12,
+        "market_volatility": 0.14,
+        "profit": 62.7
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.24,
+        "stop_loss": 45.12,
+        "take_profit": 20.85,
+        "market_volatility": 1.24,
+        "profit": -24.89
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.64,
+        "stop_loss": 15.35,
+        "take_profit": 46.02,
+        "market_volatility": 0.15,
+        "profit": 33.05
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.31,
+        "stop_loss": 24.71,
+        "take_profit": 35.36,
+        "market_volatility": 0.45,
+        "profit": -2.35
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.57,
+        "stop_loss": 22.57,
+        "take_profit": 15.93,
+        "market_volatility": 0.52,
+        "profit": 81.25
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.49,
+        "stop_loss": 46.76,
+        "take_profit": 23.1,
+        "market_volatility": 0.18,
+        "profit": 60.75
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.88,
+        "stop_loss": 26.45,
+        "take_profit": 15.18,
+        "market_volatility": 1.29,
+        "profit": 50.44
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.3,
+        "stop_loss": 34.52,
+        "take_profit": 26.61,
+        "market_volatility": 0.13,
+        "profit": 76.42
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.13,
+        "stop_loss": 47.43,
+        "take_profit": 26.6,
+        "market_volatility": 0.84,
+        "profit": 96.11
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.41,
+        "stop_loss": 11.04,
+        "take_profit": 43.48,
+        "market_volatility": 0.25,
+        "profit": -15.21
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.88,
+        "stop_loss": 48.68,
+        "take_profit": 20.12,
+        "market_volatility": 0.8,
+        "profit": 94.54
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.93,
+        "stop_loss": 42.3,
+        "take_profit": 48.0,
+        "market_volatility": 0.64,
+        "profit": 81.98
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.26,
+        "stop_loss": 49.47,
+        "take_profit": 40.13,
+        "market_volatility": 0.47,
+        "profit": -17.29
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.72,
+        "stop_loss": 18.12,
+        "take_profit": 40.94,
+        "market_volatility": 1.14,
+        "profit": 72.33
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.48,
+        "stop_loss": 36.99,
+        "take_profit": 18.5,
+        "market_volatility": 0.96,
+        "profit": -45.82
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.18,
+        "stop_loss": 34.89,
+        "take_profit": 15.02,
+        "market_volatility": 0.48,
+        "profit": -12.31
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.85,
+        "stop_loss": 21.73,
+        "take_profit": 47.26,
+        "market_volatility": 0.94,
+        "profit": 47.63
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.43,
+        "stop_loss": 12.87,
+        "take_profit": 49.46,
+        "market_volatility": 1.3,
+        "profit": 4.16
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.78,
+        "stop_loss": 18.58,
+        "take_profit": 13.43,
+        "market_volatility": 0.89,
+        "profit": 70.4
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.54,
+        "stop_loss": 10.59,
+        "take_profit": 19.25,
+        "market_volatility": 0.36,
+        "profit": 58.19
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.13,
+        "stop_loss": 34.64,
+        "take_profit": 35.46,
+        "market_volatility": 0.28,
+        "profit": 43.71
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.04,
+        "stop_loss": 37.65,
+        "take_profit": 14.53,
+        "market_volatility": 0.19,
+        "profit": 49.01
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.98,
+        "stop_loss": 41.03,
+        "take_profit": 47.27,
+        "market_volatility": 0.75,
+        "profit": 20.5
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.51,
+        "stop_loss": 28.94,
+        "take_profit": 20.48,
+        "market_volatility": 0.84,
+        "profit": -36.49
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.45,
+        "stop_loss": 33.78,
+        "take_profit": 24.47,
+        "market_volatility": 1.14,
+        "profit": 75.92
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.85,
+        "stop_loss": 46.47,
+        "take_profit": 37.08,
+        "market_volatility": 0.18,
+        "profit": -41.58
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.65,
+        "stop_loss": 21.39,
+        "take_profit": 35.38,
+        "market_volatility": 0.82,
+        "profit": 89.93
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.36,
+        "stop_loss": 35.73,
+        "take_profit": 46.07,
+        "market_volatility": 1.29,
+        "profit": -42.2
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.11,
+        "stop_loss": 34.94,
+        "take_profit": 44.15,
+        "market_volatility": 1.21,
+        "profit": -29.64
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.51,
+        "stop_loss": 14.38,
+        "take_profit": 30.85,
+        "market_volatility": 0.74,
+        "profit": 90.8
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.63,
+        "stop_loss": 27.38,
+        "take_profit": 34.82,
+        "market_volatility": 1.15,
+        "profit": 70.4
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.81,
+        "stop_loss": 35.65,
+        "take_profit": 13.67,
+        "market_volatility": 1.35,
+        "profit": -7.95
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.14,
+        "stop_loss": 27.27,
+        "take_profit": 31.64,
+        "market_volatility": 0.46,
+        "profit": -17.15
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.54,
+        "stop_loss": 42.26,
+        "take_profit": 42.34,
+        "market_volatility": 1.02,
+        "profit": -2.63
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.35,
+        "stop_loss": 26.69,
+        "take_profit": 12.69,
+        "market_volatility": 1.05,
+        "profit": 10.1
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.05,
+        "stop_loss": 25.66,
+        "take_profit": 28.05,
+        "market_volatility": 1.39,
+        "profit": -2.11
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.2,
+        "stop_loss": 18.41,
+        "take_profit": 45.56,
+        "market_volatility": 1.32,
+        "profit": -37.46
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.66,
+        "stop_loss": 33.27,
+        "take_profit": 43.34,
+        "market_volatility": 0.8,
+        "profit": 56.34
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.58,
+        "stop_loss": 31.97,
+        "take_profit": 26.0,
+        "market_volatility": 1.24,
+        "profit": 57.03
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.23,
+        "stop_loss": 17.36,
+        "take_profit": 16.38,
+        "market_volatility": 1.43,
+        "profit": 97.66
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.86,
+        "stop_loss": 28.0,
+        "take_profit": 22.03,
+        "market_volatility": 0.96,
+        "profit": -14.29
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.78,
+        "stop_loss": 28.65,
+        "take_profit": 34.61,
+        "market_volatility": 0.42,
+        "profit": 43.3
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.71,
+        "stop_loss": 37.26,
+        "take_profit": 19.81,
+        "market_volatility": 1.14,
+        "profit": -18.54
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.2,
+        "stop_loss": 48.46,
+        "take_profit": 25.44,
+        "market_volatility": 1.05,
+        "profit": 97.98
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.89,
+        "stop_loss": 34.41,
+        "take_profit": 21.73,
+        "market_volatility": 0.64,
+        "profit": -8.78
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.84,
+        "stop_loss": 22.71,
+        "take_profit": 10.16,
+        "market_volatility": 1.41,
+        "profit": 12.48
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.42,
+        "stop_loss": 38.67,
+        "take_profit": 33.66,
+        "market_volatility": 0.54,
+        "profit": 53.94
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.82,
+        "stop_loss": 47.64,
+        "take_profit": 11.19,
+        "market_volatility": 0.14,
+        "profit": -13.49
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.38,
+        "stop_loss": 40.7,
+        "take_profit": 11.27,
+        "market_volatility": 0.53,
+        "profit": -36.74
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.69,
+        "stop_loss": 40.85,
+        "take_profit": 31.39,
+        "market_volatility": 1.33,
+        "profit": 77.35
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.68,
+        "stop_loss": 16.13,
+        "take_profit": 21.09,
+        "market_volatility": 0.65,
+        "profit": 15.35
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.48,
+        "stop_loss": 44.03,
+        "take_profit": 16.86,
+        "market_volatility": 1.04,
+        "profit": -6.56
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.26,
+        "stop_loss": 35.24,
+        "take_profit": 16.64,
+        "market_volatility": 0.69,
+        "profit": 41.14
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.24,
+        "stop_loss": 24.16,
+        "take_profit": 22.15,
+        "market_volatility": 0.61,
+        "profit": -27.67
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.98,
+        "stop_loss": 16.89,
+        "take_profit": 31.29,
+        "market_volatility": 0.29,
+        "profit": 80.27
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.01,
+        "stop_loss": 43.19,
+        "take_profit": 16.1,
+        "market_volatility": 0.84,
+        "profit": 13.1
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.39,
+        "stop_loss": 30.96,
+        "take_profit": 37.15,
+        "market_volatility": 0.66,
+        "profit": 48.63
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.36,
+        "stop_loss": 28.32,
+        "take_profit": 35.56,
+        "market_volatility": 1.42,
+        "profit": 6.79
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.97,
+        "stop_loss": 45.14,
+        "take_profit": 35.73,
+        "market_volatility": 0.71,
+        "profit": 57.49
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.6,
+        "stop_loss": 11.63,
+        "take_profit": 23.96,
+        "market_volatility": 0.89,
+        "profit": 38.76
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.33,
+        "stop_loss": 40.02,
+        "take_profit": 45.21,
+        "market_volatility": 0.69,
+        "profit": 1.8
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.52,
+        "stop_loss": 20.48,
+        "take_profit": 44.08,
+        "market_volatility": 0.32,
+        "profit": -26.68
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.75,
+        "stop_loss": 49.08,
+        "take_profit": 11.44,
+        "market_volatility": 1.29,
+        "profit": -49.23
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.12,
+        "stop_loss": 14.51,
+        "take_profit": 45.57,
+        "market_volatility": 0.13,
+        "profit": 68.64
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.21,
+        "stop_loss": 38.91,
+        "take_profit": 44.32,
+        "market_volatility": 0.11,
+        "profit": 6.3
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.82,
+        "stop_loss": 45.22,
+        "take_profit": 27.27,
+        "market_volatility": 1.43,
+        "profit": -42.43
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.35,
+        "stop_loss": 38.96,
+        "take_profit": 40.05,
+        "market_volatility": 1.36,
+        "profit": -14.87
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.0,
+        "stop_loss": 43.07,
+        "take_profit": 47.78,
+        "market_volatility": 1.47,
+        "profit": 14.69
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.13,
+        "stop_loss": 14.99,
+        "take_profit": 23.01,
+        "market_volatility": 1.22,
+        "profit": -27.2
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.19,
+        "stop_loss": 20.5,
+        "take_profit": 34.06,
+        "market_volatility": 1.37,
+        "profit": 54.62
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.13,
+        "stop_loss": 33.88,
+        "take_profit": 14.69,
+        "market_volatility": 0.69,
+        "profit": -41.06
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.07,
+        "stop_loss": 15.99,
+        "take_profit": 44.71,
+        "market_volatility": 0.92,
+        "profit": 90.65
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.35,
+        "stop_loss": 23.83,
+        "take_profit": 34.53,
+        "market_volatility": 1.42,
+        "profit": 22.6
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.08,
+        "stop_loss": 41.12,
+        "take_profit": 42.14,
+        "market_volatility": 0.87,
+        "profit": 19.15
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.47,
+        "stop_loss": 45.51,
+        "take_profit": 33.38,
+        "market_volatility": 1.13,
+        "profit": -17.28
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.65,
+        "stop_loss": 20.86,
+        "take_profit": 11.16,
+        "market_volatility": 0.87,
+        "profit": 95.78
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.03,
+        "stop_loss": 41.67,
+        "take_profit": 17.32,
+        "market_volatility": 0.99,
+        "profit": 13.48
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.74,
+        "stop_loss": 34.61,
+        "take_profit": 47.2,
+        "market_volatility": 0.65,
+        "profit": 59.38
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.79,
+        "stop_loss": 40.34,
+        "take_profit": 10.44,
+        "market_volatility": 1.33,
+        "profit": 86.87
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.54,
+        "stop_loss": 41.75,
+        "take_profit": 15.77,
+        "market_volatility": 0.5,
+        "profit": 84.22
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.95,
+        "stop_loss": 30.2,
+        "take_profit": 36.86,
+        "market_volatility": 1.02,
+        "profit": 92.05
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.47,
+        "stop_loss": 12.05,
+        "take_profit": 21.83,
+        "market_volatility": 0.53,
+        "profit": 85.79
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.9,
+        "stop_loss": 15.61,
+        "take_profit": 45.65,
+        "market_volatility": 0.86,
+        "profit": 7.31
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.33,
+        "stop_loss": 30.34,
+        "take_profit": 22.78,
+        "market_volatility": 0.14,
+        "profit": -35.9
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.35,
+        "stop_loss": 49.7,
+        "take_profit": 33.61,
+        "market_volatility": 1.13,
+        "profit": 71.22
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.56,
+        "stop_loss": 28.4,
+        "take_profit": 36.15,
+        "market_volatility": 1.2,
+        "profit": 83.56
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.9,
+        "stop_loss": 42.07,
+        "take_profit": 15.83,
+        "market_volatility": 0.19,
+        "profit": 16.44
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.66,
+        "stop_loss": 13.56,
+        "take_profit": 37.28,
+        "market_volatility": 0.93,
+        "profit": -27.07
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.66,
+        "stop_loss": 44.31,
+        "take_profit": 12.15,
+        "market_volatility": 1.14,
+        "profit": 28.63
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.7,
+        "stop_loss": 24.96,
+        "take_profit": 37.63,
+        "market_volatility": 1.46,
+        "profit": -1.74
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.23,
+        "stop_loss": 25.8,
+        "take_profit": 43.84,
+        "market_volatility": 0.95,
+        "profit": 95.28
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.06,
+        "stop_loss": 36.15,
+        "take_profit": 26.97,
+        "market_volatility": 1.07,
+        "profit": -37.37
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.14,
+        "stop_loss": 28.66,
+        "take_profit": 18.84,
+        "market_volatility": 1.39,
+        "profit": 10.28
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.18,
+        "stop_loss": 42.31,
+        "take_profit": 24.02,
+        "market_volatility": 0.77,
+        "profit": -15.32
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.98,
+        "stop_loss": 38.15,
+        "take_profit": 15.44,
+        "market_volatility": 0.79,
+        "profit": 26.42
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.31,
+        "stop_loss": 44.87,
+        "take_profit": 27.31,
+        "market_volatility": 0.4,
+        "profit": 50.07
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.7,
+        "stop_loss": 14.27,
+        "take_profit": 40.66,
+        "market_volatility": 0.16,
+        "profit": 57.81
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.41,
+        "stop_loss": 23.32,
+        "take_profit": 47.43,
+        "market_volatility": 0.5,
+        "profit": 66.67
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.24,
+        "stop_loss": 43.83,
+        "take_profit": 14.43,
+        "market_volatility": 0.86,
+        "profit": 93.39
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.9,
+        "stop_loss": 44.13,
+        "take_profit": 43.33,
+        "market_volatility": 0.33,
+        "profit": 63.43
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.35,
+        "stop_loss": 40.81,
+        "take_profit": 23.01,
+        "market_volatility": 0.33,
+        "profit": 83.18
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.22,
+        "stop_loss": 18.27,
+        "take_profit": 10.57,
+        "market_volatility": 0.66,
+        "profit": 87.58
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.52,
+        "stop_loss": 10.62,
+        "take_profit": 37.48,
+        "market_volatility": 0.33,
+        "profit": -24.02
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.92,
+        "stop_loss": 46.0,
+        "take_profit": 21.08,
+        "market_volatility": 1.29,
+        "profit": -28.91
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.73,
+        "stop_loss": 28.37,
+        "take_profit": 21.18,
+        "market_volatility": 1.17,
+        "profit": 17.7
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.56,
+        "stop_loss": 37.36,
+        "take_profit": 20.26,
+        "market_volatility": 0.76,
+        "profit": 34.9
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.48,
+        "stop_loss": 25.48,
+        "take_profit": 49.09,
+        "market_volatility": 0.6,
+        "profit": -30.99
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.23,
+        "stop_loss": 23.03,
+        "take_profit": 25.55,
+        "market_volatility": 0.93,
+        "profit": 75.65
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.57,
+        "stop_loss": 27.03,
+        "take_profit": 48.61,
+        "market_volatility": 0.85,
+        "profit": -1.78
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.07,
+        "stop_loss": 15.83,
+        "take_profit": 13.06,
+        "market_volatility": 0.82,
+        "profit": 2.72
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.98,
+        "stop_loss": 24.39,
+        "take_profit": 26.34,
+        "market_volatility": 0.34,
+        "profit": 52.8
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.24,
+        "stop_loss": 23.83,
+        "take_profit": 47.76,
+        "market_volatility": 1.1,
+        "profit": 95.52
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.98,
+        "stop_loss": 29.86,
+        "take_profit": 49.06,
+        "market_volatility": 0.99,
+        "profit": 0.25
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 5.0,
+        "stop_loss": 20.1,
+        "take_profit": 29.73,
+        "market_volatility": 0.94,
+        "profit": -31.6
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.67,
+        "stop_loss": 31.1,
+        "take_profit": 33.66,
+        "market_volatility": 0.16,
+        "profit": 96.73
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.33,
+        "stop_loss": 23.99,
+        "take_profit": 22.65,
+        "market_volatility": 0.91,
+        "profit": 10.1
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.87,
+        "stop_loss": 19.78,
+        "take_profit": 45.27,
+        "market_volatility": 1.12,
+        "profit": 11.78
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.88,
+        "stop_loss": 45.91,
+        "take_profit": 23.82,
+        "market_volatility": 1.04,
+        "profit": 77.99
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.97,
+        "stop_loss": 13.72,
+        "take_profit": 46.95,
+        "market_volatility": 0.61,
+        "profit": -29.54
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.86,
+        "stop_loss": 45.25,
+        "take_profit": 42.6,
+        "market_volatility": 1.43,
+        "profit": 54.3
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.72,
+        "stop_loss": 32.79,
+        "take_profit": 48.3,
+        "market_volatility": 0.5,
+        "profit": 99.96
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.78,
+        "stop_loss": 11.16,
+        "take_profit": 38.42,
+        "market_volatility": 1.21,
+        "profit": 14.31
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.67,
+        "stop_loss": 29.2,
+        "take_profit": 33.26,
+        "market_volatility": 0.5,
+        "profit": 11.56
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.06,
+        "stop_loss": 25.5,
+        "take_profit": 30.74,
+        "market_volatility": 1.18,
+        "profit": 13.35
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.62,
+        "stop_loss": 39.23,
+        "take_profit": 28.25,
+        "market_volatility": 1.16,
+        "profit": -33.47
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.36,
+        "stop_loss": 18.04,
+        "take_profit": 24.97,
+        "market_volatility": 0.39,
+        "profit": -5.18
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.1,
+        "stop_loss": 48.46,
+        "take_profit": 39.64,
+        "market_volatility": 0.42,
+        "profit": 59.83
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.31,
+        "stop_loss": 37.13,
+        "take_profit": 30.94,
+        "market_volatility": 0.35,
+        "profit": 86.66
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.46,
+        "stop_loss": 45.96,
+        "take_profit": 20.17,
+        "market_volatility": 1.06,
+        "profit": 46.88
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.84,
+        "stop_loss": 47.95,
+        "take_profit": 32.15,
+        "market_volatility": 0.63,
+        "profit": 81.69
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.28,
+        "stop_loss": 19.4,
+        "take_profit": 35.59,
+        "market_volatility": 1.34,
+        "profit": 73.24
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.62,
+        "stop_loss": 46.9,
+        "take_profit": 13.61,
+        "market_volatility": 0.28,
+        "profit": -37.4
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.43,
+        "stop_loss": 21.92,
+        "take_profit": 31.11,
+        "market_volatility": 0.15,
+        "profit": 39.56
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.24,
+        "stop_loss": 46.31,
+        "take_profit": 37.4,
+        "market_volatility": 0.75,
+        "profit": 75.22
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.76,
+        "stop_loss": 49.36,
+        "take_profit": 41.18,
+        "market_volatility": 1.21,
+        "profit": 3.26
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.63,
+        "stop_loss": 28.24,
+        "take_profit": 44.9,
+        "market_volatility": 0.15,
+        "profit": 14.31
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.17,
+        "stop_loss": 28.65,
+        "take_profit": 23.53,
+        "market_volatility": 0.36,
+        "profit": 94.4
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.93,
+        "stop_loss": 29.26,
+        "take_profit": 16.52,
+        "market_volatility": 0.87,
+        "profit": 86.77
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.19,
+        "stop_loss": 18.38,
+        "take_profit": 14.04,
+        "market_volatility": 0.38,
+        "profit": 26.93
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.59,
+        "stop_loss": 25.7,
+        "take_profit": 22.44,
+        "market_volatility": 0.77,
+        "profit": 22.05
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.72,
+        "stop_loss": 29.59,
+        "take_profit": 28.84,
+        "market_volatility": 1.4,
+        "profit": 71.44
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.75,
+        "stop_loss": 26.81,
+        "take_profit": 20.21,
+        "market_volatility": 1.03,
+        "profit": -41.6
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.92,
+        "stop_loss": 26.64,
+        "take_profit": 24.07,
+        "market_volatility": 0.68,
+        "profit": -43.08
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.87,
+        "stop_loss": 21.26,
+        "take_profit": 48.16,
+        "market_volatility": 1.07,
+        "profit": -34.93
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.46,
+        "stop_loss": 18.66,
+        "take_profit": 30.35,
+        "market_volatility": 1.12,
+        "profit": 73.87
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.59,
+        "stop_loss": 19.21,
+        "take_profit": 11.59,
+        "market_volatility": 0.97,
+        "profit": 90.38
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.72,
+        "stop_loss": 49.77,
+        "take_profit": 33.93,
+        "market_volatility": 0.8,
+        "profit": -15.6
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.16,
+        "stop_loss": 23.76,
+        "take_profit": 44.18,
+        "market_volatility": 0.82,
+        "profit": 55.71
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.61,
+        "stop_loss": 37.11,
+        "take_profit": 10.27,
+        "market_volatility": 0.49,
+        "profit": 80.97
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.68,
+        "stop_loss": 42.37,
+        "take_profit": 27.58,
+        "market_volatility": 0.45,
+        "profit": 29.36
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.41,
+        "stop_loss": 46.79,
+        "take_profit": 47.48,
+        "market_volatility": 0.41,
+        "profit": -4.88
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.65,
+        "stop_loss": 11.44,
+        "take_profit": 26.49,
+        "market_volatility": 0.15,
+        "profit": -2.21
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.81,
+        "stop_loss": 33.61,
+        "take_profit": 34.34,
+        "market_volatility": 1.25,
+        "profit": -49.24
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.28,
+        "stop_loss": 24.61,
+        "take_profit": 49.8,
+        "market_volatility": 0.51,
+        "profit": -35.48
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.72,
+        "stop_loss": 35.61,
+        "take_profit": 18.64,
+        "market_volatility": 0.55,
+        "profit": 19.59
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.03,
+        "stop_loss": 10.9,
+        "take_profit": 45.17,
+        "market_volatility": 0.86,
+        "profit": 74.74
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.02,
+        "stop_loss": 23.87,
+        "take_profit": 14.41,
+        "market_volatility": 0.44,
+        "profit": 80.96
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.17,
+        "stop_loss": 39.7,
+        "take_profit": 12.19,
+        "market_volatility": 1.01,
+        "profit": -8.06
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.09,
+        "stop_loss": 26.1,
+        "take_profit": 32.55,
+        "market_volatility": 1.47,
+        "profit": -25.11
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.71,
+        "stop_loss": 20.79,
+        "take_profit": 23.62,
+        "market_volatility": 1.23,
+        "profit": 25.37
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.19,
+        "stop_loss": 49.25,
+        "take_profit": 15.98,
+        "market_volatility": 0.36,
+        "profit": -47.02
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.72,
+        "stop_loss": 22.17,
+        "take_profit": 30.32,
+        "market_volatility": 0.77,
+        "profit": 32.31
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.91,
+        "stop_loss": 11.17,
+        "take_profit": 25.25,
+        "market_volatility": 0.38,
+        "profit": 6.78
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.87,
+        "stop_loss": 21.87,
+        "take_profit": 40.72,
+        "market_volatility": 1.35,
+        "profit": 23.94
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.87,
+        "stop_loss": 18.04,
+        "take_profit": 24.09,
+        "market_volatility": 0.83,
+        "profit": -29.69
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.71,
+        "stop_loss": 14.47,
+        "take_profit": 45.18,
+        "market_volatility": 0.84,
+        "profit": 53.91
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.44,
+        "stop_loss": 43.57,
+        "take_profit": 19.35,
+        "market_volatility": 0.87,
+        "profit": 1.19
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.3,
+        "stop_loss": 19.82,
+        "take_profit": 33.41,
+        "market_volatility": 0.25,
+        "profit": -15.12
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.35,
+        "stop_loss": 41.79,
+        "take_profit": 26.18,
+        "market_volatility": 0.53,
+        "profit": -30.63
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.41,
+        "stop_loss": 33.91,
+        "take_profit": 17.59,
+        "market_volatility": 0.77,
+        "profit": 5.34
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.16,
+        "stop_loss": 36.64,
+        "take_profit": 40.53,
+        "market_volatility": 0.76,
+        "profit": 58.18
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.88,
+        "stop_loss": 24.67,
+        "take_profit": 45.19,
+        "market_volatility": 1.36,
+        "profit": 73.55
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.78,
+        "stop_loss": 23.83,
+        "take_profit": 14.31,
+        "market_volatility": 1.24,
+        "profit": 11.83
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.23,
+        "stop_loss": 31.42,
+        "take_profit": 38.88,
+        "market_volatility": 0.86,
+        "profit": 52.02
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.61,
+        "stop_loss": 34.36,
+        "take_profit": 19.38,
+        "market_volatility": 0.48,
+        "profit": 36.12
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.13,
+        "stop_loss": 46.85,
+        "take_profit": 32.88,
+        "market_volatility": 1.2,
+        "profit": -25.0
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.27,
+        "stop_loss": 31.5,
+        "take_profit": 44.08,
+        "market_volatility": 0.24,
+        "profit": 69.6
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.17,
+        "stop_loss": 24.84,
+        "take_profit": 43.53,
+        "market_volatility": 0.38,
+        "profit": -43.48
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.32,
+        "stop_loss": 47.98,
+        "take_profit": 32.11,
+        "market_volatility": 1.17,
+        "profit": -38.6
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.25,
+        "stop_loss": 24.41,
+        "take_profit": 32.19,
+        "market_volatility": 0.71,
+        "profit": 0.74
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.38,
+        "stop_loss": 28.15,
+        "take_profit": 23.24,
+        "market_volatility": 1.17,
+        "profit": 86.67
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.1,
+        "stop_loss": 40.63,
+        "take_profit": 29.14,
+        "market_volatility": 1.29,
+        "profit": 93.59
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.74,
+        "stop_loss": 25.26,
+        "take_profit": 31.03,
+        "market_volatility": 1.34,
+        "profit": 24.27
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.4,
+        "stop_loss": 37.99,
+        "take_profit": 19.89,
+        "market_volatility": 0.24,
+        "profit": 57.99
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.1,
+        "stop_loss": 44.04,
+        "take_profit": 35.83,
+        "market_volatility": 1.06,
+        "profit": 52.41
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.26,
+        "stop_loss": 49.72,
+        "take_profit": 13.95,
+        "market_volatility": 0.22,
+        "profit": 39.32
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.43,
+        "stop_loss": 10.91,
+        "take_profit": 38.62,
+        "market_volatility": 0.16,
+        "profit": -38.02
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.14,
+        "stop_loss": 35.57,
+        "take_profit": 16.61,
+        "market_volatility": 0.97,
+        "profit": -16.88
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.43,
+        "stop_loss": 49.75,
+        "take_profit": 36.45,
+        "market_volatility": 0.47,
+        "profit": 48.2
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.83,
+        "stop_loss": 41.76,
+        "take_profit": 32.15,
+        "market_volatility": 0.9,
+        "profit": -21.12
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.65,
+        "stop_loss": 49.0,
+        "take_profit": 49.55,
+        "market_volatility": 1.41,
+        "profit": -44.58
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.66,
+        "stop_loss": 29.99,
+        "take_profit": 46.92,
+        "market_volatility": 0.58,
+        "profit": -35.97
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.72,
+        "stop_loss": 35.85,
+        "take_profit": 10.51,
+        "market_volatility": 0.36,
+        "profit": -37.8
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.17,
+        "stop_loss": 25.71,
+        "take_profit": 23.32,
+        "market_volatility": 1.15,
+        "profit": 27.97
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.86,
+        "stop_loss": 11.55,
+        "take_profit": 20.29,
+        "market_volatility": 0.21,
+        "profit": -44.85
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.26,
+        "stop_loss": 30.58,
+        "take_profit": 25.07,
+        "market_volatility": 1.49,
+        "profit": 84.69
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.4,
+        "stop_loss": 38.2,
+        "take_profit": 19.72,
+        "market_volatility": 0.58,
+        "profit": 58.3
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.03,
+        "stop_loss": 21.21,
+        "take_profit": 14.18,
+        "market_volatility": 1.01,
+        "profit": 96.81
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.09,
+        "stop_loss": 31.62,
+        "take_profit": 19.36,
+        "market_volatility": 0.78,
+        "profit": -5.57
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.99,
+        "stop_loss": 31.69,
+        "take_profit": 41.35,
+        "market_volatility": 1.38,
+        "profit": 47.97
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.45,
+        "stop_loss": 10.15,
+        "take_profit": 11.71,
+        "market_volatility": 0.49,
+        "profit": -38.05
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.77,
+        "stop_loss": 16.25,
+        "take_profit": 27.42,
+        "market_volatility": 0.9,
+        "profit": 81.6
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.54,
+        "stop_loss": 10.39,
+        "take_profit": 31.9,
+        "market_volatility": 0.44,
+        "profit": 10.9
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.86,
+        "stop_loss": 44.39,
+        "take_profit": 32.0,
+        "market_volatility": 0.32,
+        "profit": 52.72
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.86,
+        "stop_loss": 32.44,
+        "take_profit": 23.29,
+        "market_volatility": 1.14,
+        "profit": -6.27
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.17,
+        "stop_loss": 24.72,
+        "take_profit": 20.29,
+        "market_volatility": 0.69,
+        "profit": 33.12
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.23,
+        "stop_loss": 20.83,
+        "take_profit": 31.79,
+        "market_volatility": 0.62,
+        "profit": 40.25
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.77,
+        "stop_loss": 30.27,
+        "take_profit": 30.09,
+        "market_volatility": 0.42,
+        "profit": 55.62
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.71,
+        "stop_loss": 15.12,
+        "take_profit": 28.32,
+        "market_volatility": 0.95,
+        "profit": 29.91
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.68,
+        "stop_loss": 49.36,
+        "take_profit": 37.12,
+        "market_volatility": 0.41,
+        "profit": -15.3
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.07,
+        "stop_loss": 37.94,
+        "take_profit": 30.52,
+        "market_volatility": 0.8,
+        "profit": 80.99
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.24,
+        "stop_loss": 24.04,
+        "take_profit": 49.14,
+        "market_volatility": 0.22,
+        "profit": -26.6
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.65,
+        "stop_loss": 29.85,
+        "take_profit": 37.63,
+        "market_volatility": 0.91,
+        "profit": 94.65
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.1,
+        "stop_loss": 49.02,
+        "take_profit": 16.91,
+        "market_volatility": 1.3,
+        "profit": 79.44
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.51,
+        "stop_loss": 42.81,
+        "take_profit": 18.91,
+        "market_volatility": 0.11,
+        "profit": 73.38
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.39,
+        "stop_loss": 18.15,
+        "take_profit": 33.85,
+        "market_volatility": 0.97,
+        "profit": 90.92
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.78,
+        "stop_loss": 49.35,
+        "take_profit": 43.66,
+        "market_volatility": 1.15,
+        "profit": 14.3
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.25,
+        "stop_loss": 43.61,
+        "take_profit": 20.05,
+        "market_volatility": 0.92,
+        "profit": -47.46
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.49,
+        "stop_loss": 49.59,
+        "take_profit": 35.24,
+        "market_volatility": 0.11,
+        "profit": -25.75
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.64,
+        "stop_loss": 23.23,
+        "take_profit": 16.12,
+        "market_volatility": 0.74,
+        "profit": 64.01
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.82,
+        "stop_loss": 15.36,
+        "take_profit": 10.44,
+        "market_volatility": 0.95,
+        "profit": -38.59
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.25,
+        "stop_loss": 11.28,
+        "take_profit": 14.82,
+        "market_volatility": 0.64,
+        "profit": 82.47
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.97,
+        "stop_loss": 36.81,
+        "take_profit": 16.63,
+        "market_volatility": 0.6,
+        "profit": 63.15
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.35,
+        "stop_loss": 39.81,
+        "take_profit": 27.11,
+        "market_volatility": 0.29,
+        "profit": 14.11
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.6,
+        "stop_loss": 24.85,
+        "take_profit": 22.57,
+        "market_volatility": 0.47,
+        "profit": -4.01
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.75,
+        "stop_loss": 39.24,
+        "take_profit": 15.14,
+        "market_volatility": 0.27,
+        "profit": 72.38
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.48,
+        "stop_loss": 37.76,
+        "take_profit": 42.21,
+        "market_volatility": 0.99,
+        "profit": -47.33
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.48,
+        "stop_loss": 25.84,
+        "take_profit": 20.79,
+        "market_volatility": 0.63,
+        "profit": -32.35
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.13,
+        "stop_loss": 34.08,
+        "take_profit": 38.75,
+        "market_volatility": 1.41,
+        "profit": -39.29
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.34,
+        "stop_loss": 30.86,
+        "take_profit": 49.22,
+        "market_volatility": 1.03,
+        "profit": 56.97
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.94,
+        "stop_loss": 44.69,
+        "take_profit": 34.31,
+        "market_volatility": 1.21,
+        "profit": 98.77
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.84,
+        "stop_loss": 38.35,
+        "take_profit": 13.96,
+        "market_volatility": 0.72,
+        "profit": -10.64
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.31,
+        "stop_loss": 20.84,
+        "take_profit": 34.48,
+        "market_volatility": 0.2,
+        "profit": 23.03
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.28,
+        "stop_loss": 42.07,
+        "take_profit": 19.96,
+        "market_volatility": 0.58,
+        "profit": -13.99
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.9,
+        "stop_loss": 44.1,
+        "take_profit": 38.06,
+        "market_volatility": 0.43,
+        "profit": 35.21
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.96,
+        "stop_loss": 36.62,
+        "take_profit": 28.49,
+        "market_volatility": 1.01,
+        "profit": 28.08
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.27,
+        "stop_loss": 43.84,
+        "take_profit": 49.02,
+        "market_volatility": 0.48,
+        "profit": 50.8
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.32,
+        "stop_loss": 35.82,
+        "take_profit": 44.04,
+        "market_volatility": 1.28,
+        "profit": 16.32
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.85,
+        "stop_loss": 41.75,
+        "take_profit": 48.81,
+        "market_volatility": 0.91,
+        "profit": 49.22
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.32,
+        "stop_loss": 16.22,
+        "take_profit": 39.04,
+        "market_volatility": 0.55,
+        "profit": 28.17
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.74,
+        "stop_loss": 14.07,
+        "take_profit": 37.23,
+        "market_volatility": 0.96,
+        "profit": 46.36
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.14,
+        "stop_loss": 37.81,
+        "take_profit": 33.47,
+        "market_volatility": 0.12,
+        "profit": -25.14
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.11,
+        "stop_loss": 30.65,
+        "take_profit": 42.56,
+        "market_volatility": 1.27,
+        "profit": -38.72
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.52,
+        "stop_loss": 19.51,
+        "take_profit": 22.19,
+        "market_volatility": 0.5,
+        "profit": -16.46
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.53,
+        "stop_loss": 26.66,
+        "take_profit": 31.78,
+        "market_volatility": 1.02,
+        "profit": 47.67
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.3,
+        "stop_loss": 31.64,
+        "take_profit": 37.55,
+        "market_volatility": 0.38,
+        "profit": -42.32
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.09,
+        "stop_loss": 39.41,
+        "take_profit": 25.78,
+        "market_volatility": 1.32,
+        "profit": 77.77
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.62,
+        "stop_loss": 26.03,
+        "take_profit": 23.72,
+        "market_volatility": 0.86,
+        "profit": 67.95
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.11,
+        "stop_loss": 14.87,
+        "take_profit": 48.2,
+        "market_volatility": 0.72,
+        "profit": -21.7
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.82,
+        "stop_loss": 30.16,
+        "take_profit": 48.37,
+        "market_volatility": 0.24,
+        "profit": -29.88
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.39,
+        "stop_loss": 45.98,
+        "take_profit": 36.82,
+        "market_volatility": 1.33,
+        "profit": -8.82
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.28,
+        "stop_loss": 27.47,
+        "take_profit": 48.19,
+        "market_volatility": 0.97,
+        "profit": 72.3
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.21,
+        "stop_loss": 39.03,
+        "take_profit": 20.05,
+        "market_volatility": 1.19,
+        "profit": 39.91
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.18,
+        "stop_loss": 13.5,
+        "take_profit": 20.4,
+        "market_volatility": 0.19,
+        "profit": -42.54
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.43,
+        "stop_loss": 39.48,
+        "take_profit": 17.72,
+        "market_volatility": 1.37,
+        "profit": -36.55
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.7,
+        "stop_loss": 19.29,
+        "take_profit": 20.89,
+        "market_volatility": 0.95,
+        "profit": 73.22
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.69,
+        "stop_loss": 25.05,
+        "take_profit": 36.58,
+        "market_volatility": 0.47,
+        "profit": 43.55
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.93,
+        "stop_loss": 36.14,
+        "take_profit": 32.66,
+        "market_volatility": 1.42,
+        "profit": 81.51
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.73,
+        "stop_loss": 27.32,
+        "take_profit": 10.94,
+        "market_volatility": 0.91,
+        "profit": 80.74
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.84,
+        "stop_loss": 20.21,
+        "take_profit": 34.79,
+        "market_volatility": 1.42,
+        "profit": 19.51
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.57,
+        "stop_loss": 19.76,
+        "take_profit": 48.62,
+        "market_volatility": 1.13,
+        "profit": 0.42
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.02,
+        "stop_loss": 46.86,
+        "take_profit": 37.51,
+        "market_volatility": 0.29,
+        "profit": 25.85
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.75,
+        "stop_loss": 40.02,
+        "take_profit": 29.59,
+        "market_volatility": 1.18,
+        "profit": -4.57
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.1,
+        "stop_loss": 22.36,
+        "take_profit": 44.53,
+        "market_volatility": 1.19,
+        "profit": -2.86
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.88,
+        "stop_loss": 32.86,
+        "take_profit": 10.36,
+        "market_volatility": 0.7,
+        "profit": 98.38
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.42,
+        "stop_loss": 44.71,
+        "take_profit": 44.37,
+        "market_volatility": 1.44,
+        "profit": -17.22
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.19,
+        "stop_loss": 36.64,
+        "take_profit": 19.06,
+        "market_volatility": 1.05,
+        "profit": 84.86
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.33,
+        "stop_loss": 41.5,
+        "take_profit": 43.7,
+        "market_volatility": 0.4,
+        "profit": 32.02
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.25,
+        "stop_loss": 11.98,
+        "take_profit": 36.28,
+        "market_volatility": 0.68,
+        "profit": -27.01
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.57,
+        "stop_loss": 19.65,
+        "take_profit": 48.81,
+        "market_volatility": 0.96,
+        "profit": 8.43
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.33,
+        "stop_loss": 25.14,
+        "take_profit": 45.38,
+        "market_volatility": 0.32,
+        "profit": -19.91
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.5,
+        "stop_loss": 43.58,
+        "take_profit": 31.91,
+        "market_volatility": 0.42,
+        "profit": -35.92
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.86,
+        "stop_loss": 27.93,
+        "take_profit": 45.0,
+        "market_volatility": 0.73,
+        "profit": -24.58
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.19,
+        "stop_loss": 25.42,
+        "take_profit": 35.17,
+        "market_volatility": 0.11,
+        "profit": -2.41
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.04,
+        "stop_loss": 27.4,
+        "take_profit": 47.83,
+        "market_volatility": 0.21,
+        "profit": 96.32
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.46,
+        "stop_loss": 44.11,
+        "take_profit": 17.93,
+        "market_volatility": 0.79,
+        "profit": 64.88
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.48,
+        "stop_loss": 35.04,
+        "take_profit": 39.85,
+        "market_volatility": 1.45,
+        "profit": 55.34
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.84,
+        "stop_loss": 43.81,
+        "take_profit": 46.86,
+        "market_volatility": 1.13,
+        "profit": -36.07
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.76,
+        "stop_loss": 49.28,
+        "take_profit": 27.9,
+        "market_volatility": 1.41,
+        "profit": -28.92
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.21,
+        "stop_loss": 16.85,
+        "take_profit": 15.5,
+        "market_volatility": 1.05,
+        "profit": -21.82
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.42,
+        "stop_loss": 12.6,
+        "take_profit": 17.68,
+        "market_volatility": 0.71,
+        "profit": -42.07
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.15,
+        "stop_loss": 46.4,
+        "take_profit": 13.32,
+        "market_volatility": 0.41,
+        "profit": -32.28
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.82,
+        "stop_loss": 13.27,
+        "take_profit": 23.4,
+        "market_volatility": 0.85,
+        "profit": 23.4
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.37,
+        "stop_loss": 41.21,
+        "take_profit": 41.2,
+        "market_volatility": 0.62,
+        "profit": 56.19
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.62,
+        "stop_loss": 31.14,
+        "take_profit": 36.06,
+        "market_volatility": 0.61,
+        "profit": 37.98
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.39,
+        "stop_loss": 27.43,
+        "take_profit": 26.78,
+        "market_volatility": 1.29,
+        "profit": -43.13
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.44,
+        "stop_loss": 38.16,
+        "take_profit": 46.04,
+        "market_volatility": 1.08,
+        "profit": 57.26
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.72,
+        "stop_loss": 34.78,
+        "take_profit": 16.03,
+        "market_volatility": 0.12,
+        "profit": 38.12
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.83,
+        "stop_loss": 13.2,
+        "take_profit": 23.95,
+        "market_volatility": 0.86,
+        "profit": -31.38
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.79,
+        "stop_loss": 23.06,
+        "take_profit": 15.11,
+        "market_volatility": 0.3,
+        "profit": 94.79
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.87,
+        "stop_loss": 23.94,
+        "take_profit": 47.44,
+        "market_volatility": 0.55,
+        "profit": 59.65
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.42,
+        "stop_loss": 38.16,
+        "take_profit": 19.31,
+        "market_volatility": 0.14,
+        "profit": -0.05
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.98,
+        "stop_loss": 45.75,
+        "take_profit": 31.43,
+        "market_volatility": 1.43,
+        "profit": -6.09
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.83,
+        "stop_loss": 10.07,
+        "take_profit": 20.1,
+        "market_volatility": 0.51,
+        "profit": 61.77
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.77,
+        "stop_loss": 32.22,
+        "take_profit": 12.27,
+        "market_volatility": 1.34,
+        "profit": -34.47
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.24,
+        "stop_loss": 14.58,
+        "take_profit": 15.84,
+        "market_volatility": 0.39,
+        "profit": 91.93
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.29,
+        "stop_loss": 19.77,
+        "take_profit": 47.97,
+        "market_volatility": 1.37,
+        "profit": 46.81
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.53,
+        "stop_loss": 24.35,
+        "take_profit": 24.11,
+        "market_volatility": 0.75,
+        "profit": 87.41
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.1,
+        "stop_loss": 13.54,
+        "take_profit": 12.53,
+        "market_volatility": 0.42,
+        "profit": -4.49
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.87,
+        "stop_loss": 27.43,
+        "take_profit": 11.58,
+        "market_volatility": 0.87,
+        "profit": 70.43
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.03,
+        "stop_loss": 42.24,
+        "take_profit": 20.6,
+        "market_volatility": 1.03,
+        "profit": 91.23
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.77,
+        "stop_loss": 39.73,
+        "take_profit": 14.79,
+        "market_volatility": 1.49,
+        "profit": 64.17
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.42,
+        "stop_loss": 35.26,
+        "take_profit": 20.69,
+        "market_volatility": 1.06,
+        "profit": -28.45
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.59,
+        "stop_loss": 35.65,
+        "take_profit": 21.78,
+        "market_volatility": 1.28,
+        "profit": -47.65
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.08,
+        "stop_loss": 27.68,
+        "take_profit": 18.28,
+        "market_volatility": 1.28,
+        "profit": 77.12
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.5,
+        "stop_loss": 15.43,
+        "take_profit": 31.24,
+        "market_volatility": 0.56,
+        "profit": -10.97
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.59,
+        "stop_loss": 19.62,
+        "take_profit": 43.34,
+        "market_volatility": 1.26,
+        "profit": 73.85
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.79,
+        "stop_loss": 28.65,
+        "take_profit": 48.64,
+        "market_volatility": 0.61,
+        "profit": 29.91
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.57,
+        "stop_loss": 49.54,
+        "take_profit": 26.93,
+        "market_volatility": 0.59,
+        "profit": 91.89
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.97,
+        "stop_loss": 45.9,
+        "take_profit": 25.14,
+        "market_volatility": 0.23,
+        "profit": -22.68
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.35,
+        "stop_loss": 21.04,
+        "take_profit": 20.61,
+        "market_volatility": 1.04,
+        "profit": -35.25
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.45,
+        "stop_loss": 34.71,
+        "take_profit": 11.72,
+        "market_volatility": 0.35,
+        "profit": 22.27
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.58,
+        "stop_loss": 40.42,
+        "take_profit": 23.79,
+        "market_volatility": 0.53,
+        "profit": 12.36
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.35,
+        "stop_loss": 49.13,
+        "take_profit": 40.33,
+        "market_volatility": 0.61,
+        "profit": 65.98
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.1,
+        "stop_loss": 35.87,
+        "take_profit": 44.33,
+        "market_volatility": 0.32,
+        "profit": -37.59
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.69,
+        "stop_loss": 47.54,
+        "take_profit": 40.1,
+        "market_volatility": 0.68,
+        "profit": -37.42
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.49,
+        "stop_loss": 29.48,
+        "take_profit": 36.83,
+        "market_volatility": 0.91,
+        "profit": 56.05
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.12,
+        "stop_loss": 31.31,
+        "take_profit": 20.61,
+        "market_volatility": 0.52,
+        "profit": 49.38
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.44,
+        "stop_loss": 15.2,
+        "take_profit": 14.66,
+        "market_volatility": 0.86,
+        "profit": 73.73
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.18,
+        "stop_loss": 24.99,
+        "take_profit": 26.35,
+        "market_volatility": 1.19,
+        "profit": -24.93
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.73,
+        "stop_loss": 27.63,
+        "take_profit": 13.12,
+        "market_volatility": 0.88,
+        "profit": -44.79
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.52,
+        "stop_loss": 25.83,
+        "take_profit": 46.17,
+        "market_volatility": 0.38,
+        "profit": -41.56
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.79,
+        "stop_loss": 17.31,
+        "take_profit": 17.47,
+        "market_volatility": 0.57,
+        "profit": 31.64
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.2,
+        "stop_loss": 25.41,
+        "take_profit": 32.04,
+        "market_volatility": 0.91,
+        "profit": -27.35
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.77,
+        "stop_loss": 29.44,
+        "take_profit": 43.01,
+        "market_volatility": 0.57,
+        "profit": -41.69
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.37,
+        "stop_loss": 17.93,
+        "take_profit": 37.3,
+        "market_volatility": 0.64,
+        "profit": -34.7
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.11,
+        "stop_loss": 31.33,
+        "take_profit": 11.27,
+        "market_volatility": 0.99,
+        "profit": -9.5
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.75,
+        "stop_loss": 25.24,
+        "take_profit": 30.07,
+        "market_volatility": 1.28,
+        "profit": 21.19
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.74,
+        "stop_loss": 33.51,
+        "take_profit": 18.22,
+        "market_volatility": 0.92,
+        "profit": -26.14
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.74,
+        "stop_loss": 37.71,
+        "take_profit": 36.15,
+        "market_volatility": 0.69,
+        "profit": -47.25
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.24,
+        "stop_loss": 13.12,
+        "take_profit": 47.23,
+        "market_volatility": 0.78,
+        "profit": -14.14
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.23,
+        "stop_loss": 10.02,
+        "take_profit": 26.47,
+        "market_volatility": 0.4,
+        "profit": 40.95
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.06,
+        "stop_loss": 26.7,
+        "take_profit": 41.06,
+        "market_volatility": 1.21,
+        "profit": 41.63
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.56,
+        "stop_loss": 15.65,
+        "take_profit": 33.42,
+        "market_volatility": 0.18,
+        "profit": 82.97
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.43,
+        "stop_loss": 35.11,
+        "take_profit": 34.38,
+        "market_volatility": 0.33,
+        "profit": -38.39
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.64,
+        "stop_loss": 40.93,
+        "take_profit": 28.12,
+        "market_volatility": 0.94,
+        "profit": -16.13
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.65,
+        "stop_loss": 31.24,
+        "take_profit": 49.9,
+        "market_volatility": 1.35,
+        "profit": -13.48
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.47,
+        "stop_loss": 28.2,
+        "take_profit": 27.78,
+        "market_volatility": 1.32,
+        "profit": 50.0
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.08,
+        "stop_loss": 17.29,
+        "take_profit": 38.97,
+        "market_volatility": 0.62,
+        "profit": 79.69
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.55,
+        "stop_loss": 29.18,
+        "take_profit": 34.58,
+        "market_volatility": 0.24,
+        "profit": -33.99
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.17,
+        "stop_loss": 49.06,
+        "take_profit": 21.61,
+        "market_volatility": 1.06,
+        "profit": 32.17
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.14,
+        "stop_loss": 31.52,
+        "take_profit": 25.65,
+        "market_volatility": 0.42,
+        "profit": 53.99
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.14,
+        "stop_loss": 20.89,
+        "take_profit": 18.01,
+        "market_volatility": 1.27,
+        "profit": -3.81
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.83,
+        "stop_loss": 32.32,
+        "take_profit": 29.56,
+        "market_volatility": 0.32,
+        "profit": 34.61
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.11,
+        "stop_loss": 33.77,
+        "take_profit": 36.52,
+        "market_volatility": 1.14,
+        "profit": -16.61
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.55,
+        "stop_loss": 13.27,
+        "take_profit": 23.52,
+        "market_volatility": 1.45,
+        "profit": 78.83
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.28,
+        "stop_loss": 35.87,
+        "take_profit": 38.58,
+        "market_volatility": 0.91,
+        "profit": 42.29
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.34,
+        "stop_loss": 28.66,
+        "take_profit": 32.01,
+        "market_volatility": 1.16,
+        "profit": -23.53
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.02,
+        "stop_loss": 25.52,
+        "take_profit": 30.77,
+        "market_volatility": 1.31,
+        "profit": 7.54
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.66,
+        "stop_loss": 43.37,
+        "take_profit": 40.53,
+        "market_volatility": 0.53,
+        "profit": 8.82
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.61,
+        "stop_loss": 49.96,
+        "take_profit": 38.87,
+        "market_volatility": 0.42,
+        "profit": 80.99
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.58,
+        "stop_loss": 11.12,
+        "take_profit": 22.92,
+        "market_volatility": 1.46,
+        "profit": 3.07
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.18,
+        "stop_loss": 46.41,
+        "take_profit": 25.11,
+        "market_volatility": 1.25,
+        "profit": 83.97
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.19,
+        "stop_loss": 41.66,
+        "take_profit": 40.22,
+        "market_volatility": 1.0,
+        "profit": 2.11
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.81,
+        "stop_loss": 44.19,
+        "take_profit": 20.42,
+        "market_volatility": 0.52,
+        "profit": 23.44
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.7,
+        "stop_loss": 13.83,
+        "take_profit": 49.54,
+        "market_volatility": 1.22,
+        "profit": 32.49
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.71,
+        "stop_loss": 38.43,
+        "take_profit": 41.59,
+        "market_volatility": 0.61,
+        "profit": 71.29
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.44,
+        "stop_loss": 29.49,
+        "take_profit": 47.5,
+        "market_volatility": 1.32,
+        "profit": 91.84
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.02,
+        "stop_loss": 21.22,
+        "take_profit": 30.36,
+        "market_volatility": 1.22,
+        "profit": 21.39
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.48,
+        "stop_loss": 16.45,
+        "take_profit": 45.74,
+        "market_volatility": 1.01,
+        "profit": 41.44
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.12,
+        "stop_loss": 47.96,
+        "take_profit": 49.3,
+        "market_volatility": 0.17,
+        "profit": 2.44
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.95,
+        "stop_loss": 11.71,
+        "take_profit": 11.79,
+        "market_volatility": 1.44,
+        "profit": 89.89
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.02,
+        "stop_loss": 49.17,
+        "take_profit": 21.88,
+        "market_volatility": 0.41,
+        "profit": 62.85
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.18,
+        "stop_loss": 41.83,
+        "take_profit": 34.06,
+        "market_volatility": 1.14,
+        "profit": 23.34
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.82,
+        "stop_loss": 48.46,
+        "take_profit": 18.83,
+        "market_volatility": 1.36,
+        "profit": -1.19
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.85,
+        "stop_loss": 23.41,
+        "take_profit": 37.52,
+        "market_volatility": 1.05,
+        "profit": 75.25
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.51,
+        "stop_loss": 17.23,
+        "take_profit": 30.04,
+        "market_volatility": 0.84,
+        "profit": -24.08
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.69,
+        "stop_loss": 13.72,
+        "take_profit": 23.02,
+        "market_volatility": 1.31,
+        "profit": 69.07
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.77,
+        "stop_loss": 38.97,
+        "take_profit": 33.48,
+        "market_volatility": 1.11,
+        "profit": 54.27
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.79,
+        "stop_loss": 49.04,
+        "take_profit": 19.94,
+        "market_volatility": 0.52,
+        "profit": 2.99
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.41,
+        "stop_loss": 39.31,
+        "take_profit": 37.14,
+        "market_volatility": 1.03,
+        "profit": -46.3
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.84,
+        "stop_loss": 33.78,
+        "take_profit": 18.07,
+        "market_volatility": 0.53,
+        "profit": 5.63
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.16,
+        "stop_loss": 39.94,
+        "take_profit": 35.37,
+        "market_volatility": 0.22,
+        "profit": 3.2
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.48,
+        "stop_loss": 39.52,
+        "take_profit": 21.91,
+        "market_volatility": 1.03,
+        "profit": 40.15
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.37,
+        "stop_loss": 48.56,
+        "take_profit": 20.27,
+        "market_volatility": 1.36,
+        "profit": 43.94
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.37,
+        "stop_loss": 13.62,
+        "take_profit": 16.21,
+        "market_volatility": 0.57,
+        "profit": 94.73
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.81,
+        "stop_loss": 19.88,
+        "take_profit": 39.93,
+        "market_volatility": 1.4,
+        "profit": 37.47
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.69,
+        "stop_loss": 15.55,
+        "take_profit": 15.0,
+        "market_volatility": 1.47,
+        "profit": -25.32
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.05,
+        "stop_loss": 37.82,
+        "take_profit": 47.97,
+        "market_volatility": 0.41,
+        "profit": -21.19
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.79,
+        "stop_loss": 12.47,
+        "take_profit": 12.13,
+        "market_volatility": 1.14,
+        "profit": -6.85
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.95,
+        "stop_loss": 37.57,
+        "take_profit": 39.56,
+        "market_volatility": 1.09,
+        "profit": 39.96
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.69,
+        "stop_loss": 27.22,
+        "take_profit": 10.43,
+        "market_volatility": 1.12,
+        "profit": 31.1
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.12,
+        "stop_loss": 16.12,
+        "take_profit": 35.52,
+        "market_volatility": 1.03,
+        "profit": -35.32
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.2,
+        "stop_loss": 20.11,
+        "take_profit": 21.96,
+        "market_volatility": 0.33,
+        "profit": 2.77
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.61,
+        "stop_loss": 36.09,
+        "take_profit": 40.58,
+        "market_volatility": 0.12,
+        "profit": -19.2
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.76,
+        "stop_loss": 26.29,
+        "take_profit": 17.14,
+        "market_volatility": 0.17,
+        "profit": -32.89
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.02,
+        "stop_loss": 42.56,
+        "take_profit": 34.61,
+        "market_volatility": 1.45,
+        "profit": 8.48
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.66,
+        "stop_loss": 20.05,
+        "take_profit": 30.48,
+        "market_volatility": 1.36,
+        "profit": -21.43
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.44,
+        "stop_loss": 22.74,
+        "take_profit": 42.68,
+        "market_volatility": 0.33,
+        "profit": 32.3
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.32,
+        "stop_loss": 31.94,
+        "take_profit": 34.99,
+        "market_volatility": 1.42,
+        "profit": 61.68
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.73,
+        "stop_loss": 23.26,
+        "take_profit": 45.95,
+        "market_volatility": 0.1,
+        "profit": 80.82
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.17,
+        "stop_loss": 20.04,
+        "take_profit": 37.46,
+        "market_volatility": 1.07,
+        "profit": 15.81
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.12,
+        "stop_loss": 33.72,
+        "take_profit": 45.02,
+        "market_volatility": 0.42,
+        "profit": -35.49
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.11,
+        "stop_loss": 23.84,
+        "take_profit": 29.16,
+        "market_volatility": 0.24,
+        "profit": -49.59
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.81,
+        "stop_loss": 20.97,
+        "take_profit": 39.88,
+        "market_volatility": 0.25,
+        "profit": 27.55
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.57,
+        "stop_loss": 23.67,
+        "take_profit": 40.98,
+        "market_volatility": 1.23,
+        "profit": 25.57
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.77,
+        "stop_loss": 45.08,
+        "take_profit": 42.59,
+        "market_volatility": 1.32,
+        "profit": 5.54
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.4,
+        "stop_loss": 31.85,
+        "take_profit": 49.5,
+        "market_volatility": 1.1,
+        "profit": 14.43
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.68,
+        "stop_loss": 35.01,
+        "take_profit": 12.32,
+        "market_volatility": 0.78,
+        "profit": -13.15
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.27,
+        "stop_loss": 26.87,
+        "take_profit": 35.63,
+        "market_volatility": 0.91,
+        "profit": 12.47
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.95,
+        "stop_loss": 46.13,
+        "take_profit": 34.94,
+        "market_volatility": 0.66,
+        "profit": 43.84
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.89,
+        "stop_loss": 31.63,
+        "take_profit": 14.13,
+        "market_volatility": 0.49,
+        "profit": 16.86
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.62,
+        "stop_loss": 38.55,
+        "take_profit": 43.75,
+        "market_volatility": 0.19,
+        "profit": 74.34
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.69,
+        "stop_loss": 47.08,
+        "take_profit": 41.99,
+        "market_volatility": 0.33,
+        "profit": -39.38
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.43,
+        "stop_loss": 28.01,
+        "take_profit": 24.62,
+        "market_volatility": 1.25,
+        "profit": 59.55
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.2,
+        "stop_loss": 26.31,
+        "take_profit": 31.62,
+        "market_volatility": 0.55,
+        "profit": 28.14
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.45,
+        "stop_loss": 27.48,
+        "take_profit": 19.97,
+        "market_volatility": 1.04,
+        "profit": 34.48
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.28,
+        "stop_loss": 23.07,
+        "take_profit": 38.57,
+        "market_volatility": 0.27,
+        "profit": 53.06
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.05,
+        "stop_loss": 46.24,
+        "take_profit": 15.18,
+        "market_volatility": 0.82,
+        "profit": 80.79
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.49,
+        "stop_loss": 14.22,
+        "take_profit": 48.56,
+        "market_volatility": 1.22,
+        "profit": -35.42
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.01,
+        "stop_loss": 32.96,
+        "take_profit": 26.3,
+        "market_volatility": 1.48,
+        "profit": 11.62
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.3,
+        "stop_loss": 25.33,
+        "take_profit": 23.61,
+        "market_volatility": 0.36,
+        "profit": 64.0
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.0,
+        "stop_loss": 29.67,
+        "take_profit": 44.42,
+        "market_volatility": 0.68,
+        "profit": 8.13
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.56,
+        "stop_loss": 29.34,
+        "take_profit": 49.67,
+        "market_volatility": 1.49,
+        "profit": -5.27
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.3,
+        "stop_loss": 39.33,
+        "take_profit": 44.27,
+        "market_volatility": 1.16,
+        "profit": 62.24
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.23,
+        "stop_loss": 12.42,
+        "take_profit": 26.68,
+        "market_volatility": 0.79,
+        "profit": -21.97
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.9,
+        "stop_loss": 24.82,
+        "take_profit": 10.87,
+        "market_volatility": 0.4,
+        "profit": -20.21
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.09,
+        "stop_loss": 28.36,
+        "take_profit": 36.94,
+        "market_volatility": 0.89,
+        "profit": 98.2
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.71,
+        "stop_loss": 40.16,
+        "take_profit": 43.04,
+        "market_volatility": 0.17,
+        "profit": 83.12
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.4,
+        "stop_loss": 47.45,
+        "take_profit": 34.74,
+        "market_volatility": 0.35,
+        "profit": 59.09
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.73,
+        "stop_loss": 15.06,
+        "take_profit": 38.81,
+        "market_volatility": 0.2,
+        "profit": -42.23
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.15,
+        "stop_loss": 25.61,
+        "take_profit": 13.3,
+        "market_volatility": 0.29,
+        "profit": 72.38
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.12,
+        "stop_loss": 11.7,
+        "take_profit": 42.65,
+        "market_volatility": 1.25,
+        "profit": 23.89
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.37,
+        "stop_loss": 31.98,
+        "take_profit": 43.32,
+        "market_volatility": 0.17,
+        "profit": 50.7
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.0,
+        "stop_loss": 13.48,
+        "take_profit": 47.67,
+        "market_volatility": 0.47,
+        "profit": -20.51
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.57,
+        "stop_loss": 12.78,
+        "take_profit": 24.4,
+        "market_volatility": 0.34,
+        "profit": 56.41
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.79,
+        "stop_loss": 32.97,
+        "take_profit": 21.56,
+        "market_volatility": 0.83,
+        "profit": -37.94
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.6,
+        "stop_loss": 44.5,
+        "take_profit": 13.42,
+        "market_volatility": 0.61,
+        "profit": 77.09
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.75,
+        "stop_loss": 47.93,
+        "take_profit": 21.76,
+        "market_volatility": 1.07,
+        "profit": -12.62
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.89,
+        "stop_loss": 24.65,
+        "take_profit": 34.31,
+        "market_volatility": 1.17,
+        "profit": 48.94
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.44,
+        "stop_loss": 38.32,
+        "take_profit": 34.56,
+        "market_volatility": 0.31,
+        "profit": 22.46
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.1,
+        "stop_loss": 19.34,
+        "take_profit": 34.54,
+        "market_volatility": 0.39,
+        "profit": -10.0
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.22,
+        "stop_loss": 44.77,
+        "take_profit": 47.28,
+        "market_volatility": 0.55,
+        "profit": -38.29
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.22,
+        "stop_loss": 33.99,
+        "take_profit": 15.97,
+        "market_volatility": 0.9,
+        "profit": 78.93
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.22,
+        "stop_loss": 37.69,
+        "take_profit": 14.44,
+        "market_volatility": 0.34,
+        "profit": 77.96
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.98,
+        "stop_loss": 38.41,
+        "take_profit": 11.73,
+        "market_volatility": 0.97,
+        "profit": -35.07
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.22,
+        "stop_loss": 24.37,
+        "take_profit": 19.31,
+        "market_volatility": 1.06,
+        "profit": -33.91
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.84,
+        "stop_loss": 10.66,
+        "take_profit": 39.65,
+        "market_volatility": 0.38,
+        "profit": 71.14
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.08,
+        "stop_loss": 41.3,
+        "take_profit": 34.0,
+        "market_volatility": 1.35,
+        "profit": 3.18
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.01,
+        "stop_loss": 46.8,
+        "take_profit": 22.78,
+        "market_volatility": 0.36,
+        "profit": -6.45
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.7,
+        "stop_loss": 22.67,
+        "take_profit": 46.05,
+        "market_volatility": 0.47,
+        "profit": -31.86
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.7,
+        "stop_loss": 24.77,
+        "take_profit": 19.11,
+        "market_volatility": 1.0,
+        "profit": 65.79
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.22,
+        "stop_loss": 27.81,
+        "take_profit": 15.12,
+        "market_volatility": 0.6,
+        "profit": 88.35
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.91,
+        "stop_loss": 31.04,
+        "take_profit": 26.62,
+        "market_volatility": 1.37,
+        "profit": 60.28
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.48,
+        "stop_loss": 36.55,
+        "take_profit": 18.94,
+        "market_volatility": 0.65,
+        "profit": -2.68
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.91,
+        "stop_loss": 21.44,
+        "take_profit": 14.66,
+        "market_volatility": 0.14,
+        "profit": 56.63
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.86,
+        "stop_loss": 27.72,
+        "take_profit": 24.54,
+        "market_volatility": 0.7,
+        "profit": 84.55
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.22,
+        "stop_loss": 46.7,
+        "take_profit": 45.65,
+        "market_volatility": 0.12,
+        "profit": -33.77
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.77,
+        "stop_loss": 23.29,
+        "take_profit": 11.8,
+        "market_volatility": 1.26,
+        "profit": -28.19
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.14,
+        "stop_loss": 21.57,
+        "take_profit": 33.99,
+        "market_volatility": 1.32,
+        "profit": 48.74
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.88,
+        "stop_loss": 44.12,
+        "take_profit": 33.81,
+        "market_volatility": 0.23,
+        "profit": 91.22
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.43,
+        "stop_loss": 15.13,
+        "take_profit": 22.21,
+        "market_volatility": 1.37,
+        "profit": -17.65
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.89,
+        "stop_loss": 32.74,
+        "take_profit": 27.48,
+        "market_volatility": 0.62,
+        "profit": 71.72
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.89,
+        "stop_loss": 16.42,
+        "take_profit": 32.0,
+        "market_volatility": 0.43,
+        "profit": -45.79
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.39,
+        "stop_loss": 45.9,
+        "take_profit": 39.14,
+        "market_volatility": 0.54,
+        "profit": 97.74
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.66,
+        "stop_loss": 11.84,
+        "take_profit": 24.37,
+        "market_volatility": 0.16,
+        "profit": 35.75
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.98,
+        "stop_loss": 33.46,
+        "take_profit": 47.82,
+        "market_volatility": 1.42,
+        "profit": 8.95
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.15,
+        "stop_loss": 44.0,
+        "take_profit": 45.14,
+        "market_volatility": 1.22,
+        "profit": 56.55
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.28,
+        "stop_loss": 43.28,
+        "take_profit": 17.63,
+        "market_volatility": 0.75,
+        "profit": 1.25
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.9,
+        "stop_loss": 31.45,
+        "take_profit": 45.34,
+        "market_volatility": 1.18,
+        "profit": -47.52
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.02,
+        "stop_loss": 10.93,
+        "take_profit": 32.05,
+        "market_volatility": 1.26,
+        "profit": -13.98
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.51,
+        "stop_loss": 41.49,
+        "take_profit": 17.39,
+        "market_volatility": 0.32,
+        "profit": 59.65
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.07,
+        "stop_loss": 22.41,
+        "take_profit": 17.56,
+        "market_volatility": 1.47,
+        "profit": 70.76
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.79,
+        "stop_loss": 13.8,
+        "take_profit": 33.22,
+        "market_volatility": 1.1,
+        "profit": 48.69
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.39,
+        "stop_loss": 13.05,
+        "take_profit": 40.17,
+        "market_volatility": 1.44,
+        "profit": 83.86
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.94,
+        "stop_loss": 14.86,
+        "take_profit": 21.59,
+        "market_volatility": 0.87,
+        "profit": 20.99
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.3,
+        "stop_loss": 29.95,
+        "take_profit": 39.75,
+        "market_volatility": 0.32,
+        "profit": 73.92
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.62,
+        "stop_loss": 11.43,
+        "take_profit": 27.97,
+        "market_volatility": 1.09,
+        "profit": 97.2
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.51,
+        "stop_loss": 33.29,
+        "take_profit": 16.45,
+        "market_volatility": 1.48,
+        "profit": 38.58
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.43,
+        "stop_loss": 23.49,
+        "take_profit": 47.03,
+        "market_volatility": 1.41,
+        "profit": 77.76
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.6,
+        "stop_loss": 41.72,
+        "take_profit": 17.2,
+        "market_volatility": 1.39,
+        "profit": -6.02
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.41,
+        "stop_loss": 17.58,
+        "take_profit": 47.68,
+        "market_volatility": 1.22,
+        "profit": -32.2
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.49,
+        "stop_loss": 42.46,
+        "take_profit": 20.14,
+        "market_volatility": 1.2,
+        "profit": 6.67
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.99,
+        "stop_loss": 25.7,
+        "take_profit": 36.64,
+        "market_volatility": 1.42,
+        "profit": 92.45
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.6,
+        "stop_loss": 22.53,
+        "take_profit": 47.3,
+        "market_volatility": 1.0,
+        "profit": 56.54
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.13,
+        "stop_loss": 20.04,
+        "take_profit": 10.04,
+        "market_volatility": 0.49,
+        "profit": -26.25
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.54,
+        "stop_loss": 20.61,
+        "take_profit": 41.23,
+        "market_volatility": 0.28,
+        "profit": 19.44
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.79,
+        "stop_loss": 20.2,
+        "take_profit": 33.88,
+        "market_volatility": 0.61,
+        "profit": -30.12
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.94,
+        "stop_loss": 11.79,
+        "take_profit": 11.59,
+        "market_volatility": 0.47,
+        "profit": 32.41
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.34,
+        "stop_loss": 44.1,
+        "take_profit": 26.58,
+        "market_volatility": 0.96,
+        "profit": 57.84
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.25,
+        "stop_loss": 49.09,
+        "take_profit": 40.4,
+        "market_volatility": 0.26,
+        "profit": 51.21
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.82,
+        "stop_loss": 28.96,
+        "take_profit": 39.87,
+        "market_volatility": 1.07,
+        "profit": 45.89
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.17,
+        "stop_loss": 26.91,
+        "take_profit": 10.32,
+        "market_volatility": 1.25,
+        "profit": 47.42
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.62,
+        "stop_loss": 27.29,
+        "take_profit": 49.12,
+        "market_volatility": 0.37,
+        "profit": -17.48
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.8,
+        "stop_loss": 25.15,
+        "take_profit": 12.99,
+        "market_volatility": 0.14,
+        "profit": 85.6
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.91,
+        "stop_loss": 29.97,
+        "take_profit": 46.59,
+        "market_volatility": 1.16,
+        "profit": -1.16
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.27,
+        "stop_loss": 26.11,
+        "take_profit": 38.94,
+        "market_volatility": 1.48,
+        "profit": 18.56
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.04,
+        "stop_loss": 21.84,
+        "take_profit": 47.19,
+        "market_volatility": 1.45,
+        "profit": 95.88
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.64,
+        "stop_loss": 30.34,
+        "take_profit": 49.86,
+        "market_volatility": 0.78,
+        "profit": 95.04
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.13,
+        "stop_loss": 15.06,
+        "take_profit": 47.18,
+        "market_volatility": 1.23,
+        "profit": -39.69
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.89,
+        "stop_loss": 40.37,
+        "take_profit": 18.33,
+        "market_volatility": 0.9,
+        "profit": 85.05
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.69,
+        "stop_loss": 45.2,
+        "take_profit": 45.46,
+        "market_volatility": 0.88,
+        "profit": 67.61
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.96,
+        "stop_loss": 11.32,
+        "take_profit": 49.38,
+        "market_volatility": 0.91,
+        "profit": 39.04
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.22,
+        "stop_loss": 43.27,
+        "take_profit": 41.9,
+        "market_volatility": 1.27,
+        "profit": -2.95
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.91,
+        "stop_loss": 49.05,
+        "take_profit": 24.29,
+        "market_volatility": 0.39,
+        "profit": 21.15
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.89,
+        "stop_loss": 24.57,
+        "take_profit": 37.22,
+        "market_volatility": 0.87,
+        "profit": -4.81
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.77,
+        "stop_loss": 40.43,
+        "take_profit": 37.39,
+        "market_volatility": 0.66,
+        "profit": -39.03
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.33,
+        "stop_loss": 29.95,
+        "take_profit": 16.93,
+        "market_volatility": 1.38,
+        "profit": 14.71
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.29,
+        "stop_loss": 19.81,
+        "take_profit": 43.8,
+        "market_volatility": 0.47,
+        "profit": 52.93
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.69,
+        "stop_loss": 35.9,
+        "take_profit": 43.85,
+        "market_volatility": 1.16,
+        "profit": 56.76
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.75,
+        "stop_loss": 21.57,
+        "take_profit": 23.61,
+        "market_volatility": 1.37,
+        "profit": 95.22
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.3,
+        "stop_loss": 20.31,
+        "take_profit": 26.04,
+        "market_volatility": 0.68,
+        "profit": -6.23
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.78,
+        "stop_loss": 42.24,
+        "take_profit": 26.95,
+        "market_volatility": 0.58,
+        "profit": 87.13
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.39,
+        "stop_loss": 14.17,
+        "take_profit": 37.02,
+        "market_volatility": 1.02,
+        "profit": 45.29
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.24,
+        "stop_loss": 28.46,
+        "take_profit": 42.45,
+        "market_volatility": 1.01,
+        "profit": -25.69
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.17,
+        "stop_loss": 14.78,
+        "take_profit": 37.8,
+        "market_volatility": 0.43,
+        "profit": -8.79
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.1,
+        "stop_loss": 37.86,
+        "take_profit": 10.68,
+        "market_volatility": 1.42,
+        "profit": 38.26
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.42,
+        "stop_loss": 39.42,
+        "take_profit": 15.78,
+        "market_volatility": 1.43,
+        "profit": 81.58
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.61,
+        "stop_loss": 28.35,
+        "take_profit": 42.08,
+        "market_volatility": 0.59,
+        "profit": 9.61
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.66,
+        "stop_loss": 49.13,
+        "take_profit": 45.14,
+        "market_volatility": 0.18,
+        "profit": -33.39
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.16,
+        "stop_loss": 43.33,
+        "take_profit": 10.53,
+        "market_volatility": 1.23,
+        "profit": -4.79
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.6,
+        "stop_loss": 15.82,
+        "take_profit": 41.87,
+        "market_volatility": 1.48,
+        "profit": -16.32
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.25,
+        "stop_loss": 46.98,
+        "take_profit": 34.68,
+        "market_volatility": 0.59,
+        "profit": -29.39
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.43,
+        "stop_loss": 41.71,
+        "take_profit": 26.88,
+        "market_volatility": 1.11,
+        "profit": 45.48
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.1,
+        "stop_loss": 16.14,
+        "take_profit": 46.01,
+        "market_volatility": 0.48,
+        "profit": 18.47
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.24,
+        "stop_loss": 39.31,
+        "take_profit": 47.14,
+        "market_volatility": 1.09,
+        "profit": 11.15
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.46,
+        "stop_loss": 30.8,
+        "take_profit": 20.85,
+        "market_volatility": 0.84,
+        "profit": 10.54
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.16,
+        "stop_loss": 17.64,
+        "take_profit": 32.87,
+        "market_volatility": 0.95,
+        "profit": 31.69
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.4,
+        "stop_loss": 42.87,
+        "take_profit": 27.37,
+        "market_volatility": 1.01,
+        "profit": 89.32
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.11,
+        "stop_loss": 22.28,
+        "take_profit": 40.61,
+        "market_volatility": 1.38,
+        "profit": 42.72
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.74,
+        "stop_loss": 18.76,
+        "take_profit": 19.15,
+        "market_volatility": 0.11,
+        "profit": 66.65
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.21,
+        "stop_loss": 32.42,
+        "take_profit": 20.29,
+        "market_volatility": 1.2,
+        "profit": 85.4
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.32,
+        "stop_loss": 28.51,
+        "take_profit": 48.12,
+        "market_volatility": 1.14,
+        "profit": 93.05
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.06,
+        "stop_loss": 16.41,
+        "take_profit": 45.22,
+        "market_volatility": 1.01,
+        "profit": 16.82
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.31,
+        "stop_loss": 43.75,
+        "take_profit": 44.74,
+        "market_volatility": 0.33,
+        "profit": -2.9
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.35,
+        "stop_loss": 14.77,
+        "take_profit": 17.66,
+        "market_volatility": 0.72,
+        "profit": 15.12
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.16,
+        "stop_loss": 16.76,
+        "take_profit": 18.05,
+        "market_volatility": 1.2,
+        "profit": 87.93
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.51,
+        "stop_loss": 38.53,
+        "take_profit": 25.27,
+        "market_volatility": 0.18,
+        "profit": 0.09
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.73,
+        "stop_loss": 48.08,
+        "take_profit": 43.48,
+        "market_volatility": 1.15,
+        "profit": 71.76
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.35,
+        "stop_loss": 11.3,
+        "take_profit": 10.23,
+        "market_volatility": 1.25,
+        "profit": 13.5
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.74,
+        "stop_loss": 36.96,
+        "take_profit": 37.73,
+        "market_volatility": 1.12,
+        "profit": 34.06
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.63,
+        "stop_loss": 32.11,
+        "take_profit": 20.74,
+        "market_volatility": 1.02,
+        "profit": 50.03
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.31,
+        "stop_loss": 20.43,
+        "take_profit": 48.61,
+        "market_volatility": 1.42,
+        "profit": 55.84
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.96,
+        "stop_loss": 30.65,
+        "take_profit": 24.24,
+        "market_volatility": 1.04,
+        "profit": 6.35
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.04,
+        "stop_loss": 30.2,
+        "take_profit": 19.08,
+        "market_volatility": 0.65,
+        "profit": 44.72
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.39,
+        "stop_loss": 27.22,
+        "take_profit": 37.85,
+        "market_volatility": 1.03,
+        "profit": 41.88
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.32,
+        "stop_loss": 34.19,
+        "take_profit": 43.76,
+        "market_volatility": 0.57,
+        "profit": 10.49
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.5,
+        "stop_loss": 27.53,
+        "take_profit": 15.68,
+        "market_volatility": 0.26,
+        "profit": 68.71
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.03,
+        "stop_loss": 34.91,
+        "take_profit": 20.31,
+        "market_volatility": 0.96,
+        "profit": -19.73
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.22,
+        "stop_loss": 34.64,
+        "take_profit": 37.17,
+        "market_volatility": 1.34,
+        "profit": 73.13
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.58,
+        "stop_loss": 15.15,
+        "take_profit": 22.93,
+        "market_volatility": 1.11,
+        "profit": 15.84
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.48,
+        "stop_loss": 36.26,
+        "take_profit": 19.52,
+        "market_volatility": 0.2,
+        "profit": 66.14
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.88,
+        "stop_loss": 49.74,
+        "take_profit": 34.86,
+        "market_volatility": 1.01,
+        "profit": -8.36
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.18,
+        "stop_loss": 33.25,
+        "take_profit": 45.69,
+        "market_volatility": 0.67,
+        "profit": -26.74
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.9,
+        "stop_loss": 27.94,
+        "take_profit": 20.54,
+        "market_volatility": 0.26,
+        "profit": 47.09
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.97,
+        "stop_loss": 13.08,
+        "take_profit": 27.45,
+        "market_volatility": 1.24,
+        "profit": 89.61
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.46,
+        "stop_loss": 36.85,
+        "take_profit": 29.05,
+        "market_volatility": 0.26,
+        "profit": 75.78
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.55,
+        "stop_loss": 23.35,
+        "take_profit": 12.24,
+        "market_volatility": 0.97,
+        "profit": 67.85
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.3,
+        "stop_loss": 32.04,
+        "take_profit": 37.5,
+        "market_volatility": 1.26,
+        "profit": -38.87
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.31,
+        "stop_loss": 31.71,
+        "take_profit": 39.2,
+        "market_volatility": 0.71,
+        "profit": 26.42
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.36,
+        "stop_loss": 14.34,
+        "take_profit": 28.73,
+        "market_volatility": 1.48,
+        "profit": 93.69
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.48,
+        "stop_loss": 31.38,
+        "take_profit": 43.43,
+        "market_volatility": 0.14,
+        "profit": 30.73
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.89,
+        "stop_loss": 19.38,
+        "take_profit": 36.48,
+        "market_volatility": 0.76,
+        "profit": -26.97
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.57,
+        "stop_loss": 31.47,
+        "take_profit": 40.09,
+        "market_volatility": 0.43,
+        "profit": -34.99
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.7,
+        "stop_loss": 44.87,
+        "take_profit": 14.42,
+        "market_volatility": 1.41,
+        "profit": -41.94
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.22,
+        "stop_loss": 21.74,
+        "take_profit": 48.94,
+        "market_volatility": 0.68,
+        "profit": 10.59
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.6,
+        "stop_loss": 16.07,
+        "take_profit": 21.32,
+        "market_volatility": 0.17,
+        "profit": -15.32
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.21,
+        "stop_loss": 47.86,
+        "take_profit": 21.84,
+        "market_volatility": 0.99,
+        "profit": 78.72
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.31,
+        "stop_loss": 41.6,
+        "take_profit": 44.5,
+        "market_volatility": 1.37,
+        "profit": 68.01
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.37,
+        "stop_loss": 42.21,
+        "take_profit": 47.64,
+        "market_volatility": 0.12,
+        "profit": 38.0
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.8,
+        "stop_loss": 28.54,
+        "take_profit": 47.73,
+        "market_volatility": 0.81,
+        "profit": -7.32
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.62,
+        "stop_loss": 13.19,
+        "take_profit": 19.69,
+        "market_volatility": 0.18,
+        "profit": 47.77
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.05,
+        "stop_loss": 24.53,
+        "take_profit": 46.96,
+        "market_volatility": 1.34,
+        "profit": -34.58
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.43,
+        "stop_loss": 42.3,
+        "take_profit": 10.01,
+        "market_volatility": 0.53,
+        "profit": -12.69
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.41,
+        "stop_loss": 42.62,
+        "take_profit": 23.82,
+        "market_volatility": 1.39,
+        "profit": 27.24
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.54,
+        "stop_loss": 14.97,
+        "take_profit": 20.3,
+        "market_volatility": 0.22,
+        "profit": 6.37
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.94,
+        "stop_loss": 19.08,
+        "take_profit": 18.32,
+        "market_volatility": 1.15,
+        "profit": 27.65
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.93,
+        "stop_loss": 35.78,
+        "take_profit": 25.99,
+        "market_volatility": 1.16,
+        "profit": -15.16
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.26,
+        "stop_loss": 49.44,
+        "take_profit": 29.25,
+        "market_volatility": 0.3,
+        "profit": 39.99
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.56,
+        "stop_loss": 28.61,
+        "take_profit": 37.94,
+        "market_volatility": 0.68,
+        "profit": -31.89
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.96,
+        "stop_loss": 32.96,
+        "take_profit": 12.65,
+        "market_volatility": 0.6,
+        "profit": -31.57
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.76,
+        "stop_loss": 25.59,
+        "take_profit": 27.99,
+        "market_volatility": 0.54,
+        "profit": -45.77
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.4,
+        "stop_loss": 28.56,
+        "take_profit": 42.43,
+        "market_volatility": 1.22,
+        "profit": -26.99
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.19,
+        "stop_loss": 43.76,
+        "take_profit": 23.6,
+        "market_volatility": 1.39,
+        "profit": 62.05
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.63,
+        "stop_loss": 34.46,
+        "take_profit": 33.56,
+        "market_volatility": 1.41,
+        "profit": 67.62
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.34,
+        "stop_loss": 44.67,
+        "take_profit": 29.34,
+        "market_volatility": 1.34,
+        "profit": -20.7
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.72,
+        "stop_loss": 19.61,
+        "take_profit": 47.89,
+        "market_volatility": 0.49,
+        "profit": 7.16
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.23,
+        "stop_loss": 36.15,
+        "take_profit": 19.35,
+        "market_volatility": 1.29,
+        "profit": 29.98
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.06,
+        "stop_loss": 17.15,
+        "take_profit": 18.45,
+        "market_volatility": 1.35,
+        "profit": 79.76
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.72,
+        "stop_loss": 30.62,
+        "take_profit": 16.07,
+        "market_volatility": 0.23,
+        "profit": 75.14
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.83,
+        "stop_loss": 16.9,
+        "take_profit": 43.97,
+        "market_volatility": 0.27,
+        "profit": -31.75
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.38,
+        "stop_loss": 32.08,
+        "take_profit": 35.28,
+        "market_volatility": 1.4,
+        "profit": 54.23
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.12,
+        "stop_loss": 10.62,
+        "take_profit": 46.78,
+        "market_volatility": 0.56,
+        "profit": 28.23
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.62,
+        "stop_loss": 24.93,
+        "take_profit": 10.39,
+        "market_volatility": 0.27,
+        "profit": 43.77
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.44,
+        "stop_loss": 39.68,
+        "take_profit": 11.34,
+        "market_volatility": 1.35,
+        "profit": 60.73
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.13,
+        "stop_loss": 35.4,
+        "take_profit": 40.06,
+        "market_volatility": 0.82,
+        "profit": 36.82
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.41,
+        "stop_loss": 26.03,
+        "take_profit": 24.18,
+        "market_volatility": 0.46,
+        "profit": 75.57
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.65,
+        "stop_loss": 15.3,
+        "take_profit": 23.77,
+        "market_volatility": 0.18,
+        "profit": 66.16
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.58,
+        "stop_loss": 19.38,
+        "take_profit": 46.21,
+        "market_volatility": 0.86,
+        "profit": 6.43
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.13,
+        "stop_loss": 25.2,
+        "take_profit": 24.18,
+        "market_volatility": 0.12,
+        "profit": 28.61
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.92,
+        "stop_loss": 29.96,
+        "take_profit": 20.32,
+        "market_volatility": 0.62,
+        "profit": 84.64
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.86,
+        "stop_loss": 46.59,
+        "take_profit": 48.69,
+        "market_volatility": 0.33,
+        "profit": 79.07
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.43,
+        "stop_loss": 36.6,
+        "take_profit": 31.84,
+        "market_volatility": 0.28,
+        "profit": 26.88
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.01,
+        "stop_loss": 31.27,
+        "take_profit": 29.01,
+        "market_volatility": 0.88,
+        "profit": 95.32
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.58,
+        "stop_loss": 24.51,
+        "take_profit": 17.52,
+        "market_volatility": 1.4,
+        "profit": -25.41
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.18,
+        "stop_loss": 20.27,
+        "take_profit": 31.91,
+        "market_volatility": 0.43,
+        "profit": 82.11
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.72,
+        "stop_loss": 48.82,
+        "take_profit": 46.47,
+        "market_volatility": 1.05,
+        "profit": 90.14
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.55,
+        "stop_loss": 23.25,
+        "take_profit": 49.7,
+        "market_volatility": 1.43,
+        "profit": -9.05
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.29,
+        "stop_loss": 36.4,
+        "take_profit": 37.36,
+        "market_volatility": 0.81,
+        "profit": -24.72
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.77,
+        "stop_loss": 46.7,
+        "take_profit": 37.59,
+        "market_volatility": 0.84,
+        "profit": 15.87
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.53,
+        "stop_loss": 28.83,
+        "take_profit": 47.22,
+        "market_volatility": 0.42,
+        "profit": 52.6
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.99,
+        "stop_loss": 28.52,
+        "take_profit": 42.7,
+        "market_volatility": 0.61,
+        "profit": -41.18
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.94,
+        "stop_loss": 39.77,
+        "take_profit": 25.57,
+        "market_volatility": 0.93,
+        "profit": 62.81
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.67,
+        "stop_loss": 17.54,
+        "take_profit": 21.37,
+        "market_volatility": 1.01,
+        "profit": 81.24
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.83,
+        "stop_loss": 38.66,
+        "take_profit": 38.74,
+        "market_volatility": 0.89,
+        "profit": 80.43
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.97,
+        "stop_loss": 41.66,
+        "take_profit": 21.56,
+        "market_volatility": 0.7,
+        "profit": 46.35
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.31,
+        "stop_loss": 25.54,
+        "take_profit": 27.81,
+        "market_volatility": 0.75,
+        "profit": 13.97
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.31,
+        "stop_loss": 18.52,
+        "take_profit": 12.91,
+        "market_volatility": 0.96,
+        "profit": -39.93
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.24,
+        "stop_loss": 13.22,
+        "take_profit": 35.98,
+        "market_volatility": 0.98,
+        "profit": -23.62
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.95,
+        "stop_loss": 46.69,
+        "take_profit": 39.7,
+        "market_volatility": 1.03,
+        "profit": -17.36
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.69,
+        "stop_loss": 43.57,
+        "take_profit": 43.97,
+        "market_volatility": 1.4,
+        "profit": 19.19
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.96,
+        "stop_loss": 43.07,
+        "take_profit": 15.63,
+        "market_volatility": 1.31,
+        "profit": -15.69
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.31,
+        "stop_loss": 30.98,
+        "take_profit": 31.73,
+        "market_volatility": 1.07,
+        "profit": 53.79
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.15,
+        "stop_loss": 33.78,
+        "take_profit": 13.15,
+        "market_volatility": 0.27,
+        "profit": 19.61
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.08,
+        "stop_loss": 49.85,
+        "take_profit": 35.45,
+        "market_volatility": 0.66,
+        "profit": -45.17
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.45,
+        "stop_loss": 31.71,
+        "take_profit": 29.39,
+        "market_volatility": 1.07,
+        "profit": 63.26
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.38,
+        "stop_loss": 49.05,
+        "take_profit": 12.59,
+        "market_volatility": 0.79,
+        "profit": 79.43
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.03,
+        "stop_loss": 16.28,
+        "take_profit": 10.22,
+        "market_volatility": 1.23,
+        "profit": 11.77
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.78,
+        "stop_loss": 37.69,
+        "take_profit": 18.68,
+        "market_volatility": 0.84,
+        "profit": -30.25
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.57,
+        "stop_loss": 26.94,
+        "take_profit": 37.42,
+        "market_volatility": 0.7,
+        "profit": -20.24
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.91,
+        "stop_loss": 25.65,
+        "take_profit": 39.16,
+        "market_volatility": 0.36,
+        "profit": 11.9
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.95,
+        "stop_loss": 12.67,
+        "take_profit": 34.85,
+        "market_volatility": 1.14,
+        "profit": 18.33
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.5,
+        "stop_loss": 22.34,
+        "take_profit": 27.11,
+        "market_volatility": 0.16,
+        "profit": 93.85
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.45,
+        "stop_loss": 22.84,
+        "take_profit": 25.9,
+        "market_volatility": 1.13,
+        "profit": 17.96
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.59,
+        "stop_loss": 18.23,
+        "take_profit": 29.31,
+        "market_volatility": 1.15,
+        "profit": 96.43
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.11,
+        "stop_loss": 38.2,
+        "take_profit": 12.61,
+        "market_volatility": 0.74,
+        "profit": 73.18
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.72,
+        "stop_loss": 26.36,
+        "take_profit": 14.27,
+        "market_volatility": 0.61,
+        "profit": 38.68
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.44,
+        "stop_loss": 48.28,
+        "take_profit": 15.76,
+        "market_volatility": 0.99,
+        "profit": 46.27
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.22,
+        "stop_loss": 42.23,
+        "take_profit": 19.57,
+        "market_volatility": 1.35,
+        "profit": 57.29
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.11,
+        "stop_loss": 15.69,
+        "take_profit": 33.76,
+        "market_volatility": 1.34,
+        "profit": 92.04
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.7,
+        "stop_loss": 39.01,
+        "take_profit": 36.11,
+        "market_volatility": 1.44,
+        "profit": 41.86
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.03,
+        "stop_loss": 27.97,
+        "take_profit": 24.83,
+        "market_volatility": 0.31,
+        "profit": -4.72
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.57,
+        "stop_loss": 20.68,
+        "take_profit": 49.25,
+        "market_volatility": 0.74,
+        "profit": -26.84
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.17,
+        "stop_loss": 24.18,
+        "take_profit": 22.12,
+        "market_volatility": 0.85,
+        "profit": 10.36
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.14,
+        "stop_loss": 14.03,
+        "take_profit": 45.63,
+        "market_volatility": 0.5,
+        "profit": -13.26
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.56,
+        "stop_loss": 14.43,
+        "take_profit": 24.22,
+        "market_volatility": 0.59,
+        "profit": 76.74
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.54,
+        "stop_loss": 19.94,
+        "take_profit": 14.7,
+        "market_volatility": 1.22,
+        "profit": 46.13
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.14,
+        "stop_loss": 22.76,
+        "take_profit": 46.6,
+        "market_volatility": 1.45,
+        "profit": 78.52
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.48,
+        "stop_loss": 42.8,
+        "take_profit": 27.61,
+        "market_volatility": 1.36,
+        "profit": -20.95
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.88,
+        "stop_loss": 11.16,
+        "take_profit": 11.75,
+        "market_volatility": 0.64,
+        "profit": 53.41
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.73,
+        "stop_loss": 23.88,
+        "take_profit": 37.85,
+        "market_volatility": 1.34,
+        "profit": -14.69
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.12,
+        "stop_loss": 43.31,
+        "take_profit": 27.95,
+        "market_volatility": 0.82,
+        "profit": 49.91
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.75,
+        "stop_loss": 14.87,
+        "take_profit": 38.73,
+        "market_volatility": 0.35,
+        "profit": -27.67
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.04,
+        "stop_loss": 16.21,
+        "take_profit": 28.45,
+        "market_volatility": 1.49,
+        "profit": -43.44
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.16,
+        "stop_loss": 23.44,
+        "take_profit": 31.94,
+        "market_volatility": 1.45,
+        "profit": -5.2
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.72,
+        "stop_loss": 26.43,
+        "take_profit": 10.88,
+        "market_volatility": 0.21,
+        "profit": 44.29
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.56,
+        "stop_loss": 14.29,
+        "take_profit": 16.79,
+        "market_volatility": 0.56,
+        "profit": 4.92
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.37,
+        "stop_loss": 32.72,
+        "take_profit": 43.9,
+        "market_volatility": 0.55,
+        "profit": -20.09
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.81,
+        "stop_loss": 14.38,
+        "take_profit": 11.71,
+        "market_volatility": 1.25,
+        "profit": -7.24
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.58,
+        "stop_loss": 49.11,
+        "take_profit": 38.92,
+        "market_volatility": 0.97,
+        "profit": -44.79
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.34,
+        "stop_loss": 17.11,
+        "take_profit": 26.71,
+        "market_volatility": 0.31,
+        "profit": 13.16
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.86,
+        "stop_loss": 34.84,
+        "take_profit": 26.57,
+        "market_volatility": 0.77,
+        "profit": -0.73
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.48,
+        "stop_loss": 34.87,
+        "take_profit": 33.47,
+        "market_volatility": 0.58,
+        "profit": 41.13
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.32,
+        "stop_loss": 42.4,
+        "take_profit": 16.0,
+        "market_volatility": 1.47,
+        "profit": 22.96
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.37,
+        "stop_loss": 37.72,
+        "take_profit": 20.22,
+        "market_volatility": 0.36,
+        "profit": 30.71
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.88,
+        "stop_loss": 29.29,
+        "take_profit": 30.29,
+        "market_volatility": 1.42,
+        "profit": -0.08
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.87,
+        "stop_loss": 44.9,
+        "take_profit": 11.98,
+        "market_volatility": 1.41,
+        "profit": -35.16
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.96,
+        "stop_loss": 31.99,
+        "take_profit": 23.82,
+        "market_volatility": 0.8,
+        "profit": -21.79
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.63,
+        "stop_loss": 19.16,
+        "take_profit": 45.94,
+        "market_volatility": 0.45,
+        "profit": -19.65
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.12,
+        "stop_loss": 49.34,
+        "take_profit": 40.06,
+        "market_volatility": 1.27,
+        "profit": 58.57
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.76,
+        "stop_loss": 45.63,
+        "take_profit": 39.74,
+        "market_volatility": 1.0,
+        "profit": 23.73
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.66,
+        "stop_loss": 34.71,
+        "take_profit": 36.1,
+        "market_volatility": 1.23,
+        "profit": -23.43
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.55,
+        "stop_loss": 46.11,
+        "take_profit": 15.77,
+        "market_volatility": 1.5,
+        "profit": 0.86
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.2,
+        "stop_loss": 36.36,
+        "take_profit": 15.98,
+        "market_volatility": 0.37,
+        "profit": 31.11
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.04,
+        "stop_loss": 24.05,
+        "take_profit": 25.63,
+        "market_volatility": 0.91,
+        "profit": 7.54
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.76,
+        "stop_loss": 10.93,
+        "take_profit": 45.65,
+        "market_volatility": 0.87,
+        "profit": 25.99
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.3,
+        "stop_loss": 37.09,
+        "take_profit": 29.14,
+        "market_volatility": 0.61,
+        "profit": 42.03
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.56,
+        "stop_loss": 26.75,
+        "take_profit": 24.12,
+        "market_volatility": 0.3,
+        "profit": 48.18
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.02,
+        "stop_loss": 31.66,
+        "take_profit": 28.27,
+        "market_volatility": 0.86,
+        "profit": -16.92
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.19,
+        "stop_loss": 24.9,
+        "take_profit": 28.8,
+        "market_volatility": 0.63,
+        "profit": 13.72
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.65,
+        "stop_loss": 21.61,
+        "take_profit": 14.69,
+        "market_volatility": 1.12,
+        "profit": 76.8
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.41,
+        "stop_loss": 19.66,
+        "take_profit": 27.6,
+        "market_volatility": 0.27,
+        "profit": 10.66
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.26,
+        "stop_loss": 27.69,
+        "take_profit": 22.99,
+        "market_volatility": 0.63,
+        "profit": 31.55
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.17,
+        "stop_loss": 17.8,
+        "take_profit": 19.15,
+        "market_volatility": 0.15,
+        "profit": -48.6
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.11,
+        "stop_loss": 49.66,
+        "take_profit": 22.67,
+        "market_volatility": 0.93,
+        "profit": -28.49
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.63,
+        "stop_loss": 16.28,
+        "take_profit": 21.46,
+        "market_volatility": 1.01,
+        "profit": 72.81
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.27,
+        "stop_loss": 33.3,
+        "take_profit": 10.51,
+        "market_volatility": 1.45,
+        "profit": 66.09
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.36,
+        "stop_loss": 36.52,
+        "take_profit": 47.28,
+        "market_volatility": 0.71,
+        "profit": 6.95
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.85,
+        "stop_loss": 37.89,
+        "take_profit": 48.52,
+        "market_volatility": 1.01,
+        "profit": 69.16
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.27,
+        "stop_loss": 40.95,
+        "take_profit": 15.49,
+        "market_volatility": 0.38,
+        "profit": 74.02
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.35,
+        "stop_loss": 18.46,
+        "take_profit": 36.74,
+        "market_volatility": 0.37,
+        "profit": 61.93
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.79,
+        "stop_loss": 25.04,
+        "take_profit": 23.72,
+        "market_volatility": 0.83,
+        "profit": -48.6
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.45,
+        "stop_loss": 48.32,
+        "take_profit": 46.92,
+        "market_volatility": 1.24,
+        "profit": 81.84
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.01,
+        "stop_loss": 28.25,
+        "take_profit": 39.25,
+        "market_volatility": 1.33,
+        "profit": 26.75
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.1,
+        "stop_loss": 46.29,
+        "take_profit": 16.45,
+        "market_volatility": 0.56,
+        "profit": 44.35
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.14,
+        "stop_loss": 41.8,
+        "take_profit": 15.27,
+        "market_volatility": 1.16,
+        "profit": 81.12
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.55,
+        "stop_loss": 32.32,
+        "take_profit": 40.75,
+        "market_volatility": 0.98,
+        "profit": 19.69
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.68,
+        "stop_loss": 19.64,
+        "take_profit": 20.2,
+        "market_volatility": 1.35,
+        "profit": 78.31
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.72,
+        "stop_loss": 25.02,
+        "take_profit": 43.87,
+        "market_volatility": 0.51,
+        "profit": 28.26
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.73,
+        "stop_loss": 27.57,
+        "take_profit": 43.52,
+        "market_volatility": 0.91,
+        "profit": 22.48
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.9,
+        "stop_loss": 32.82,
+        "take_profit": 26.02,
+        "market_volatility": 0.48,
+        "profit": 69.72
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.89,
+        "stop_loss": 18.01,
+        "take_profit": 37.31,
+        "market_volatility": 0.65,
+        "profit": 89.64
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.69,
+        "stop_loss": 46.88,
+        "take_profit": 44.33,
+        "market_volatility": 0.49,
+        "profit": 97.62
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.54,
+        "stop_loss": 44.34,
+        "take_profit": 44.11,
+        "market_volatility": 1.32,
+        "profit": 86.33
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.47,
+        "stop_loss": 10.95,
+        "take_profit": 21.41,
+        "market_volatility": 0.31,
+        "profit": -16.5
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.11,
+        "stop_loss": 38.81,
+        "take_profit": 20.91,
+        "market_volatility": 1.21,
+        "profit": 58.44
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.2,
+        "stop_loss": 32.83,
+        "take_profit": 20.48,
+        "market_volatility": 0.59,
+        "profit": 84.13
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.52,
+        "stop_loss": 18.35,
+        "take_profit": 32.46,
+        "market_volatility": 1.33,
+        "profit": 89.28
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.51,
+        "stop_loss": 31.95,
+        "take_profit": 20.05,
+        "market_volatility": 0.24,
+        "profit": 42.31
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.11,
+        "stop_loss": 27.48,
+        "take_profit": 46.66,
+        "market_volatility": 0.28,
+        "profit": 96.7
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.97,
+        "stop_loss": 36.09,
+        "take_profit": 39.33,
+        "market_volatility": 0.44,
+        "profit": 4.36
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.02,
+        "stop_loss": 35.76,
+        "take_profit": 35.88,
+        "market_volatility": 0.98,
+        "profit": 3.59
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.75,
+        "stop_loss": 34.16,
+        "take_profit": 27.92,
+        "market_volatility": 1.49,
+        "profit": 55.9
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.38,
+        "stop_loss": 17.97,
+        "take_profit": 18.82,
+        "market_volatility": 0.21,
+        "profit": 61.55
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.11,
+        "stop_loss": 13.29,
+        "take_profit": 27.38,
+        "market_volatility": 0.55,
+        "profit": -25.6
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.83,
+        "stop_loss": 49.79,
+        "take_profit": 42.46,
+        "market_volatility": 1.17,
+        "profit": 99.16
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.2,
+        "stop_loss": 44.63,
+        "take_profit": 46.4,
+        "market_volatility": 1.26,
+        "profit": 99.3
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.45,
+        "stop_loss": 20.89,
+        "take_profit": 16.2,
+        "market_volatility": 0.79,
+        "profit": 11.38
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.38,
+        "stop_loss": 30.31,
+        "take_profit": 32.71,
+        "market_volatility": 1.31,
+        "profit": -13.04
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.19,
+        "stop_loss": 15.76,
+        "take_profit": 34.35,
+        "market_volatility": 1.25,
+        "profit": 1.54
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.06,
+        "stop_loss": 32.98,
+        "take_profit": 35.14,
+        "market_volatility": 0.88,
+        "profit": 17.63
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.66,
+        "stop_loss": 31.43,
+        "take_profit": 13.66,
+        "market_volatility": 0.43,
+        "profit": -34.91
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.06,
+        "stop_loss": 41.36,
+        "take_profit": 25.13,
+        "market_volatility": 1.33,
+        "profit": 30.57
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.58,
+        "stop_loss": 42.47,
+        "take_profit": 21.73,
+        "market_volatility": 1.43,
+        "profit": -25.23
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.81,
+        "stop_loss": 11.65,
+        "take_profit": 33.09,
+        "market_volatility": 1.46,
+        "profit": 36.81
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.2,
+        "stop_loss": 15.38,
+        "take_profit": 30.75,
+        "market_volatility": 0.38,
+        "profit": 47.56
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.93,
+        "stop_loss": 22.73,
+        "take_profit": 46.38,
+        "market_volatility": 0.85,
+        "profit": -8.31
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.5,
+        "stop_loss": 11.3,
+        "take_profit": 31.47,
+        "market_volatility": 0.9,
+        "profit": 13.18
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.74,
+        "stop_loss": 46.8,
+        "take_profit": 11.42,
+        "market_volatility": 1.19,
+        "profit": 95.58
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.0,
+        "stop_loss": 11.52,
+        "take_profit": 35.23,
+        "market_volatility": 0.47,
+        "profit": 61.25
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.11,
+        "stop_loss": 38.31,
+        "take_profit": 29.33,
+        "market_volatility": 0.51,
+        "profit": 65.11
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.13,
+        "stop_loss": 23.63,
+        "take_profit": 48.16,
+        "market_volatility": 0.64,
+        "profit": -29.6
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.46,
+        "stop_loss": 49.09,
+        "take_profit": 22.67,
+        "market_volatility": 1.05,
+        "profit": -13.6
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.67,
+        "stop_loss": 30.87,
+        "take_profit": 41.58,
+        "market_volatility": 1.23,
+        "profit": 70.25
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.42,
+        "stop_loss": 10.07,
+        "take_profit": 33.72,
+        "market_volatility": 0.11,
+        "profit": 21.67
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.3,
+        "stop_loss": 27.56,
+        "take_profit": 16.58,
+        "market_volatility": 0.94,
+        "profit": 66.59
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.41,
+        "stop_loss": 29.37,
+        "take_profit": 49.14,
+        "market_volatility": 0.69,
+        "profit": 52.07
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.11,
+        "stop_loss": 18.37,
+        "take_profit": 34.42,
+        "market_volatility": 0.81,
+        "profit": 44.46
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.47,
+        "stop_loss": 26.53,
+        "take_profit": 37.37,
+        "market_volatility": 0.28,
+        "profit": 31.85
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.03,
+        "stop_loss": 14.77,
+        "take_profit": 32.79,
+        "market_volatility": 1.09,
+        "profit": -27.09
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.86,
+        "stop_loss": 11.78,
+        "take_profit": 12.95,
+        "market_volatility": 0.9,
+        "profit": 76.83
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.36,
+        "stop_loss": 16.32,
+        "take_profit": 34.02,
+        "market_volatility": 1.45,
+        "profit": 6.42
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.11,
+        "stop_loss": 48.91,
+        "take_profit": 29.71,
+        "market_volatility": 0.39,
+        "profit": 13.92
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.43,
+        "stop_loss": 39.52,
+        "take_profit": 35.58,
+        "market_volatility": 0.61,
+        "profit": 70.56
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.7,
+        "stop_loss": 43.93,
+        "take_profit": 40.01,
+        "market_volatility": 1.28,
+        "profit": 0.86
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.59,
+        "stop_loss": 40.44,
+        "take_profit": 40.06,
+        "market_volatility": 0.38,
+        "profit": -39.9
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.23,
+        "stop_loss": 12.93,
+        "take_profit": 48.14,
+        "market_volatility": 0.78,
+        "profit": -19.66
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.46,
+        "stop_loss": 25.03,
+        "take_profit": 32.17,
+        "market_volatility": 1.36,
+        "profit": 39.67
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.39,
+        "stop_loss": 39.93,
+        "take_profit": 20.88,
+        "market_volatility": 0.37,
+        "profit": -43.26
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.73,
+        "stop_loss": 11.62,
+        "take_profit": 45.18,
+        "market_volatility": 0.71,
+        "profit": 74.54
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.59,
+        "stop_loss": 22.72,
+        "take_profit": 14.58,
+        "market_volatility": 0.15,
+        "profit": -17.26
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.21,
+        "stop_loss": 26.46,
+        "take_profit": 33.92,
+        "market_volatility": 0.39,
+        "profit": 24.95
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.06,
+        "stop_loss": 23.23,
+        "take_profit": 33.26,
+        "market_volatility": 1.38,
+        "profit": 86.86
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.58,
+        "stop_loss": 43.67,
+        "take_profit": 31.66,
+        "market_volatility": 0.26,
+        "profit": 64.57
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.53,
+        "stop_loss": 34.42,
+        "take_profit": 36.29,
+        "market_volatility": 0.68,
+        "profit": 14.73
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.2,
+        "stop_loss": 27.28,
+        "take_profit": 14.01,
+        "market_volatility": 0.1,
+        "profit": 52.35
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.23,
+        "stop_loss": 40.34,
+        "take_profit": 19.88,
+        "market_volatility": 1.45,
+        "profit": 17.62
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.25,
+        "stop_loss": 32.23,
+        "take_profit": 46.67,
+        "market_volatility": 0.15,
+        "profit": 65.86
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.28,
+        "stop_loss": 24.74,
+        "take_profit": 42.11,
+        "market_volatility": 0.4,
+        "profit": -30.58
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.92,
+        "stop_loss": 30.2,
+        "take_profit": 29.39,
+        "market_volatility": 1.42,
+        "profit": 15.13
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.4,
+        "stop_loss": 15.43,
+        "take_profit": 32.65,
+        "market_volatility": 1.3,
+        "profit": 35.98
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.98,
+        "stop_loss": 35.97,
+        "take_profit": 47.39,
+        "market_volatility": 0.3,
+        "profit": 79.63
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.69,
+        "stop_loss": 20.07,
+        "take_profit": 45.86,
+        "market_volatility": 1.31,
+        "profit": 73.85
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.24,
+        "stop_loss": 28.72,
+        "take_profit": 25.97,
+        "market_volatility": 0.75,
+        "profit": 56.87
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.3,
+        "stop_loss": 24.19,
+        "take_profit": 37.58,
+        "market_volatility": 1.26,
+        "profit": 68.6
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.59,
+        "stop_loss": 37.42,
+        "take_profit": 47.85,
+        "market_volatility": 0.1,
+        "profit": -41.97
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.65,
+        "stop_loss": 40.22,
+        "take_profit": 24.09,
+        "market_volatility": 0.13,
+        "profit": -42.91
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.54,
+        "stop_loss": 15.8,
+        "take_profit": 11.3,
+        "market_volatility": 1.24,
+        "profit": -0.47
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.56,
+        "stop_loss": 36.55,
+        "take_profit": 17.58,
+        "market_volatility": 0.66,
+        "profit": -29.88
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.37,
+        "stop_loss": 19.54,
+        "take_profit": 43.72,
+        "market_volatility": 1.31,
+        "profit": 85.08
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.77,
+        "stop_loss": 19.98,
+        "take_profit": 29.86,
+        "market_volatility": 0.27,
+        "profit": -14.67
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.48,
+        "stop_loss": 33.42,
+        "take_profit": 46.8,
+        "market_volatility": 1.38,
+        "profit": -8.53
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.07,
+        "stop_loss": 36.97,
+        "take_profit": 17.07,
+        "market_volatility": 1.43,
+        "profit": -7.17
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.07,
+        "stop_loss": 37.86,
+        "take_profit": 37.94,
+        "market_volatility": 1.14,
+        "profit": 97.99
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.87,
+        "stop_loss": 45.33,
+        "take_profit": 34.92,
+        "market_volatility": 1.17,
+        "profit": 61.95
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.53,
+        "stop_loss": 12.9,
+        "take_profit": 32.12,
+        "market_volatility": 0.16,
+        "profit": 99.15
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.95,
+        "stop_loss": 39.25,
+        "take_profit": 46.83,
+        "market_volatility": 0.93,
+        "profit": 2.99
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.17,
+        "stop_loss": 26.71,
+        "take_profit": 13.59,
+        "market_volatility": 1.01,
+        "profit": -6.09
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.41,
+        "stop_loss": 24.88,
+        "take_profit": 36.73,
+        "market_volatility": 0.61,
+        "profit": 64.11
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.29,
+        "stop_loss": 17.23,
+        "take_profit": 17.31,
+        "market_volatility": 0.13,
+        "profit": 53.47
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.54,
+        "stop_loss": 36.62,
+        "take_profit": 28.87,
+        "market_volatility": 1.43,
+        "profit": -7.78
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.92,
+        "stop_loss": 10.73,
+        "take_profit": 45.09,
+        "market_volatility": 0.52,
+        "profit": 84.47
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.14,
+        "stop_loss": 22.81,
+        "take_profit": 38.09,
+        "market_volatility": 0.35,
+        "profit": -18.56
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.04,
+        "stop_loss": 34.83,
+        "take_profit": 44.42,
+        "market_volatility": 0.6,
+        "profit": 59.44
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.49,
+        "stop_loss": 25.56,
+        "take_profit": 35.0,
+        "market_volatility": 0.47,
+        "profit": -12.65
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.06,
+        "stop_loss": 34.64,
+        "take_profit": 45.05,
+        "market_volatility": 1.48,
+        "profit": -47.57
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.56,
+        "stop_loss": 13.57,
+        "take_profit": 13.53,
+        "market_volatility": 0.1,
+        "profit": 10.86
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.15,
+        "stop_loss": 24.95,
+        "take_profit": 24.5,
+        "market_volatility": 1.47,
+        "profit": 34.78
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.62,
+        "stop_loss": 43.48,
+        "take_profit": 31.41,
+        "market_volatility": 0.38,
+        "profit": 44.17
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.9,
+        "stop_loss": 21.67,
+        "take_profit": 48.37,
+        "market_volatility": 1.18,
+        "profit": 26.21
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.25,
+        "stop_loss": 17.61,
+        "take_profit": 19.8,
+        "market_volatility": 0.61,
+        "profit": 1.07
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.2,
+        "stop_loss": 39.09,
+        "take_profit": 19.87,
+        "market_volatility": 1.09,
+        "profit": -42.34
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.96,
+        "stop_loss": 20.24,
+        "take_profit": 23.79,
+        "market_volatility": 0.48,
+        "profit": 91.3
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.67,
+        "stop_loss": 37.29,
+        "take_profit": 30.75,
+        "market_volatility": 0.8,
+        "profit": -15.55
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.22,
+        "stop_loss": 46.13,
+        "take_profit": 21.44,
+        "market_volatility": 0.44,
+        "profit": -4.86
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.48,
+        "stop_loss": 36.97,
+        "take_profit": 35.53,
+        "market_volatility": 0.81,
+        "profit": -3.8
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.31,
+        "stop_loss": 11.24,
+        "take_profit": 32.18,
+        "market_volatility": 0.69,
+        "profit": 93.51
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.55,
+        "stop_loss": 31.67,
+        "take_profit": 41.87,
+        "market_volatility": 0.48,
+        "profit": 85.56
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.22,
+        "stop_loss": 11.39,
+        "take_profit": 27.47,
+        "market_volatility": 0.61,
+        "profit": 65.61
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.78,
+        "stop_loss": 37.11,
+        "take_profit": 12.84,
+        "market_volatility": 0.57,
+        "profit": 78.34
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.33,
+        "stop_loss": 19.3,
+        "take_profit": 22.75,
+        "market_volatility": 0.83,
+        "profit": -43.67
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.58,
+        "stop_loss": 27.09,
+        "take_profit": 10.63,
+        "market_volatility": 0.7,
+        "profit": 97.06
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.73,
+        "stop_loss": 27.92,
+        "take_profit": 21.91,
+        "market_volatility": 0.72,
+        "profit": 47.99
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.48,
+        "stop_loss": 14.0,
+        "take_profit": 28.87,
+        "market_volatility": 0.48,
+        "profit": 93.7
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.95,
+        "stop_loss": 38.89,
+        "take_profit": 33.74,
+        "market_volatility": 0.29,
+        "profit": -3.14
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.63,
+        "stop_loss": 12.2,
+        "take_profit": 27.59,
+        "market_volatility": 1.19,
+        "profit": -4.0
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.56,
+        "stop_loss": 45.4,
+        "take_profit": 23.59,
+        "market_volatility": 1.06,
+        "profit": 48.62
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.99,
+        "stop_loss": 37.9,
+        "take_profit": 33.86,
+        "market_volatility": 1.37,
+        "profit": 65.03
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.75,
+        "stop_loss": 14.99,
+        "take_profit": 13.68,
+        "market_volatility": 0.89,
+        "profit": -32.42
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.86,
+        "stop_loss": 12.67,
+        "take_profit": 39.04,
+        "market_volatility": 0.29,
+        "profit": 82.68
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.64,
+        "stop_loss": 17.92,
+        "take_profit": 45.64,
+        "market_volatility": 1.35,
+        "profit": 86.02
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.63,
+        "stop_loss": 13.94,
+        "take_profit": 26.47,
+        "market_volatility": 0.64,
+        "profit": -33.35
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.11,
+        "stop_loss": 36.9,
+        "take_profit": 31.21,
+        "market_volatility": 1.09,
+        "profit": 26.03
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.71,
+        "stop_loss": 12.26,
+        "take_profit": 30.44,
+        "market_volatility": 0.36,
+        "profit": 72.24
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.28,
+        "stop_loss": 26.6,
+        "take_profit": 21.74,
+        "market_volatility": 0.79,
+        "profit": 57.6
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.91,
+        "stop_loss": 29.02,
+        "take_profit": 44.43,
+        "market_volatility": 0.19,
+        "profit": 27.01
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.97,
+        "stop_loss": 35.98,
+        "take_profit": 32.2,
+        "market_volatility": 0.17,
+        "profit": -43.78
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.04,
+        "stop_loss": 25.66,
+        "take_profit": 30.91,
+        "market_volatility": 0.97,
+        "profit": 20.3
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 0.2,
+        "stop_loss": 48.52,
+        "take_profit": 18.94,
+        "market_volatility": 0.63,
+        "profit": 2.53
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.65,
+        "stop_loss": 28.48,
+        "take_profit": 22.76,
+        "market_volatility": 1.1,
+        "profit": -32.73
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.26,
+        "stop_loss": 45.95,
+        "take_profit": 36.68,
+        "market_volatility": 0.45,
+        "profit": 96.03
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.52,
+        "stop_loss": 35.6,
+        "take_profit": 42.69,
+        "market_volatility": 0.9,
+        "profit": 38.41
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.4,
+        "stop_loss": 21.53,
+        "take_profit": 18.48,
+        "market_volatility": 0.1,
+        "profit": 90.75
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.91,
+        "stop_loss": 43.11,
+        "take_profit": 33.45,
+        "market_volatility": 0.9,
+        "profit": 45.5
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.41,
+        "stop_loss": 25.45,
+        "take_profit": 39.85,
+        "market_volatility": 0.19,
+        "profit": 32.16
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 4.94,
+        "stop_loss": 16.65,
+        "take_profit": 47.72,
+        "market_volatility": 0.21,
+        "profit": 61.21
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.84,
+        "stop_loss": 27.15,
+        "take_profit": 27.4,
+        "market_volatility": 1.11,
+        "profit": 57.02
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.6,
+        "stop_loss": 14.93,
+        "take_profit": 45.29,
+        "market_volatility": 0.93,
+        "profit": -42.59
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.23,
+        "stop_loss": 35.66,
+        "take_profit": 45.79,
+        "market_volatility": 1.23,
+        "profit": 88.51
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.79,
+        "stop_loss": 38.72,
+        "take_profit": 25.12,
+        "market_volatility": 0.74,
+        "profit": -18.12
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.68,
+        "stop_loss": 12.24,
+        "take_profit": 46.68,
+        "market_volatility": 1.14,
+        "profit": 97.6
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.53,
+        "stop_loss": 34.49,
+        "take_profit": 11.99,
+        "market_volatility": 1.27,
+        "profit": 30.77
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.85,
+        "stop_loss": 36.15,
+        "take_profit": 27.14,
+        "market_volatility": 0.66,
+        "profit": 57.89
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 4.89,
+        "stop_loss": 39.12,
+        "take_profit": 17.03,
+        "market_volatility": 0.13,
+        "profit": -22.81
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 0.68,
+        "stop_loss": 15.7,
+        "take_profit": 10.48,
+        "market_volatility": 0.18,
+        "profit": 45.88
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.59,
+        "stop_loss": 43.17,
+        "take_profit": 39.41,
+        "market_volatility": 1.11,
+        "profit": 12.21
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.91,
+        "stop_loss": 35.81,
+        "take_profit": 31.18,
+        "market_volatility": 0.44,
+        "profit": -16.41
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 1.81,
+        "stop_loss": 14.68,
+        "take_profit": 21.65,
+        "market_volatility": 0.24,
+        "profit": 46.99
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.69,
+        "stop_loss": 29.81,
+        "take_profit": 32.79,
+        "market_volatility": 1.39,
+        "profit": 98.73
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 3.75,
+        "stop_loss": 19.1,
+        "take_profit": 14.61,
+        "market_volatility": 0.9,
+        "profit": -14.89
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.63,
+        "stop_loss": 30.82,
+        "take_profit": 32.83,
+        "market_volatility": 0.93,
+        "profit": 71.07
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.49,
+        "stop_loss": 25.52,
+        "take_profit": 26.11,
+        "market_volatility": 0.17,
+        "profit": 67.69
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.38,
+        "stop_loss": 18.84,
+        "take_profit": 21.21,
+        "market_volatility": 0.55,
+        "profit": 6.93
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.33,
+        "stop_loss": 24.03,
+        "take_profit": 29.28,
+        "market_volatility": 0.93,
+        "profit": -37.25
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.98,
+        "stop_loss": 37.94,
+        "take_profit": 11.96,
+        "market_volatility": 0.81,
+        "profit": 16.52
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 2.72,
+        "stop_loss": 45.5,
+        "take_profit": 27.32,
+        "market_volatility": 1.34,
+        "profit": 52.54
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 3.23,
+        "stop_loss": 20.88,
+        "take_profit": 36.06,
+        "market_volatility": 0.73,
+        "profit": 18.97
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.16,
+        "stop_loss": 47.34,
+        "take_profit": 28.11,
+        "market_volatility": 0.11,
+        "profit": 39.79
+    },
+    {
+        "symbol": "GBPUSDm",
+        "lot_size": 2.83,
+        "stop_loss": 29.65,
+        "take_profit": 13.17,
+        "market_volatility": 0.41,
+        "profit": -12.11
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.28,
+        "stop_loss": 46.57,
+        "take_profit": 39.86,
+        "market_volatility": 0.43,
+        "profit": 18.08
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.56,
+        "stop_loss": 25.55,
+        "take_profit": 14.39,
+        "market_volatility": 0.59,
+        "profit": 38.52
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 4.83,
+        "stop_loss": 14.04,
+        "take_profit": 15.7,
+        "market_volatility": 0.47,
+        "profit": 88.28
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 1.32,
+        "stop_loss": 34.97,
+        "take_profit": 46.45,
+        "market_volatility": 0.82,
+        "profit": -3.68
+    },
+    {
+        "symbol": "USDJPYm",
+        "lot_size": 1.02,
+        "stop_loss": 23.19,
+        "take_profit": 28.57,
+        "market_volatility": 0.66,
+        "profit": 86.31
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 0.83,
+        "stop_loss": 33.16,
+        "take_profit": 43.3,
+        "market_volatility": 1.11,
+        "profit": 75.9
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 3.86,
+        "stop_loss": 23.19,
+        "take_profit": 24.81,
+        "market_volatility": 1.3,
+        "profit": 19.59
+    },
+    {
+        "symbol": "EURUSDm",
+        "lot_size": 2.81,
+        "stop_loss": 21.22,
+        "take_profit": 37.38,
+        "market_volatility": 1.44,
+        "profit": -17.1
+    },
+    {
+        "symbol": "USDJPYm",
+        "type": "BUY",
+        "lot_size": 0.1,
+        "price": 149.148
+    }
+]

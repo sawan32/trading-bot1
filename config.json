@@ -1,0 +1,22 @@
+{   
+    "account_balance": 10000,
+    "base_lot_size": 0.1,
+    "risk_tolerance": 0.02,
+    "trading_interval": 60,
+    "max_drawdown": 5,
+    "training_epochs": 200,
+    "batch_size": 32,
+    "use_past_data": true,
+    "trading_pairs": ["EURUSDm", "USDJPYm", "GBPUSDm"],
+    "broker": {
+        "server": "Exness-MT5Trial7",
+        "leverage": 100,
+        "spread_type": "variable"
+    },
+    "logging": {
+        "enable_debug": true,
+        "log_to_file": true,
+        "log_file": "logs/ai_logs.txt"
+    }
+    
+}

@@ -1,0 +1,1517 @@
+[2025-03-03 10:03:22] 🚀 AI Trading Bot is now running...
+[2025-03-03 10:03:22] 🤖 AI Trading for EURUSDm...
+[2025-03-03 10:11:06] [INFO] 🚀 AI Trading Bot is now running...
+[2025-03-03 10:11:06] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-03 10:11:07] [ERROR] ❌ ERROR in Trading Bot: File not found: filepath=ai_models/ai_model.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-03-04 09:07:26,556 - WARNING - From C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-03-04 09:14:32,785 - WARNING - From C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+[2025-03-04 09:23:55] [INFO] 🚀 AI Trading Bot is now running...
+[2025-03-04 09:23:55] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 09:23:57] [ERROR] ❌ ERROR in Trading Bot: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /orderflow/EURUSDm (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000027FC53DCDF0>: Failed to resolve 'api.example.com' ([Errno 11001] getaddrinfo failed)"))
+[2025-03-04 10:17:55] [INFO] 🤖 AI Learning Module Running...
+[2025-03-04 10:18:53] [INFO] 💾 Model Trained & Saved Successfully as ai_models/ai_model.keras
+[2025-03-04 10:18:53] [INFO] 🔄 AI Updated & Learning Complete!
+2025-03-04 10:18:54,430 - WARNING - From C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-03-04 10:19:57,196 - INFO - AI Decision - EURUSDm | Confidence: 0.85 | Action: BUY
+2025-03-04 10:19:57,197 - INFO - Trade Executed - EURUSDm | Type: BUY | Lot: 1.0 | Price: 1.12345 | SL: 1.12 | TP: 1.13
+2025-03-04 10:19:57,197 - ERROR - ERROR: Connection Lost with MT5 Server!
+2025-03-04 10:19:57,198 - INFO - Backtest Result - Strategy: Breakout Strategy | Profit: 1500 | Win Rate: 65% | Max Drawdown: 3.2%
+[2025-03-04 10:20:42] [INFO] ✅ MT5 Connected Successfully!
+[2025-03-04 10:20:42] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 10:20:42] [INFO] ✅ Trade Executed Successfully for USDJPYm (BUY) at 149.148
+[2025-03-04 10:20:42] [INFO] 📄 Trade Logged: {'symbol': 'USDJPYm', 'type': 'BUY', 'lot_size': 0.1, 'price': 149.148}
+[2025-03-04 10:20:42] [INFO] 🔌 MT5 Connection Closed!
+[2025-03-04 10:53:04] [INFO] ✅ MT5 Connected Successfully!
+[2025-03-04 10:53:04] [INFO] 🚀 AI Trading Bot is now running...
+[2025-03-04 10:53:04] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 10:53:04] [ERROR] ❌ Error fetching market data for EURUSDm: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /marketdata/EURUSDm (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000255C15BE7D0>: Failed to resolve 'api.example.com' ([Errno 11001] getaddrinfo failed)"))
+[2025-03-04 10:53:04] [INFO] 📊 Market Data Updated for EURUSDm
+[2025-03-04 10:53:04] [ERROR] ❌ ERROR in Trading Bot: get_open_trades() takes 0 positional arguments but 1 was given
+[2025-03-04 10:53:04] [INFO] 🔌 MT5 Connection Closed!
+[2025-03-04 10:58:37] [INFO] ✅ MT5 Connected Successfully!
+[2025-03-04 10:58:37] [INFO] 🚀 AI Trading Bot is now running...
+[2025-03-04 10:58:37] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 10:58:37] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 10:58:37] [INFO] 📊 Fetching Market Data for EURUSDm...
+2025-03-04 10:58:49,895 - ERROR - 
+1 Failed download:
+2025-03-04 10:58:49,897 - ERROR - ['EURUSDM']: YFPricesMissingError('possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")')
+[2025-03-04 10:58:49] [WARNING] ⚠ No data found for EURUSDm! Using fallback price.
+[2025-03-04 10:58:49] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 10:58:49] [INFO] 📊 Open Trades: 1
+[2025-03-04 10:58:50] [ERROR] ❌ ERROR in Trading Bot: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /orderflow/EURUSDm (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D91AE23460>: Failed to resolve 'api.example.com' ([Errno 11001] getaddrinfo failed)"))
+[2025-03-04 10:58:50] [INFO] 🔌 MT5 Connection Closed!
+[2025-03-04 11:07:47] [INFO] ✅ MT5 Connected Successfully!
+[2025-03-04 11:07:47] [INFO] 🚀 AI Trading Bot is now running...
+[2025-03-04 11:07:47] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:07:47] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:07:47] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:07:50] [INFO] 📊 Market Data Updated for EURUSDm: {'price': Ticker
+EURUSD=X    1.04844
+Name: 2025-03-04 05:00:00+00:00, dtype: float64, 'volume': 0}
+[2025-03-04 11:07:50] [INFO] 📊 Open Trades: 1
+[2025-03-04 11:07:50] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:07:50] [ERROR] ❌ ERROR in Trading Bot: fetch_news_sentiment() takes 0 positional arguments but 1 was given
+[2025-03-04 11:07:50] [INFO] 🔌 MT5 Connection Closed!
+[2025-03-04 11:17:42] [INFO] ✅ MT5 Connected Successfully!
+[2025-03-04 11:17:42] [INFO] 🚀 AI Trading Bot is now running...
+[2025-03-04 11:17:42] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:17:43] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:17:43] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:17:45] [ERROR] ❌ Error fetching Yahoo Finance data for EURUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:17:45] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:17:45] [INFO] 📊 Open Trades: 1
+[2025-03-04 11:17:46] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:17:47] [ERROR] ❌ ERROR in Trading Bot: setting an array element with a sequence. The requested array has an inhomogeneous shape after 2 dimensions. The detected shape was (1, 5) + inhomogeneous part.
+[2025-03-04 11:17:47] [INFO] 🔌 MT5 Connection Closed!
+[2025-03-04 11:21:56] [INFO] ✅ MT5 Connected Successfully!
+[2025-03-04 11:21:56] [INFO] 🚀 AI Trading Bot is now running...
+[2025-03-04 11:21:56] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:21:56] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:21:56] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:21:58] [ERROR] ❌ Error fetching Yahoo Finance data for EURUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:21:58] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:21:58] [INFO] 📊 Open Trades: 1
+[2025-03-04 11:21:59] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:22:00] [INFO] 🔍 AI Confidence for EURUSDm: 0.7940952777862549
+[2025-03-04 11:22:00] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-04 11:22:00] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:22:00] [INFO] ✅ Trade Executed Successfully for EURUSDm (BUY) at 1.04856
+[2025-03-04 11:22:00] [INFO] 🔍 AI Trade Decision for EURUSDm: BUY
+[2025-03-04 11:22:00] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:22:00] [INFO] ✅ Trade Executed Successfully for EURUSDm (BUY) at 1.04856
+[2025-03-04 11:22:00] [INFO] ✅ Executed BUY Trade for EURUSDm
+[2025-03-04 11:22:00] [INFO] 🤖 AI Trading for USDJPYm...
+[2025-03-04 11:22:00] [WARNING] ⚠ API failed for USDJPYm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:22:00] [INFO] 📊 Fetching Market Data for USDJPYm...
+[2025-03-04 11:22:00] [ERROR] ❌ Error fetching Yahoo Finance data for USDJPYm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:22:00] [INFO] 📊 Market Data Updated for USDJPYm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:22:00] [INFO] 📊 Open Trades: 3
+[2025-03-04 11:22:01] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-04 11:22:02] [INFO] 🔍 AI Confidence for USDJPYm: 0.7940952777862549
+[2025-03-04 11:22:02] [INFO] ✅ AI Confident: Executing BUY for USDJPYm
+[2025-03-04 11:22:02] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:22:02] [INFO] ✅ Trade Executed Successfully for USDJPYm (BUY) at 149.348
+[2025-03-04 11:22:02] [INFO] 🔍 AI Trade Decision for USDJPYm: BUY
+[2025-03-04 11:22:02] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:22:02] [INFO] ✅ Trade Executed Successfully for USDJPYm (BUY) at 149.348
+[2025-03-04 11:22:02] [INFO] ✅ Executed BUY Trade for USDJPYm
+[2025-03-04 11:22:02] [INFO] 🤖 AI Trading for GBPUSDm...
+[2025-03-04 11:22:02] [WARNING] ⚠ API failed for GBPUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:22:02] [INFO] 📊 Fetching Market Data for GBPUSDm...
+[2025-03-04 11:22:02] [ERROR] ❌ Error fetching Yahoo Finance data for GBPUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:22:02] [INFO] 📊 Market Data Updated for GBPUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:22:02] [INFO] 📊 Open Trades: 5
+[2025-03-04 11:22:03] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+2025-03-04 11:22:03,762 - WARNING - 5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000001D537D27F40> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2025-03-04 11:22:04,228 - WARNING - 6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000001D537DA0550> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+[2025-03-04 11:22:04] [INFO] 🔍 AI Confidence for GBPUSDm: 0.7940952777862549
+[2025-03-04 11:22:04] [INFO] ✅ AI Confident: Executing BUY for GBPUSDm
+[2025-03-04 11:22:04] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:22:04] [INFO] ✅ Trade Executed Successfully for GBPUSDm (BUY) at 1.26977
+[2025-03-04 11:22:04] [INFO] 🔍 AI Trade Decision for GBPUSDm: BUY
+[2025-03-04 11:22:04] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:22:04] [INFO] ✅ Trade Executed Successfully for GBPUSDm (BUY) at 1.26977
+[2025-03-04 11:22:04] [INFO] ✅ Executed BUY Trade for GBPUSDm
+[2025-03-04 11:22:04] [INFO] ⏳ Waiting for next trading cycle (60 sec)...
+[2025-03-04 11:23:04] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:23:04] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:23:04] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:23:05] [ERROR] ❌ Error fetching Yahoo Finance data for EURUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:23:05] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:23:05] [INFO] 📊 Open Trades: 7
+[2025-03-04 11:23:05] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:23:07] [INFO] 🔍 AI Confidence for EURUSDm: 0.7940952777862549
+[2025-03-04 11:23:07] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-04 11:23:07] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:23:07] [INFO] ✅ Trade Executed Successfully for EURUSDm (BUY) at 1.04864
+[2025-03-04 11:23:07] [INFO] 🔍 AI Trade Decision for EURUSDm: BUY
+[2025-03-04 11:23:07] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:23:07] [INFO] ✅ Trade Executed Successfully for EURUSDm (BUY) at 1.04864
+[2025-03-04 11:23:07] [INFO] ✅ Executed BUY Trade for EURUSDm
+[2025-03-04 11:23:07] [INFO] 🤖 AI Trading for USDJPYm...
+[2025-03-04 11:23:07] [WARNING] ⚠ API failed for USDJPYm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:23:07] [INFO] 📊 Fetching Market Data for USDJPYm...
+[2025-03-04 11:23:08] [ERROR] ❌ Error fetching Yahoo Finance data for USDJPYm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:23:08] [INFO] 📊 Market Data Updated for USDJPYm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:23:08] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:23:08] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-04 11:23:10] [INFO] 🔍 AI Confidence for USDJPYm: 0.7940952777862549
+[2025-03-04 11:23:10] [INFO] ✅ AI Confident: Executing BUY for USDJPYm
+[2025-03-04 11:23:10] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:23:10] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:23:10] [INFO] 🔍 AI Trade Decision for USDJPYm: BUY
+[2025-03-04 11:23:10] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:23:10] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:23:10] [INFO] ✅ Executed BUY Trade for USDJPYm
+[2025-03-04 11:23:10] [INFO] 🤖 AI Trading for GBPUSDm...
+[2025-03-04 11:23:10] [WARNING] ⚠ API failed for GBPUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:23:10] [INFO] 📊 Fetching Market Data for GBPUSDm...
+[2025-03-04 11:23:10] [ERROR] ❌ Error fetching Yahoo Finance data for GBPUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:23:10] [INFO] 📊 Market Data Updated for GBPUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:23:10] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:23:10] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+[2025-03-04 11:23:13] [INFO] 🔍 AI Confidence for GBPUSDm: 0.7940952777862549
+[2025-03-04 11:23:13] [INFO] ✅ AI Confident: Executing BUY for GBPUSDm
+[2025-03-04 11:23:13] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:23:13] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:23:13] [INFO] 🔍 AI Trade Decision for GBPUSDm: BUY
+[2025-03-04 11:23:13] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:23:13] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:23:13] [INFO] ✅ Executed BUY Trade for GBPUSDm
+[2025-03-04 11:23:13] [INFO] ⏳ Waiting for next trading cycle (60 sec)...
+[2025-03-04 11:24:13] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:24:13] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:24:13] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:24:13] [ERROR] ❌ Error fetching Yahoo Finance data for EURUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:24:13] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:24:13] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:24:13] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:24:15] [INFO] 🔍 AI Confidence for EURUSDm: 0.7940952777862549
+[2025-03-04 11:24:15] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-04 11:24:15] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:24:15] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:24:15] [INFO] 🔍 AI Trade Decision for EURUSDm: BUY
+[2025-03-04 11:24:15] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:24:15] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:24:15] [INFO] ✅ Executed BUY Trade for EURUSDm
+[2025-03-04 11:24:15] [INFO] 🤖 AI Trading for USDJPYm...
+[2025-03-04 11:24:15] [WARNING] ⚠ API failed for USDJPYm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:24:15] [INFO] 📊 Fetching Market Data for USDJPYm...
+[2025-03-04 11:24:15] [ERROR] ❌ Error fetching Yahoo Finance data for USDJPYm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:24:15] [INFO] 📊 Market Data Updated for USDJPYm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:24:15] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:24:16] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-04 11:24:17] [INFO] 🔍 AI Confidence for USDJPYm: 0.7940952777862549
+[2025-03-04 11:24:17] [INFO] ✅ AI Confident: Executing BUY for USDJPYm
+[2025-03-04 11:24:17] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:24:17] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:24:17] [INFO] 🔍 AI Trade Decision for USDJPYm: BUY
+[2025-03-04 11:24:17] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:24:17] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:24:17] [INFO] ✅ Executed BUY Trade for USDJPYm
+[2025-03-04 11:24:17] [INFO] 🤖 AI Trading for GBPUSDm...
+[2025-03-04 11:24:17] [WARNING] ⚠ API failed for GBPUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:24:17] [INFO] 📊 Fetching Market Data for GBPUSDm...
+[2025-03-04 11:24:18] [ERROR] ❌ Error fetching Yahoo Finance data for GBPUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:24:18] [INFO] 📊 Market Data Updated for GBPUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:24:18] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:24:18] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+[2025-03-04 11:24:19] [INFO] 🔍 AI Confidence for GBPUSDm: 0.7940952777862549
+[2025-03-04 11:24:19] [INFO] ✅ AI Confident: Executing BUY for GBPUSDm
+[2025-03-04 11:24:19] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:24:19] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:24:19] [INFO] 🔍 AI Trade Decision for GBPUSDm: BUY
+[2025-03-04 11:24:19] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:24:19] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:24:19] [INFO] ✅ Executed BUY Trade for GBPUSDm
+[2025-03-04 11:24:19] [INFO] ⏳ Waiting for next trading cycle (60 sec)...
+[2025-03-04 11:25:19] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:25:20] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:25:20] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:25:20] [ERROR] ❌ Error fetching Yahoo Finance data for EURUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:25:20] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:25:20] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:25:21] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:25:22] [INFO] 🔍 AI Confidence for EURUSDm: 0.7940952777862549
+[2025-03-04 11:25:22] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-04 11:25:22] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:25:22] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:25:22] [INFO] 🔍 AI Trade Decision for EURUSDm: BUY
+[2025-03-04 11:25:22] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:25:22] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:25:22] [INFO] ✅ Executed BUY Trade for EURUSDm
+[2025-03-04 11:25:22] [INFO] 🤖 AI Trading for USDJPYm...
+[2025-03-04 11:25:22] [WARNING] ⚠ API failed for USDJPYm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:25:22] [INFO] 📊 Fetching Market Data for USDJPYm...
+[2025-03-04 11:25:22] [ERROR] ❌ Error fetching Yahoo Finance data for USDJPYm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:25:22] [INFO] 📊 Market Data Updated for USDJPYm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:25:22] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:25:23] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-04 11:25:24] [INFO] 🔍 AI Confidence for USDJPYm: 0.7940952777862549
+[2025-03-04 11:25:24] [INFO] ✅ AI Confident: Executing BUY for USDJPYm
+[2025-03-04 11:25:24] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:25:24] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:25:24] [INFO] 🔍 AI Trade Decision for USDJPYm: BUY
+[2025-03-04 11:25:24] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:25:24] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:25:24] [INFO] ✅ Executed BUY Trade for USDJPYm
+[2025-03-04 11:25:24] [INFO] 🤖 AI Trading for GBPUSDm...
+[2025-03-04 11:25:24] [WARNING] ⚠ API failed for GBPUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:25:24] [INFO] 📊 Fetching Market Data for GBPUSDm...
+[2025-03-04 11:25:25] [ERROR] ❌ Error fetching Yahoo Finance data for GBPUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:25:25] [INFO] 📊 Market Data Updated for GBPUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:25:25] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:25:25] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+[2025-03-04 11:25:26] [INFO] 🔍 AI Confidence for GBPUSDm: 0.7940952777862549
+[2025-03-04 11:25:26] [INFO] ✅ AI Confident: Executing BUY for GBPUSDm
+[2025-03-04 11:25:26] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:25:26] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:25:26] [INFO] 🔍 AI Trade Decision for GBPUSDm: BUY
+[2025-03-04 11:25:26] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:25:26] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:25:26] [INFO] ✅ Executed BUY Trade for GBPUSDm
+[2025-03-04 11:25:26] [INFO] ⏳ Waiting for next trading cycle (60 sec)...
+[2025-03-04 11:26:26] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:26:26] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:26:26] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:26:27] [ERROR] ❌ Error fetching Yahoo Finance data for EURUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:26:27] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:26:27] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:26:27] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:26:29] [INFO] 🔍 AI Confidence for EURUSDm: 0.7940952777862549
+[2025-03-04 11:26:29] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-04 11:26:29] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:26:29] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:26:29] [INFO] 🔍 AI Trade Decision for EURUSDm: BUY
+[2025-03-04 11:26:29] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:26:29] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:26:29] [INFO] ✅ Executed BUY Trade for EURUSDm
+[2025-03-04 11:26:29] [INFO] 🤖 AI Trading for USDJPYm...
+[2025-03-04 11:26:29] [WARNING] ⚠ API failed for USDJPYm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:26:29] [INFO] 📊 Fetching Market Data for USDJPYm...
+[2025-03-04 11:26:29] [ERROR] ❌ Error fetching Yahoo Finance data for USDJPYm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:26:29] [INFO] 📊 Market Data Updated for USDJPYm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:26:29] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:26:29] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-04 11:26:31] [INFO] 🔍 AI Confidence for USDJPYm: 0.7940952777862549
+[2025-03-04 11:26:31] [INFO] ✅ AI Confident: Executing BUY for USDJPYm
+[2025-03-04 11:26:31] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:26:31] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:26:31] [INFO] 🔍 AI Trade Decision for USDJPYm: BUY
+[2025-03-04 11:26:31] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:26:31] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:26:31] [INFO] ✅ Executed BUY Trade for USDJPYm
+[2025-03-04 11:26:31] [INFO] 🤖 AI Trading for GBPUSDm...
+[2025-03-04 11:26:31] [WARNING] ⚠ API failed for GBPUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:26:31] [INFO] 📊 Fetching Market Data for GBPUSDm...
+[2025-03-04 11:26:32] [ERROR] ❌ Error fetching Yahoo Finance data for GBPUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:26:32] [INFO] 📊 Market Data Updated for GBPUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:26:32] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:26:32] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+[2025-03-04 11:26:33] [INFO] 🔍 AI Confidence for GBPUSDm: 0.7940952777862549
+[2025-03-04 11:26:33] [INFO] ✅ AI Confident: Executing BUY for GBPUSDm
+[2025-03-04 11:26:33] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:26:33] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:26:33] [INFO] 🔍 AI Trade Decision for GBPUSDm: BUY
+[2025-03-04 11:26:33] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:26:33] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:26:33] [INFO] ✅ Executed BUY Trade for GBPUSDm
+[2025-03-04 11:26:33] [INFO] ⏳ Waiting for next trading cycle (60 sec)...
+[2025-03-04 11:27:33] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:27:34] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:27:34] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:27:34] [ERROR] ❌ Error fetching Yahoo Finance data for EURUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:27:34] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:27:34] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:27:34] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:27:36] [INFO] 🔍 AI Confidence for EURUSDm: 0.7940952777862549
+[2025-03-04 11:27:36] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-04 11:27:36] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:27:36] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:27:36] [INFO] 🔍 AI Trade Decision for EURUSDm: BUY
+[2025-03-04 11:27:36] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:27:36] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:27:36] [INFO] ✅ Executed BUY Trade for EURUSDm
+[2025-03-04 11:27:36] [INFO] 🤖 AI Trading for USDJPYm...
+[2025-03-04 11:27:36] [WARNING] ⚠ API failed for USDJPYm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:27:36] [INFO] 📊 Fetching Market Data for USDJPYm...
+[2025-03-04 11:27:36] [ERROR] ❌ Error fetching Yahoo Finance data for USDJPYm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:27:36] [INFO] 📊 Market Data Updated for USDJPYm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:27:36] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:27:36] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-04 11:27:38] [INFO] 🔍 AI Confidence for USDJPYm: 0.7940952777862549
+[2025-03-04 11:27:38] [INFO] ✅ AI Confident: Executing BUY for USDJPYm
+[2025-03-04 11:27:38] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:27:38] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:27:38] [INFO] 🔍 AI Trade Decision for USDJPYm: BUY
+[2025-03-04 11:27:38] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:27:38] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:27:38] [INFO] ✅ Executed BUY Trade for USDJPYm
+[2025-03-04 11:27:38] [INFO] 🤖 AI Trading for GBPUSDm...
+[2025-03-04 11:27:38] [WARNING] ⚠ API failed for GBPUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:27:38] [INFO] 📊 Fetching Market Data for GBPUSDm...
+[2025-03-04 11:27:38] [ERROR] ❌ Error fetching Yahoo Finance data for GBPUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:27:38] [INFO] 📊 Market Data Updated for GBPUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:27:38] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:27:39] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+[2025-03-04 11:27:40] [INFO] 🔍 AI Confidence for GBPUSDm: 0.7940952777862549
+[2025-03-04 11:27:40] [INFO] ✅ AI Confident: Executing BUY for GBPUSDm
+[2025-03-04 11:27:40] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:27:40] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:27:40] [INFO] 🔍 AI Trade Decision for GBPUSDm: BUY
+[2025-03-04 11:27:40] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:27:40] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:27:40] [INFO] ✅ Executed BUY Trade for GBPUSDm
+[2025-03-04 11:27:40] [INFO] ⏳ Waiting for next trading cycle (60 sec)...
+[2025-03-04 11:28:40] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:28:41] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:28:41] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:28:41] [ERROR] ❌ Error fetching Yahoo Finance data for EURUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:28:41] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:28:41] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:28:41] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:28:43] [INFO] 🔍 AI Confidence for EURUSDm: 0.7940952777862549
+[2025-03-04 11:28:43] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-04 11:28:43] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:28:43] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:28:43] [INFO] 🔍 AI Trade Decision for EURUSDm: BUY
+[2025-03-04 11:28:43] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:28:43] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:28:43] [INFO] ✅ Executed BUY Trade for EURUSDm
+[2025-03-04 11:28:43] [INFO] 🤖 AI Trading for USDJPYm...
+[2025-03-04 11:28:43] [WARNING] ⚠ API failed for USDJPYm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:28:43] [INFO] 📊 Fetching Market Data for USDJPYm...
+[2025-03-04 11:28:44] [ERROR] ❌ Error fetching Yahoo Finance data for USDJPYm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:28:44] [INFO] 📊 Market Data Updated for USDJPYm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:28:44] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:28:44] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-04 11:28:46] [INFO] 🔍 AI Confidence for USDJPYm: 0.7940952777862549
+[2025-03-04 11:28:46] [INFO] ✅ AI Confident: Executing BUY for USDJPYm
+[2025-03-04 11:28:46] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:28:46] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:28:46] [INFO] 🔍 AI Trade Decision for USDJPYm: BUY
+[2025-03-04 11:28:46] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:28:46] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:28:46] [INFO] ✅ Executed BUY Trade for USDJPYm
+[2025-03-04 11:28:46] [INFO] 🤖 AI Trading for GBPUSDm...
+[2025-03-04 11:28:46] [WARNING] ⚠ API failed for GBPUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:28:46] [INFO] 📊 Fetching Market Data for GBPUSDm...
+[2025-03-04 11:28:46] [ERROR] ❌ Error fetching Yahoo Finance data for GBPUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:28:46] [INFO] 📊 Market Data Updated for GBPUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:28:46] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:28:46] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+[2025-03-04 11:28:48] [INFO] 🔍 AI Confidence for GBPUSDm: 0.7940952777862549
+[2025-03-04 11:28:48] [INFO] ✅ AI Confident: Executing BUY for GBPUSDm
+[2025-03-04 11:28:48] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:28:48] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:28:48] [INFO] 🔍 AI Trade Decision for GBPUSDm: BUY
+[2025-03-04 11:28:48] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:28:48] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:28:48] [INFO] ✅ Executed BUY Trade for GBPUSDm
+[2025-03-04 11:28:48] [INFO] ⏳ Waiting for next trading cycle (60 sec)...
+[2025-03-04 11:29:48] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:29:48] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:29:48] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:29:49] [ERROR] ❌ Error fetching Yahoo Finance data for EURUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:29:49] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:29:49] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:29:49] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:29:50] [INFO] 🔍 AI Confidence for EURUSDm: 0.7940952777862549
+[2025-03-04 11:29:50] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-04 11:29:50] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:29:50] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:29:50] [INFO] 🔍 AI Trade Decision for EURUSDm: BUY
+[2025-03-04 11:29:50] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:29:50] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:29:50] [INFO] ✅ Executed BUY Trade for EURUSDm
+[2025-03-04 11:29:50] [INFO] 🤖 AI Trading for USDJPYm...
+[2025-03-04 11:29:50] [WARNING] ⚠ API failed for USDJPYm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:29:50] [INFO] 📊 Fetching Market Data for USDJPYm...
+[2025-03-04 11:29:51] [ERROR] ❌ Error fetching Yahoo Finance data for USDJPYm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:29:51] [INFO] 📊 Market Data Updated for USDJPYm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:29:51] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:29:51] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-04 11:29:53] [INFO] 🔍 AI Confidence for USDJPYm: 0.7940952777862549
+[2025-03-04 11:29:53] [INFO] ✅ AI Confident: Executing BUY for USDJPYm
+[2025-03-04 11:29:53] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:29:53] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:29:53] [INFO] 🔍 AI Trade Decision for USDJPYm: BUY
+[2025-03-04 11:29:53] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:29:53] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:29:53] [INFO] ✅ Executed BUY Trade for USDJPYm
+[2025-03-04 11:29:53] [INFO] 🤖 AI Trading for GBPUSDm...
+[2025-03-04 11:29:53] [WARNING] ⚠ API failed for GBPUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:29:53] [INFO] 📊 Fetching Market Data for GBPUSDm...
+[2025-03-04 11:29:53] [ERROR] ❌ Error fetching Yahoo Finance data for GBPUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:29:53] [INFO] 📊 Market Data Updated for GBPUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:29:53] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:29:53] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+[2025-03-04 11:29:56] [INFO] 🔍 AI Confidence for GBPUSDm: 0.7940952777862549
+[2025-03-04 11:29:56] [INFO] ✅ AI Confident: Executing BUY for GBPUSDm
+[2025-03-04 11:29:56] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:29:56] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:29:56] [INFO] 🔍 AI Trade Decision for GBPUSDm: BUY
+[2025-03-04 11:29:56] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:29:56] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:29:56] [INFO] ✅ Executed BUY Trade for GBPUSDm
+[2025-03-04 11:29:56] [INFO] ⏳ Waiting for next trading cycle (60 sec)...
+[2025-03-04 11:30:56] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:30:56] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:30:56] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:30:56] [ERROR] ❌ Error fetching Yahoo Finance data for EURUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:30:56] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:30:56] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:30:56] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:30:58] [INFO] 🔍 AI Confidence for EURUSDm: 0.7940952777862549
+[2025-03-04 11:30:58] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-04 11:30:58] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:30:58] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:30:58] [INFO] 🔍 AI Trade Decision for EURUSDm: BUY
+[2025-03-04 11:30:58] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:30:58] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:30:58] [INFO] ✅ Executed BUY Trade for EURUSDm
+[2025-03-04 11:30:58] [INFO] 🤖 AI Trading for USDJPYm...
+[2025-03-04 11:30:58] [WARNING] ⚠ API failed for USDJPYm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:30:58] [INFO] 📊 Fetching Market Data for USDJPYm...
+[2025-03-04 11:30:58] [ERROR] ❌ Error fetching Yahoo Finance data for USDJPYm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:30:58] [INFO] 📊 Market Data Updated for USDJPYm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:30:58] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:30:58] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-04 11:31:00] [INFO] 🔍 AI Confidence for USDJPYm: 0.7940952777862549
+[2025-03-04 11:31:00] [INFO] ✅ AI Confident: Executing BUY for USDJPYm
+[2025-03-04 11:31:00] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:31:00] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:31:00] [INFO] 🔍 AI Trade Decision for USDJPYm: BUY
+[2025-03-04 11:31:00] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:31:00] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:31:00] [INFO] ✅ Executed BUY Trade for USDJPYm
+[2025-03-04 11:31:00] [INFO] 🤖 AI Trading for GBPUSDm...
+[2025-03-04 11:31:00] [WARNING] ⚠ API failed for GBPUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:31:00] [INFO] 📊 Fetching Market Data for GBPUSDm...
+[2025-03-04 11:31:00] [ERROR] ❌ Error fetching Yahoo Finance data for GBPUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:31:00] [INFO] 📊 Market Data Updated for GBPUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:31:00] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:31:01] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+[2025-03-04 11:31:03] [INFO] 🔍 AI Confidence for GBPUSDm: 0.7940952777862549
+[2025-03-04 11:31:03] [INFO] ✅ AI Confident: Executing BUY for GBPUSDm
+[2025-03-04 11:31:03] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:31:03] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:31:03] [INFO] 🔍 AI Trade Decision for GBPUSDm: BUY
+[2025-03-04 11:31:03] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:31:03] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:31:03] [INFO] ✅ Executed BUY Trade for GBPUSDm
+[2025-03-04 11:31:03] [INFO] ⏳ Waiting for next trading cycle (60 sec)...
+[2025-03-04 11:32:03] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:32:03] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:32:03] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:32:04] [ERROR] ❌ Error fetching Yahoo Finance data for EURUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:32:04] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:32:04] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:32:04] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:32:06] [INFO] 🔍 AI Confidence for EURUSDm: 0.7940952777862549
+[2025-03-04 11:32:06] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-04 11:32:06] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:32:06] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:32:06] [INFO] 🔍 AI Trade Decision for EURUSDm: BUY
+[2025-03-04 11:32:06] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:32:06] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:32:06] [INFO] ✅ Executed BUY Trade for EURUSDm
+[2025-03-04 11:32:06] [INFO] 🤖 AI Trading for USDJPYm...
+[2025-03-04 11:32:06] [WARNING] ⚠ API failed for USDJPYm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:32:06] [INFO] 📊 Fetching Market Data for USDJPYm...
+[2025-03-04 11:32:06] [ERROR] ❌ Error fetching Yahoo Finance data for USDJPYm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:32:06] [INFO] 📊 Market Data Updated for USDJPYm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:32:06] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:32:06] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-04 11:32:08] [INFO] 🔍 AI Confidence for USDJPYm: 0.7940952777862549
+[2025-03-04 11:32:08] [INFO] ✅ AI Confident: Executing BUY for USDJPYm
+[2025-03-04 11:32:08] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:32:08] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:32:08] [INFO] 🔍 AI Trade Decision for USDJPYm: BUY
+[2025-03-04 11:32:08] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:32:08] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:32:08] [INFO] ✅ Executed BUY Trade for USDJPYm
+[2025-03-04 11:32:08] [INFO] 🤖 AI Trading for GBPUSDm...
+[2025-03-04 11:32:08] [WARNING] ⚠ API failed for GBPUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:32:08] [INFO] 📊 Fetching Market Data for GBPUSDm...
+[2025-03-04 11:32:09] [ERROR] ❌ Error fetching Yahoo Finance data for GBPUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:32:09] [INFO] 📊 Market Data Updated for GBPUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:32:09] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:32:09] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+[2025-03-04 11:32:10] [INFO] 🔍 AI Confidence for GBPUSDm: 0.7940952777862549
+[2025-03-04 11:32:10] [INFO] ✅ AI Confident: Executing BUY for GBPUSDm
+[2025-03-04 11:32:10] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:32:10] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:32:10] [INFO] 🔍 AI Trade Decision for GBPUSDm: BUY
+[2025-03-04 11:32:10] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:32:10] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:32:10] [INFO] ✅ Executed BUY Trade for GBPUSDm
+[2025-03-04 11:32:10] [INFO] ⏳ Waiting for next trading cycle (60 sec)...
+[2025-03-04 11:33:10] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:33:11] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:33:11] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:33:11] [ERROR] ❌ Error fetching Yahoo Finance data for EURUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:33:11] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:33:11] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:33:11] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:33:13] [INFO] 🔍 AI Confidence for EURUSDm: 0.7940952777862549
+[2025-03-04 11:33:13] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-04 11:33:13] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:33:13] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:33:13] [INFO] 🔍 AI Trade Decision for EURUSDm: BUY
+[2025-03-04 11:33:13] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:33:13] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:33:13] [INFO] ✅ Executed BUY Trade for EURUSDm
+[2025-03-04 11:33:13] [INFO] 🤖 AI Trading for USDJPYm...
+[2025-03-04 11:33:13] [WARNING] ⚠ API failed for USDJPYm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:33:13] [INFO] 📊 Fetching Market Data for USDJPYm...
+[2025-03-04 11:33:13] [ERROR] ❌ Error fetching Yahoo Finance data for USDJPYm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:33:13] [INFO] 📊 Market Data Updated for USDJPYm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:33:13] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:33:14] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-04 11:33:15] [INFO] 🔍 AI Confidence for USDJPYm: 0.7940952777862549
+[2025-03-04 11:33:15] [INFO] ✅ AI Confident: Executing BUY for USDJPYm
+[2025-03-04 11:33:15] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:33:15] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:33:15] [INFO] 🔍 AI Trade Decision for USDJPYm: BUY
+[2025-03-04 11:33:15] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:33:15] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:33:15] [INFO] ✅ Executed BUY Trade for USDJPYm
+[2025-03-04 11:33:15] [INFO] 🤖 AI Trading for GBPUSDm...
+[2025-03-04 11:33:15] [WARNING] ⚠ API failed for GBPUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:33:15] [INFO] 📊 Fetching Market Data for GBPUSDm...
+[2025-03-04 11:33:16] [ERROR] ❌ Error fetching Yahoo Finance data for GBPUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:33:16] [INFO] 📊 Market Data Updated for GBPUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:33:16] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:33:16] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+[2025-03-04 11:33:18] [INFO] 🔍 AI Confidence for GBPUSDm: 0.7940952777862549
+[2025-03-04 11:33:18] [INFO] ✅ AI Confident: Executing BUY for GBPUSDm
+[2025-03-04 11:33:18] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:33:18] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:33:18] [INFO] 🔍 AI Trade Decision for GBPUSDm: BUY
+[2025-03-04 11:33:18] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:33:18] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:33:18] [INFO] ✅ Executed BUY Trade for GBPUSDm
+[2025-03-04 11:33:18] [INFO] ⏳ Waiting for next trading cycle (60 sec)...
+[2025-03-04 11:34:18] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:34:18] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:34:18] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:34:18] [ERROR] ❌ Error fetching Yahoo Finance data for EURUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:34:18] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:34:18] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:34:18] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:34:20] [INFO] 🔍 AI Confidence for EURUSDm: 0.7940952777862549
+[2025-03-04 11:34:20] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-04 11:34:20] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:34:20] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:34:20] [INFO] 🔍 AI Trade Decision for EURUSDm: BUY
+[2025-03-04 11:34:20] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:34:20] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:34:20] [INFO] ✅ Executed BUY Trade for EURUSDm
+[2025-03-04 11:34:20] [INFO] 🤖 AI Trading for USDJPYm...
+[2025-03-04 11:34:20] [WARNING] ⚠ API failed for USDJPYm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:34:20] [INFO] 📊 Fetching Market Data for USDJPYm...
+[2025-03-04 11:34:20] [ERROR] ❌ Error fetching Yahoo Finance data for USDJPYm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:34:20] [INFO] 📊 Market Data Updated for USDJPYm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:34:20] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:34:20] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-04 11:34:22] [INFO] 🔍 AI Confidence for USDJPYm: 0.7940952777862549
+[2025-03-04 11:34:22] [INFO] ✅ AI Confident: Executing BUY for USDJPYm
+[2025-03-04 11:34:22] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:34:22] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:34:22] [INFO] 🔍 AI Trade Decision for USDJPYm: BUY
+[2025-03-04 11:34:22] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:34:22] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:34:22] [INFO] ✅ Executed BUY Trade for USDJPYm
+[2025-03-04 11:34:22] [INFO] 🤖 AI Trading for GBPUSDm...
+[2025-03-04 11:34:22] [WARNING] ⚠ API failed for GBPUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:34:22] [INFO] 📊 Fetching Market Data for GBPUSDm...
+[2025-03-04 11:34:22] [ERROR] ❌ Error fetching Yahoo Finance data for GBPUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:34:22] [INFO] 📊 Market Data Updated for GBPUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:34:22] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:34:22] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+[2025-03-04 11:34:24] [INFO] 🔍 AI Confidence for GBPUSDm: 0.7940952777862549
+[2025-03-04 11:34:24] [INFO] ✅ AI Confident: Executing BUY for GBPUSDm
+[2025-03-04 11:34:24] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:34:24] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:34:24] [INFO] 🔍 AI Trade Decision for GBPUSDm: BUY
+[2025-03-04 11:34:24] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:34:24] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:34:24] [INFO] ✅ Executed BUY Trade for GBPUSDm
+[2025-03-04 11:34:24] [INFO] ⏳ Waiting for next trading cycle (60 sec)...
+[2025-03-04 11:35:24] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:35:24] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:35:24] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:35:24] [ERROR] ❌ Error fetching Yahoo Finance data for EURUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:35:24] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:35:24] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:35:25] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:35:26] [INFO] 🔍 AI Confidence for EURUSDm: 0.7940952777862549
+[2025-03-04 11:35:26] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-04 11:35:26] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:35:26] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:35:26] [INFO] 🔍 AI Trade Decision for EURUSDm: BUY
+[2025-03-04 11:35:26] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:35:26] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:35:26] [INFO] ✅ Executed BUY Trade for EURUSDm
+[2025-03-04 11:35:26] [INFO] 🤖 AI Trading for USDJPYm...
+[2025-03-04 11:35:26] [WARNING] ⚠ API failed for USDJPYm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:35:26] [INFO] 📊 Fetching Market Data for USDJPYm...
+[2025-03-04 11:35:26] [ERROR] ❌ Error fetching Yahoo Finance data for USDJPYm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:35:26] [INFO] 📊 Market Data Updated for USDJPYm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:35:26] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:35:26] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-04 11:35:27] [INFO] 🔍 AI Confidence for USDJPYm: 0.7940952777862549
+[2025-03-04 11:35:27] [INFO] ✅ AI Confident: Executing BUY for USDJPYm
+[2025-03-04 11:35:27] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:35:27] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:35:27] [INFO] 🔍 AI Trade Decision for USDJPYm: BUY
+[2025-03-04 11:35:27] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:35:27] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:35:27] [INFO] ✅ Executed BUY Trade for USDJPYm
+[2025-03-04 11:35:27] [INFO] 🤖 AI Trading for GBPUSDm...
+[2025-03-04 11:35:27] [WARNING] ⚠ API failed for GBPUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:35:27] [INFO] 📊 Fetching Market Data for GBPUSDm...
+[2025-03-04 11:35:28] [ERROR] ❌ Error fetching Yahoo Finance data for GBPUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:35:28] [INFO] 📊 Market Data Updated for GBPUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:35:28] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:35:28] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+[2025-03-04 11:35:29] [INFO] 🔍 AI Confidence for GBPUSDm: 0.7940952777862549
+[2025-03-04 11:35:29] [INFO] ✅ AI Confident: Executing BUY for GBPUSDm
+[2025-03-04 11:35:29] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:35:29] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:35:29] [INFO] 🔍 AI Trade Decision for GBPUSDm: BUY
+[2025-03-04 11:35:29] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:35:29] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:35:29] [INFO] ✅ Executed BUY Trade for GBPUSDm
+[2025-03-04 11:35:29] [INFO] ⏳ Waiting for next trading cycle (60 sec)...
+[2025-03-04 11:36:29] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:36:29] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:36:29] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:36:29] [ERROR] ❌ Error fetching Yahoo Finance data for EURUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:36:29] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:36:29] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:36:30] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:36:31] [INFO] 🔍 AI Confidence for EURUSDm: 0.7940952777862549
+[2025-03-04 11:36:31] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-04 11:36:31] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:36:31] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:36:31] [INFO] 🔍 AI Trade Decision for EURUSDm: BUY
+[2025-03-04 11:36:31] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:36:31] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:36:31] [INFO] ✅ Executed BUY Trade for EURUSDm
+[2025-03-04 11:36:31] [INFO] 🤖 AI Trading for USDJPYm...
+[2025-03-04 11:36:31] [WARNING] ⚠ API failed for USDJPYm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:36:31] [INFO] 📊 Fetching Market Data for USDJPYm...
+[2025-03-04 11:36:31] [ERROR] ❌ Error fetching Yahoo Finance data for USDJPYm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:36:31] [INFO] 📊 Market Data Updated for USDJPYm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:36:31] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:36:31] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-04 11:36:33] [INFO] 🔍 AI Confidence for USDJPYm: 0.7940952777862549
+[2025-03-04 11:36:33] [INFO] ✅ AI Confident: Executing BUY for USDJPYm
+[2025-03-04 11:36:33] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:36:33] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:36:33] [INFO] 🔍 AI Trade Decision for USDJPYm: BUY
+[2025-03-04 11:36:33] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:36:33] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:36:33] [INFO] ✅ Executed BUY Trade for USDJPYm
+[2025-03-04 11:36:33] [INFO] 🤖 AI Trading for GBPUSDm...
+[2025-03-04 11:36:33] [WARNING] ⚠ API failed for GBPUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:36:33] [INFO] 📊 Fetching Market Data for GBPUSDm...
+[2025-03-04 11:36:33] [ERROR] ❌ Error fetching Yahoo Finance data for GBPUSDm: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+[2025-03-04 11:36:33] [INFO] 📊 Market Data Updated for GBPUSDm: {'price': 1.0, 'volume': 1000}
+[2025-03-04 11:36:33] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:36:33] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+[2025-03-04 11:36:35] [INFO] 🔍 AI Confidence for GBPUSDm: 0.7940952777862549
+[2025-03-04 11:36:35] [INFO] ✅ AI Confident: Executing BUY for GBPUSDm
+[2025-03-04 11:36:35] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:36:35] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:36:35] [INFO] 🔍 AI Trade Decision for GBPUSDm: BUY
+[2025-03-04 11:36:35] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:36:35] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:36:35] [INFO] ✅ Executed BUY Trade for GBPUSDm
+[2025-03-04 11:36:35] [INFO] ⏳ Waiting for next trading cycle (60 sec)...
+[2025-03-04 11:37:19] [WARNING] ⚠ Trading Bot Stopped Manually!
+[2025-03-04 11:37:19] [INFO] 🔌 MT5 Connection Closed!
+[2025-03-04 11:43:15] [INFO] ✅ MT5 Connected Successfully!
+[2025-03-04 11:43:15] [INFO] 🚀 AI Trading Bot is now running...
+[2025-03-04 11:43:15] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:43:15] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:43:15] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:43:18] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.048218011856079, 'volume': 0}
+[2025-03-04 11:43:18] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:43:19] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:43:19] [INFO] 📰 Fetching Forex News Sentiment for EURUSDm...
+2025-03-04 11:43:28,625 - WARNING - AutoGraph could not transform <bound method HTTPConnectionPool._validate_conn of <urllib3.connectionpool.HTTPSConnectionPool object at 0x0000023B730AEAA0>> and will run it as-is.
+Please report this to the TensorFlow team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output.
+Cause: expected an indented block after 'with' statement on line 11 (__autograph_generated_filed1v5oggf.py, line 12)
+To silence this warning, decorate the function with @tf.autograph.experimental.do_not_convert
+2025-03-04 11:43:31,623 - WARNING - AutoGraph could not transform <bound method HTTPConnection.putrequest of <urllib3.connection.HTTPSConnection object at 0x0000023B73302560>> and will run it as-is.
+Cause: mangled names are not yet supported
+To silence this warning, decorate the function with @tf.autograph.experimental.do_not_convert
+2025-03-04 11:43:31,633 - WARNING - AutoGraph could not transform <function body_to_chunks at 0x0000023B57A51480> and will run it as-is.
+Cause: generators are not supported
+To silence this warning, decorate the function with @tf.autograph.experimental.do_not_convert
+2025-03-04 11:43:31,719 - WARNING - AutoGraph could not transform <bound method HTTPConnection.putheader of <urllib3.connection.HTTPSConnection object at 0x0000023B73302560>> and will run it as-is.
+Cause: mangled names are not yet supported
+To silence this warning, decorate the function with @tf.autograph.experimental.do_not_convert
+2025-03-04 11:43:31,730 - WARNING - AutoGraph could not transform <bound method HTTPConnection.endheaders of <urllib3.connection.HTTPSConnection object at 0x0000023B73302560>> and will run it as-is.
+Cause: mangled names are not yet supported
+To silence this warning, decorate the function with @tf.autograph.experimental.do_not_convert
+2025-03-04 11:43:31,839 - WARNING - AutoGraph could not transform <bound method HTTPConnection.getresponse of <urllib3.connection.HTTPSConnection object at 0x0000023B73302560>> and will run it as-is.
+Cause: mangled names are not yet supported
+To silence this warning, decorate the function with @tf.autograph.experimental.do_not_convert
+2025-03-04 11:43:37,533 - WARNING - AutoGraph could not transform <bound method DefaultCookiePolicy.set_ok_port of <http.cookiejar.DefaultCookiePolicy object at 0x0000023B738F0160>> and will run it as-is.
+Cause: for/else statement not yet supported
+To silence this warning, decorate the function with @tf.autograph.experimental.do_not_convert
+[2025-03-04 11:43:39] [ERROR] ❌ ERROR in Trading Bot: in user code:
+
+    File "C:\Users\Lenovo\Desktop\Trading bot\ai_core\ai_learning.py", line 59, in ai_trade_confidence  *
+        past_insights = float(integrate_past_data_with_main_ai())
+    File "C:\Users\Lenovo\Desktop\Trading bot\ai_core\past_data_ai.py", line 126, in integrate_past_data_with_main_ai  *
+        past_insights = model.predict(test_input)
+    File "C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\keras\src\utils\traceback_utils.py", line 122, in error_handler  **
+        raise e.with_traceback(filtered_tb) from None
+    File "C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\optree\ops.py", line 766, in tree_map
+        return treespec.unflatten(map(func, *flat_args))
+
+    AttributeError: 'SymbolicTensor' object has no attribute 'numpy'
+
+[2025-03-04 11:43:39] [INFO] 🔌 MT5 Connection Closed!
+[2025-03-04 11:50:32] [INFO] ✅ MT5 Connected Successfully!
+[2025-03-04 11:50:32] [INFO] 🚀 AI Trading Bot is now running...
+[2025-03-04 11:50:32] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:50:32] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:50:32] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:50:37] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0487676858901978, 'volume': 0}
+[2025-03-04 11:50:37] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:50:37] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:50:37] [INFO] 📰 Fetching Forex News Sentiment for EURUSDm...
+[2025-03-04 11:50:39] [INFO] 🔍 AI Confidence for EURUSDm: 0.7940952777862549
+[2025-03-04 11:50:39] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-04 11:50:39] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:50:39] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:50:39] [INFO] 🔍 AI Trade Decision for EURUSDm: BUY
+[2025-03-04 11:50:39] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:50:39] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:50:39] [INFO] ✅ Executed BUY Trade for EURUSDm
+[2025-03-04 11:50:39] [INFO] 🤖 AI Trading for USDJPYm...
+[2025-03-04 11:50:39] [WARNING] ⚠ API failed for USDJPYm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:50:39] [INFO] 📊 Fetching Market Data for USDJPYm...
+[2025-03-04 11:50:39] [INFO] 📊 Market Data Updated for USDJPYm: {'price': 149.32699584960938, 'volume': 0}
+[2025-03-04 11:50:39] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:50:39] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-04 11:50:39] [INFO] 📰 Fetching Forex News Sentiment for USDJPYm...
+[2025-03-04 11:50:40] [INFO] 🔍 AI Confidence for USDJPYm: 0.7940952777862549
+[2025-03-04 11:50:40] [INFO] ✅ AI Confident: Executing BUY for USDJPYm
+[2025-03-04 11:50:40] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:50:40] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:50:40] [INFO] 🔍 AI Trade Decision for USDJPYm: BUY
+[2025-03-04 11:50:40] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:50:40] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:50:40] [INFO] ✅ Executed BUY Trade for USDJPYm
+[2025-03-04 11:50:40] [INFO] 🤖 AI Trading for GBPUSDm...
+[2025-03-04 11:50:40] [WARNING] ⚠ API failed for GBPUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:50:40] [INFO] 📊 Fetching Market Data for GBPUSDm...
+[2025-03-04 11:50:41] [INFO] 📊 Market Data Updated for GBPUSDm: {'price': 1.2696478366851807, 'volume': 0}
+[2025-03-04 11:50:41] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:50:41] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+[2025-03-04 11:50:41] [INFO] 📰 Fetching Forex News Sentiment for GBPUSDm...
+2025-03-04 11:50:42,194 - WARNING - 5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x0000015742337F40> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2025-03-04 11:50:42,730 - WARNING - 6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x0000015742337D90> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+[2025-03-04 11:50:42] [INFO] 🔍 AI Confidence for GBPUSDm: 0.7940952777862549
+[2025-03-04 11:50:42] [INFO] ✅ AI Confident: Executing BUY for GBPUSDm
+[2025-03-04 11:50:42] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:50:42] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:50:42] [INFO] 🔍 AI Trade Decision for GBPUSDm: BUY
+[2025-03-04 11:50:42] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:50:42] [ERROR] ❌ Trade Execution Failed: No money
+[2025-03-04 11:50:42] [INFO] ✅ Executed BUY Trade for GBPUSDm
+[2025-03-04 11:50:42] [INFO] ⏳ Waiting for next trading cycle (60 sec)...
+[2025-03-04 11:51:42] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:51:42] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:51:42] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:51:43] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0488777160644531, 'volume': 0}
+[2025-03-04 11:51:43] [INFO] 📊 Open Trades: 9
+[2025-03-04 11:51:43] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:51:43] [INFO] 📰 Fetching Forex News Sentiment for EURUSDm...
+[2025-03-04 11:51:44] [INFO] 🔍 AI Confidence for EURUSDm: 0.7940952777862549
+[2025-03-04 11:51:44] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-04 11:51:44] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:51:44] [INFO] ✅ Trade Executed Successfully for EURUSDm (BUY) at 1.04875
+[2025-03-04 11:51:44] [INFO] 🔍 AI Trade Decision for EURUSDm: BUY
+[2025-03-04 11:51:44] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:51:44] [INFO] ✅ Trade Executed Successfully for EURUSDm (BUY) at 1.04875
+[2025-03-04 11:51:44] [INFO] ✅ Executed BUY Trade for EURUSDm
+[2025-03-04 11:51:44] [INFO] 🤖 AI Trading for USDJPYm...
+[2025-03-04 11:51:44] [WARNING] ⚠ API failed for USDJPYm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:51:44] [INFO] 📊 Fetching Market Data for USDJPYm...
+[2025-03-04 11:51:45] [INFO] 📊 Market Data Updated for USDJPYm: {'price': 149.3090057373047, 'volume': 0}
+[2025-03-04 11:51:45] [INFO] 📊 Open Trades: 11
+[2025-03-04 11:51:45] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-04 11:51:45] [INFO] 📰 Fetching Forex News Sentiment for USDJPYm...
+[2025-03-04 11:51:46] [INFO] 🔍 AI Confidence for USDJPYm: 0.7940952777862549
+[2025-03-04 11:51:46] [INFO] ✅ AI Confident: Executing BUY for USDJPYm
+[2025-03-04 11:51:46] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:51:46] [INFO] ✅ Trade Executed Successfully for USDJPYm (BUY) at 149.304
+[2025-03-04 11:51:46] [INFO] 🔍 AI Trade Decision for USDJPYm: BUY
+[2025-03-04 11:51:46] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:51:46] [INFO] ✅ Trade Executed Successfully for USDJPYm (BUY) at 149.304
+[2025-03-04 11:51:46] [INFO] ✅ Executed BUY Trade for USDJPYm
+[2025-03-04 11:51:46] [INFO] 🤖 AI Trading for GBPUSDm...
+[2025-03-04 11:51:46] [WARNING] ⚠ API failed for GBPUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:51:46] [INFO] 📊 Fetching Market Data for GBPUSDm...
+[2025-03-04 11:51:47] [INFO] 📊 Market Data Updated for GBPUSDm: {'price': 1.269712209701538, 'volume': 0}
+[2025-03-04 11:51:47] [INFO] 📊 Open Trades: 13
+[2025-03-04 11:51:47] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+[2025-03-04 11:51:47] [INFO] 📰 Fetching Forex News Sentiment for GBPUSDm...
+[2025-03-04 11:51:48] [INFO] 🔍 AI Confidence for GBPUSDm: 0.7940952777862549
+[2025-03-04 11:51:48] [INFO] ✅ AI Confident: Executing BUY for GBPUSDm
+[2025-03-04 11:51:48] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:51:48] [INFO] ✅ Trade Executed Successfully for GBPUSDm (BUY) at 1.26987
+[2025-03-04 11:51:48] [INFO] 🔍 AI Trade Decision for GBPUSDm: BUY
+[2025-03-04 11:51:48] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:51:48] [INFO] ✅ Trade Executed Successfully for GBPUSDm (BUY) at 1.26987
+[2025-03-04 11:51:48] [INFO] ✅ Executed BUY Trade for GBPUSDm
+[2025-03-04 11:51:48] [INFO] ⏳ Waiting for next trading cycle (60 sec)...
+[2025-03-04 11:52:48] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:52:48] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:52:48] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:52:49] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0489877462387085, 'volume': 0}
+[2025-03-04 11:52:49] [INFO] 📊 Open Trades: 15
+[2025-03-04 11:52:49] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:52:49] [INFO] 📰 Fetching Forex News Sentiment for EURUSDm...
+[2025-03-04 11:52:51] [INFO] 🔍 AI Confidence for EURUSDm: 0.7940952777862549
+[2025-03-04 11:52:51] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-04 11:52:51] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:52:51] [INFO] ✅ Trade Executed Successfully for EURUSDm (BUY) at 1.04876
+[2025-03-04 11:52:51] [INFO] 🔍 AI Trade Decision for EURUSDm: BUY
+[2025-03-04 11:52:51] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:52:52] [INFO] ✅ Trade Executed Successfully for EURUSDm (BUY) at 1.04876
+[2025-03-04 11:52:52] [INFO] ✅ Executed BUY Trade for EURUSDm
+[2025-03-04 11:52:52] [INFO] 🤖 AI Trading for USDJPYm...
+[2025-03-04 11:52:52] [WARNING] ⚠ API failed for USDJPYm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:52:52] [INFO] 📊 Fetching Market Data for USDJPYm...
+[2025-03-04 11:52:52] [INFO] 📊 Market Data Updated for USDJPYm: {'price': 149.3459930419922, 'volume': 0}
+[2025-03-04 11:52:52] [INFO] 📊 Open Trades: 17
+[2025-03-04 11:52:52] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-04 11:52:52] [INFO] 📰 Fetching Forex News Sentiment for USDJPYm...
+[2025-03-04 11:52:54] [INFO] 🔍 AI Confidence for USDJPYm: 0.7940952777862549
+[2025-03-04 11:52:54] [INFO] ✅ AI Confident: Executing BUY for USDJPYm
+[2025-03-04 11:52:54] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:52:54] [INFO] ✅ Trade Executed Successfully for USDJPYm (BUY) at 149.353
+[2025-03-04 11:52:54] [INFO] 🔍 AI Trade Decision for USDJPYm: BUY
+[2025-03-04 11:52:54] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:52:55] [INFO] ✅ Trade Executed Successfully for USDJPYm (BUY) at 149.353
+[2025-03-04 11:52:55] [INFO] ✅ Executed BUY Trade for USDJPYm
+[2025-03-04 11:52:55] [INFO] 🤖 AI Trading for GBPUSDm...
+[2025-03-04 11:52:55] [WARNING] ⚠ API failed for GBPUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:52:55] [INFO] 📊 Fetching Market Data for GBPUSDm...
+[2025-03-04 11:52:55] [INFO] 📊 Market Data Updated for GBPUSDm: {'price': 1.269857406616211, 'volume': 0}
+[2025-03-04 11:52:55] [INFO] 📊 Open Trades: 19
+[2025-03-04 11:52:55] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+[2025-03-04 11:52:55] [INFO] 📰 Fetching Forex News Sentiment for GBPUSDm...
+[2025-03-04 11:52:57] [INFO] 🔍 AI Confidence for GBPUSDm: 0.7940952777862549
+[2025-03-04 11:52:57] [INFO] ✅ AI Confident: Executing BUY for GBPUSDm
+[2025-03-04 11:52:57] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:52:57] [INFO] ✅ Trade Executed Successfully for GBPUSDm (BUY) at 1.26983
+[2025-03-04 11:52:57] [INFO] 🔍 AI Trade Decision for GBPUSDm: BUY
+[2025-03-04 11:52:57] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:52:57] [INFO] ✅ Trade Executed Successfully for GBPUSDm (BUY) at 1.26983
+[2025-03-04 11:52:57] [INFO] ✅ Executed BUY Trade for GBPUSDm
+[2025-03-04 11:52:57] [INFO] ⏳ Waiting for next trading cycle (60 sec)...
+[2025-03-04 11:53:57] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:53:57] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:53:57] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:53:58] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0489877462387085, 'volume': 0}
+[2025-03-04 11:53:58] [INFO] 📊 Open Trades: 21
+[2025-03-04 11:53:58] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:53:58] [INFO] 📰 Fetching Forex News Sentiment for EURUSDm...
+[2025-03-04 11:54:00] [INFO] 🔍 AI Confidence for EURUSDm: 0.7940952777862549
+[2025-03-04 11:54:00] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-04 11:54:00] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:54:00] [INFO] ✅ Trade Executed Successfully for EURUSDm (BUY) at 1.04888
+[2025-03-04 11:54:00] [INFO] 🔍 AI Trade Decision for EURUSDm: BUY
+[2025-03-04 11:54:00] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:54:01] [INFO] ✅ Trade Executed Successfully for EURUSDm (BUY) at 1.04888
+[2025-03-04 11:54:01] [INFO] ✅ Executed BUY Trade for EURUSDm
+[2025-03-04 11:54:01] [INFO] 🤖 AI Trading for USDJPYm...
+[2025-03-04 11:54:01] [WARNING] ⚠ API failed for USDJPYm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:54:01] [INFO] 📊 Fetching Market Data for USDJPYm...
+[2025-03-04 11:54:01] [INFO] 📊 Market Data Updated for USDJPYm: {'price': 149.33200073242188, 'volume': 0}
+[2025-03-04 11:54:01] [INFO] 📊 Open Trades: 23
+[2025-03-04 11:54:01] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-04 11:54:01] [INFO] 📰 Fetching Forex News Sentiment for USDJPYm...
+[2025-03-04 11:54:03] [INFO] 🔍 AI Confidence for USDJPYm: 0.7940952777862549
+[2025-03-04 11:54:03] [INFO] ✅ AI Confident: Executing BUY for USDJPYm
+[2025-03-04 11:54:03] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:54:03] [INFO] ✅ Trade Executed Successfully for USDJPYm (BUY) at 149.338
+[2025-03-04 11:54:03] [INFO] 🔍 AI Trade Decision for USDJPYm: BUY
+[2025-03-04 11:54:03] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:54:03] [INFO] ✅ Trade Executed Successfully for USDJPYm (BUY) at 149.338
+[2025-03-04 11:54:03] [INFO] ✅ Executed BUY Trade for USDJPYm
+[2025-03-04 11:54:03] [INFO] 🤖 AI Trading for GBPUSDm...
+[2025-03-04 11:54:03] [WARNING] ⚠ API failed for GBPUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:54:03] [INFO] 📊 Fetching Market Data for GBPUSDm...
+[2025-03-04 11:54:04] [INFO] 📊 Market Data Updated for GBPUSDm: {'price': 1.2702605724334717, 'volume': 0}
+[2025-03-04 11:54:04] [INFO] 📊 Open Trades: 25
+[2025-03-04 11:54:04] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+[2025-03-04 11:54:04] [INFO] 📰 Fetching Forex News Sentiment for GBPUSDm...
+[2025-03-04 11:54:06] [INFO] 🔍 AI Confidence for GBPUSDm: 0.7940952777862549
+[2025-03-04 11:54:06] [INFO] ✅ AI Confident: Executing BUY for GBPUSDm
+[2025-03-04 11:54:06] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:54:06] [INFO] ✅ Trade Executed Successfully for GBPUSDm (BUY) at 1.27
+[2025-03-04 11:54:06] [INFO] 🔍 AI Trade Decision for GBPUSDm: BUY
+[2025-03-04 11:54:06] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:54:07] [INFO] ✅ Trade Executed Successfully for GBPUSDm (BUY) at 1.27003
+[2025-03-04 11:54:07] [INFO] ✅ Executed BUY Trade for GBPUSDm
+[2025-03-04 11:54:07] [INFO] ⏳ Waiting for next trading cycle (60 sec)...
+[2025-03-04 11:55:07] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:55:07] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:55:07] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:55:07] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0490977764129639, 'volume': 0}
+[2025-03-04 11:55:07] [INFO] 📊 Open Trades: 27
+[2025-03-04 11:55:07] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:55:07] [INFO] 📰 Fetching Forex News Sentiment for EURUSDm...
+[2025-03-04 11:55:08] [INFO] 🔍 AI Confidence for EURUSDm: 0.7940952777862549
+[2025-03-04 11:55:08] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-04 11:55:08] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:55:08] [INFO] ✅ Trade Executed Successfully for EURUSDm (BUY) at 1.04893
+[2025-03-04 11:55:08] [INFO] 🔍 AI Trade Decision for EURUSDm: BUY
+[2025-03-04 11:55:08] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:55:09] [INFO] ✅ Trade Executed Successfully for EURUSDm (BUY) at 1.04893
+[2025-03-04 11:55:09] [INFO] ✅ Executed BUY Trade for EURUSDm
+[2025-03-04 11:55:09] [INFO] 🤖 AI Trading for USDJPYm...
+[2025-03-04 11:55:09] [WARNING] ⚠ API failed for USDJPYm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:55:09] [INFO] 📊 Fetching Market Data for USDJPYm...
+[2025-03-04 11:55:09] [INFO] 📊 Market Data Updated for USDJPYm: {'price': 149.32000732421875, 'volume': 0}
+[2025-03-04 11:55:09] [INFO] 📊 Open Trades: 29
+[2025-03-04 11:55:09] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-04 11:55:09] [INFO] 📰 Fetching Forex News Sentiment for USDJPYm...
+[2025-03-04 11:55:11] [INFO] 🔍 AI Confidence for USDJPYm: 0.7940952777862549
+[2025-03-04 11:55:11] [INFO] ✅ AI Confident: Executing BUY for USDJPYm
+[2025-03-04 11:55:11] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:55:11] [INFO] ✅ Trade Executed Successfully for USDJPYm (BUY) at 149.324
+[2025-03-04 11:55:11] [INFO] 🔍 AI Trade Decision for USDJPYm: BUY
+[2025-03-04 11:55:11] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:55:11] [INFO] ✅ Trade Executed Successfully for USDJPYm (BUY) at 149.324
+[2025-03-04 11:55:11] [INFO] ✅ Executed BUY Trade for USDJPYm
+[2025-03-04 11:55:11] [INFO] 🤖 AI Trading for GBPUSDm...
+[2025-03-04 11:55:11] [WARNING] ⚠ API failed for GBPUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:55:11] [INFO] 📊 Fetching Market Data for GBPUSDm...
+[2025-03-04 11:55:12] [INFO] 📊 Market Data Updated for GBPUSDm: {'price': 1.2700347900390625, 'volume': 0}
+[2025-03-04 11:55:12] [INFO] 📊 Open Trades: 31
+[2025-03-04 11:55:12] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+[2025-03-04 11:55:12] [INFO] 📰 Fetching Forex News Sentiment for GBPUSDm...
+[2025-03-04 11:55:13] [INFO] 🔍 AI Confidence for GBPUSDm: 0.7940952777862549
+[2025-03-04 11:55:13] [INFO] ✅ AI Confident: Executing BUY for GBPUSDm
+[2025-03-04 11:55:13] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:55:13] [INFO] ✅ Trade Executed Successfully for GBPUSDm (BUY) at 1.27003
+[2025-03-04 11:55:13] [INFO] 🔍 AI Trade Decision for GBPUSDm: BUY
+[2025-03-04 11:55:13] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:55:13] [INFO] ✅ Trade Executed Successfully for GBPUSDm (BUY) at 1.27003
+[2025-03-04 11:55:13] [INFO] ✅ Executed BUY Trade for GBPUSDm
+[2025-03-04 11:55:13] [INFO] ⏳ Waiting for next trading cycle (60 sec)...
+[2025-03-04 11:56:13] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:56:13] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:56:13] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:56:14] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0490977764129639, 'volume': 0}
+[2025-03-04 11:56:14] [INFO] 📊 Open Trades: 33
+[2025-03-04 11:56:14] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:56:14] [INFO] 📰 Fetching Forex News Sentiment for EURUSDm...
+[2025-03-04 11:56:16] [INFO] 🔍 AI Confidence for EURUSDm: 0.7940952777862549
+[2025-03-04 11:56:16] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-04 11:56:16] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:56:16] [INFO] ✅ Trade Executed Successfully for EURUSDm (BUY) at 1.04891
+[2025-03-04 11:56:16] [INFO] 🔍 AI Trade Decision for EURUSDm: BUY
+[2025-03-04 11:56:16] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:56:16] [INFO] ✅ Trade Executed Successfully for EURUSDm (BUY) at 1.04891
+[2025-03-04 11:56:16] [INFO] ✅ Executed BUY Trade for EURUSDm
+[2025-03-04 11:56:16] [INFO] 🤖 AI Trading for USDJPYm...
+[2025-03-04 11:56:16] [WARNING] ⚠ API failed for USDJPYm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:56:16] [INFO] 📊 Fetching Market Data for USDJPYm...
+[2025-03-04 11:56:16] [INFO] 📊 Market Data Updated for USDJPYm: {'price': 149.33599853515625, 'volume': 0}
+[2025-03-04 11:56:16] [INFO] 📊 Open Trades: 35
+[2025-03-04 11:56:16] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-04 11:56:16] [INFO] 📰 Fetching Forex News Sentiment for USDJPYm...
+[2025-03-04 11:56:18] [INFO] 🔍 AI Confidence for USDJPYm: 0.7940952777862549
+[2025-03-04 11:56:18] [INFO] ✅ AI Confident: Executing BUY for USDJPYm
+[2025-03-04 11:56:18] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:56:18] [INFO] ✅ Trade Executed Successfully for USDJPYm (BUY) at 149.345
+[2025-03-04 11:56:18] [INFO] 🔍 AI Trade Decision for USDJPYm: BUY
+[2025-03-04 11:56:18] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:56:18] [INFO] ✅ Trade Executed Successfully for USDJPYm (BUY) at 149.346
+[2025-03-04 11:56:18] [INFO] ✅ Executed BUY Trade for USDJPYm
+[2025-03-04 11:56:18] [INFO] 🤖 AI Trading for GBPUSDm...
+[2025-03-04 11:56:18] [WARNING] ⚠ API failed for GBPUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:56:18] [INFO] 📊 Fetching Market Data for GBPUSDm...
+[2025-03-04 11:56:18] [INFO] 📊 Market Data Updated for GBPUSDm: {'price': 1.269921898841858, 'volume': 0}
+[2025-03-04 11:56:18] [INFO] 📊 Open Trades: 37
+[2025-03-04 11:56:19] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+[2025-03-04 11:56:19] [INFO] 📰 Fetching Forex News Sentiment for GBPUSDm...
+[2025-03-04 11:56:20] [INFO] 🔍 AI Confidence for GBPUSDm: 0.7940952777862549
+[2025-03-04 11:56:20] [INFO] ✅ AI Confident: Executing BUY for GBPUSDm
+[2025-03-04 11:56:20] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:56:20] [INFO] ✅ Trade Executed Successfully for GBPUSDm (BUY) at 1.27006
+[2025-03-04 11:56:20] [INFO] 🔍 AI Trade Decision for GBPUSDm: BUY
+[2025-03-04 11:56:20] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:56:20] [INFO] ✅ Trade Executed Successfully for GBPUSDm (BUY) at 1.27008
+[2025-03-04 11:56:20] [INFO] ✅ Executed BUY Trade for GBPUSDm
+[2025-03-04 11:56:20] [INFO] ⏳ Waiting for next trading cycle (60 sec)...
+[2025-03-04 11:57:20] [INFO] 🤖 AI Trading for EURUSDm...
+[2025-03-04 11:57:20] [WARNING] ⚠ API failed for EURUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:57:20] [INFO] 📊 Fetching Market Data for EURUSDm...
+[2025-03-04 11:57:21] [INFO] 📊 Market Data Updated for EURUSDm: {'price': 1.0489877462387085, 'volume': 0}
+[2025-03-04 11:57:21] [INFO] 📊 Open Trades: 39
+[2025-03-04 11:57:21] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-04 11:57:21] [INFO] 📰 Fetching Forex News Sentiment for EURUSDm...
+[2025-03-04 11:57:22] [INFO] 🔍 AI Confidence for EURUSDm: 0.7940952777862549
+[2025-03-04 11:57:22] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-04 11:57:22] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:57:23] [INFO] ✅ Trade Executed Successfully for EURUSDm (BUY) at 1.04884
+[2025-03-04 11:57:23] [INFO] 🔍 AI Trade Decision for EURUSDm: BUY
+[2025-03-04 11:57:23] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-04 11:57:23] [INFO] ✅ Trade Executed Successfully for EURUSDm (BUY) at 1.04884
+[2025-03-04 11:57:23] [INFO] ✅ Executed BUY Trade for EURUSDm
+[2025-03-04 11:57:23] [INFO] 🤖 AI Trading for USDJPYm...
+[2025-03-04 11:57:23] [WARNING] ⚠ API failed for USDJPYm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:57:23] [INFO] 📊 Fetching Market Data for USDJPYm...
+[2025-03-04 11:57:23] [INFO] 📊 Market Data Updated for USDJPYm: {'price': 149.36900329589844, 'volume': 0}
+[2025-03-04 11:57:23] [INFO] 📊 Open Trades: 41
+[2025-03-04 11:57:23] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-04 11:57:23] [INFO] 📰 Fetching Forex News Sentiment for USDJPYm...
+[2025-03-04 11:57:25] [INFO] 🔍 AI Confidence for USDJPYm: 0.7940952777862549
+[2025-03-04 11:57:25] [INFO] ✅ AI Confident: Executing BUY for USDJPYm
+[2025-03-04 11:57:25] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:57:25] [INFO] ✅ Trade Executed Successfully for USDJPYm (BUY) at 149.379
+[2025-03-04 11:57:25] [INFO] 🔍 AI Trade Decision for USDJPYm: BUY
+[2025-03-04 11:57:25] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-04 11:57:25] [INFO] ✅ Trade Executed Successfully for USDJPYm (BUY) at 149.379
+[2025-03-04 11:57:25] [INFO] ✅ Executed BUY Trade for USDJPYm
+[2025-03-04 11:57:25] [INFO] 🤖 AI Trading for GBPUSDm...
+[2025-03-04 11:57:25] [WARNING] ⚠ API failed for GBPUSDm. Fetching Yahoo Finance data instead.
+[2025-03-04 11:57:25] [INFO] 📊 Fetching Market Data for GBPUSDm...
+[2025-03-04 11:57:26] [INFO] 📊 Market Data Updated for GBPUSDm: {'price': 1.2700024843215942, 'volume': 0}
+[2025-03-04 11:57:26] [INFO] 📊 Open Trades: 43
+[2025-03-04 11:57:26] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+[2025-03-04 11:57:26] [INFO] 📰 Fetching Forex News Sentiment for GBPUSDm...
+[2025-03-04 11:57:27] [INFO] 🔍 AI Confidence for GBPUSDm: 0.7940952777862549
+[2025-03-04 11:57:27] [INFO] ✅ AI Confident: Executing BUY for GBPUSDm
+[2025-03-04 11:57:27] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:57:27] [INFO] ✅ Trade Executed Successfully for GBPUSDm (BUY) at 1.2701
+[2025-03-04 11:57:27] [INFO] 🔍 AI Trade Decision for GBPUSDm: BUY
+[2025-03-04 11:57:27] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-04 11:57:27] [INFO] ✅ Trade Executed Successfully for GBPUSDm (BUY) at 1.27013
+[2025-03-04 11:57:27] [INFO] ✅ Executed BUY Trade for GBPUSDm
+[2025-03-04 11:57:27] [INFO] ⏳ Waiting for next trading cycle (60 sec)...
+[2025-03-04 11:57:32] [WARNING] ⚠ Trading Bot Stopped Manually!
+[2025-03-04 11:57:32] [INFO] 🔌 MT5 Connection Closed!
+[2025-03-04 23:54:35] [INFO] 🤖 AI Learning Module Running...
+[2025-03-04 23:55:35] [INFO] 💾 Model Trained & Saved Successfully as ai_models/ai_model.keras
+[2025-03-04 23:55:35] [INFO] 🔄 AI Updated & Learning Complete!
+2025-03-04 23:55:36,166 - WARNING - From C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+[2025-03-05 00:05:57] [INFO] 🤖 AI Learning Module Running...
+[2025-03-05 00:06:51] [INFO] 💾 Model Trained & Saved Successfully as ai_models/ai_model.keras
+[2025-03-05 00:06:51] [INFO] 🔄 AI Updated & Learning Complete!
+2025-03-05 00:06:52,579 - WARNING - From C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+[2025-03-05 00:09:20] [INFO] 🤖 AI Learning Module Running...
+[2025-03-05 00:10:13] [INFO] 💾 Model Trained & Saved Successfully as ai_models/ai_model.keras
+[2025-03-05 00:10:13] [INFO] 🔄 AI Updated & Learning Complete!
+2025-03-05 00:10:14,104 - WARNING - From C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+[2025-03-05 00:16:12] [INFO] 💾 Model Trained & Saved Successfully as ai_models/ai_model.keras
+[2025-03-05 00:16:12] [INFO] 🔄 AI Updated & Learning Complete!
+[2025-03-05 00:29:45] [INFO] 🤖 AI Learning Module Running...
+[2025-03-05 00:30:40] [INFO] 💾 Model Trained & Saved Successfully as ai_models/ai_model.keras
+[2025-03-05 00:30:40] [INFO] 🔄 AI Updated & Learning Complete!
+2025-03-05 00:30:41,743 - WARNING - From C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+[2025-03-05 01:13:55] [INFO] 🤖 AI Learning Module Running...
+[2025-03-05 01:14:49] [INFO] 💾 Model Trained & Saved Successfully as ai_models/ai_model.keras
+[2025-03-05 01:14:49] [INFO] 🔄 AI Updated & Learning Complete!
+2025-03-05 01:14:50,395 - WARNING - From C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+[2025-03-05 01:18:46] [INFO] 🤖 AI Learning Module Running...
+[2025-03-06 14:25:28] [INFO] 🤖 AI Learning Module Running...
+[2025-03-06 14:27:03] [INFO] 💾 Model Trained & Saved Successfully as ai_models/ai_model.keras
+[2025-03-06 14:27:03] [INFO] 🔄 AI Updated & Learning Complete!
+2025-03-06 14:27:04,882 - WARNING - From C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+[2025-03-06 14:36:51] [INFO] 🤖 AI Learning Module Running...
+[2025-03-06 14:37:05] [INFO] 💾 Model Trained & Saved Successfully as ai_models/ai_model.keras
+[2025-03-06 14:37:05] [INFO] 🔄 AI Updated & Learning Complete!
+2025-03-06 14:37:07,031 - WARNING - From C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+[2025-03-06 14:49:12] [INFO] 🤖 AI Learning Module Running...
+[2025-03-06 14:49:12] [INFO] 🔄 DEBUG: AI training iteration started
+[2025-03-06 14:49:12] [INFO] 🛠 DEBUG: Trade data size = 1001
+[2025-03-06 14:49:25] [INFO] 💾 Model Trained & Saved Successfully as ai_models/ai_model.keras
+[2025-03-06 14:49:25] [INFO] 🔄 DEBUG: AI training iteration completed
+[2025-03-06 14:52:06] [INFO] 🤖 AI Learning Module Running...
+[2025-03-06 14:52:06] [INFO] 🔄 DEBUG: AI training iteration started
+[2025-03-06 14:55:03] [INFO] 🤖 AI Learning Module Running...
+[2025-03-06 14:55:03] [INFO] 🔄 DEBUG: AI training iteration started
+[2025-03-06 14:55:03] [INFO] 🔄 Training AI Model...
+[2025-03-06 14:55:03] [INFO] 💾 AI Model Training Completed.
+[2025-03-06 14:55:03] [INFO] 🔄 DEBUG: AI training iteration completed
+[2025-03-06 14:55:03] [INFO] 📈 DEBUG: Checking AI trade decision for EURUSDm
+[2025-03-06 14:55:03] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-06 14:55:03] [INFO] 📰 Fetching Forex News Sentiment for EURUSDm...
+[2025-03-06 15:14:28] [INFO] 🤖 AI Learning Module Running...
+[2025-03-06 15:14:28] [INFO] 🔄 DEBUG: AI training iteration started
+[2025-03-06 15:14:28] [INFO] 🔄 Training AI Model...
+[2025-03-06 15:14:28] [INFO] 💾 AI Model Training Completed.
+[2025-03-06 15:14:28] [INFO] 🔄 DEBUG: AI training iteration completed
+[2025-03-06 15:14:28] [INFO] 📈 DEBUG: Checking AI trade decision for EURUSDm
+[2025-03-06 15:14:28] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-06 15:14:28] [INFO] 📰 Fetching Forex News Sentiment for EURUSDm...
+[2025-03-06 15:16:43] [INFO] 🤖 AI Learning Module Running...
+[2025-03-06 15:16:43] [INFO] 🔄 DEBUG: AI training iteration started
+[2025-03-06 15:16:43] [INFO] 🔄 Training AI Model...
+[2025-03-06 15:16:43] [INFO] 💾 AI Model Training Completed.
+[2025-03-06 15:16:43] [INFO] 🔄 DEBUG: AI training iteration completed
+[2025-03-06 15:16:43] [INFO] 📈 DEBUG: Checking AI trade decision for EURUSDm
+[2025-03-06 15:16:44] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-06 15:16:44] [INFO] 📰 Fetching Forex News Sentiment for EURUSDm...
+[2025-03-06 15:16:45] [INFO] 📊 DEBUG: Order Flow = 0.5, News Sentiment = 0.0
+[2025-03-06 15:16:46] [INFO] 🔍 DEBUG: AI Confidence for EURUSDm = 0.766326367855072
+[2025-03-06 15:16:46] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-06 15:16:46] [INFO] 🔍 DEBUG: Market Spread for EURUSDm = 0.5
+[2025-03-06 15:16:46] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-06 15:16:46] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-06 15:41:08] [INFO] 🤖 AI Learning Module Running...
+[2025-03-06 15:41:08] [INFO] 🔄 DEBUG: AI training iteration started
+[2025-03-06 15:41:08] [INFO] 🔄 Training AI Model...
+[2025-03-06 15:41:08] [INFO] 💾 AI Model Training Completed.
+[2025-03-06 15:41:08] [INFO] 🔄 DEBUG: AI training iteration completed
+[2025-03-06 15:41:08] [INFO] 📈 DEBUG: Checking AI trade decision for EURUSDm
+[2025-03-06 15:41:08] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-06 15:41:08] [INFO] 📰 Fetching Forex News Sentiment for EURUSDm...
+[2025-03-06 15:41:10] [INFO] 📊 DEBUG: Order Flow = 0.5, News Sentiment = 0.0
+[2025-03-06 15:41:10] [INFO] 🔍 DEBUG: AI Confidence for EURUSDm = 0.766326367855072
+[2025-03-06 15:41:10] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-06 15:41:10] [INFO] 🔍 DEBUG: Market Spread for EURUSDm = 0.5
+[2025-03-06 15:41:10] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-06 15:42:13] [INFO] 🤖 AI Learning Module Running...
+[2025-03-06 15:43:30] [INFO] 💾 Model Trained & Saved Successfully as ai_models/ai_model.keras
+[2025-03-06 15:43:30] [INFO] 🔄 AI Updated & Learning Complete!
+2025-03-06 15:43:32,026 - WARNING - From C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+[2025-03-06 15:45:09] [INFO] 🤖 AI Learning Module Running...
+[2025-03-06 15:45:09] [INFO] 🔄 DEBUG: AI training iteration started
+[2025-03-06 15:45:09] [INFO] 🔄 Training AI Model...
+[2025-03-06 15:45:09] [INFO] 💾 AI Model Training Completed.
+[2025-03-06 15:45:09] [INFO] 🔄 DEBUG: AI training iteration completed
+[2025-03-06 15:45:09] [INFO] 📈 DEBUG: Checking AI trade decision for EURUSDm
+[2025-03-06 15:45:10] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-06 15:45:10] [INFO] 📰 Fetching Forex News Sentiment for EURUSDm...
+[2025-03-06 15:45:12] [INFO] 📊 DEBUG: Order Flow = 0.5, News Sentiment = 0.0
+[2025-03-06 15:45:13] [INFO] 🔍 DEBUG: AI Confidence for EURUSDm = 0.7342867851257324
+[2025-03-06 15:45:13] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-06 15:45:13] [INFO] 🔍 DEBUG: Market Spread for EURUSDm = 0.5
+[2025-03-06 15:45:13] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-06 15:48:42] [INFO] 🤖 AI Learning Module Running...
+[2025-03-06 15:48:42] [INFO] 🔄 DEBUG: AI training iteration started
+[2025-03-06 15:48:42] [INFO] 🔄 Training AI Model...
+[2025-03-06 15:48:42] [INFO] 💾 AI Model Training Completed.
+[2025-03-06 15:48:42] [INFO] 🔄 DEBUG: AI training iteration completed
+[2025-03-06 15:48:42] [INFO] 📈 DEBUG: Checking AI trade decision for EURUSDm
+[2025-03-06 15:48:43] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-06 15:48:43] [INFO] 📰 Fetching Forex News Sentiment for EURUSDm...
+[2025-03-06 15:48:45] [INFO] 📊 DEBUG: Order Flow = 0.5, News Sentiment = 0.0
+[2025-03-06 15:48:45] [INFO] 🔍 DEBUG: AI Confidence for EURUSDm = 0.7342867851257324
+[2025-03-06 15:48:45] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-06 15:48:45] [INFO] 🔍 DEBUG: Market Spread for EURUSDm = 0.5
+[2025-03-06 15:48:45] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-06 15:55:41] [INFO] 🤖 AI Learning Module Running...
+[2025-03-06 15:55:41] [INFO] 🔄 DEBUG: AI training iteration started
+[2025-03-06 15:55:41] [INFO] 🔄 Training AI Model...
+[2025-03-06 15:55:41] [INFO] 💾 AI Model Training Completed.
+[2025-03-06 15:55:41] [INFO] 🔄 DEBUG: AI training iteration completed
+[2025-03-06 15:55:41] [INFO] 📈 DEBUG: Checking AI trade decision for EURUSDm
+[2025-03-06 15:55:42] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-06 15:55:42] [INFO] 📰 Fetching Forex News Sentiment for EURUSDm...
+[2025-03-06 15:55:44] [INFO] 📊 DEBUG: Order Flow = 0.5, News Sentiment = 0.0
+[2025-03-06 15:55:44] [INFO] 🔍 DEBUG: AI Confidence for EURUSDm = 0.7342867851257324
+[2025-03-06 15:55:44] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-06 15:55:44] [INFO] 🔍 DEBUG: Market Spread for EURUSDm = 0.5
+[2025-03-06 15:55:44] [INFO] ✅ AI Confident: Executing BUY for EURUSDm
+[2025-03-06 15:55:44] [INFO] 🚀 Executing BUY Trade for EURUSDm (Lot: 0.1)
+[2025-03-06 15:55:44] [INFO] ✅ Trade Passed Risk Validation: EURUSDm (BUY, Lot: 0.1)
+[2025-03-06 15:55:45] [INFO] ✅ Trade Executed Successfully for EURUSDm (BUY) at 1.07879
+[2025-03-06 15:55:45] [INFO] 📈 DEBUG: Checking AI trade decision for USDJPYm
+[2025-03-06 15:55:45] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-06 15:55:45] [INFO] 📰 Fetching Forex News Sentiment for USDJPYm...
+[2025-03-06 15:55:46] [INFO] 📊 DEBUG: Order Flow = 0.5, News Sentiment = 0.0
+[2025-03-06 15:55:46] [INFO] 🔍 DEBUG: AI Confidence for USDJPYm = 0.7342867851257324
+[2025-03-06 15:55:46] [WARNING] ⚠ No order flow data found for USDJPYm! Using default value.
+[2025-03-06 15:55:46] [INFO] 🔍 DEBUG: Market Spread for USDJPYm = 0.5
+[2025-03-06 15:55:46] [INFO] ✅ AI Confident: Executing BUY for USDJPYm
+[2025-03-06 15:55:46] [INFO] 🚀 Executing BUY Trade for USDJPYm (Lot: 0.1)
+[2025-03-06 15:55:46] [INFO] ✅ Trade Passed Risk Validation: USDJPYm (BUY, Lot: 0.1)
+[2025-03-06 15:55:47] [INFO] ✅ Trade Executed Successfully for USDJPYm (BUY) at 147.972
+[2025-03-06 15:55:47] [INFO] 📈 DEBUG: Checking AI trade decision for GBPUSDm
+[2025-03-06 15:55:47] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+[2025-03-06 15:55:47] [INFO] 📰 Fetching Forex News Sentiment for GBPUSDm...
+2025-03-06 15:55:49,190 - WARNING - 5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000001DF5E8E0670> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+[2025-03-06 15:55:49] [INFO] 📊 DEBUG: Order Flow = 0.5, News Sentiment = 0.0
+2025-03-06 15:55:49,710 - WARNING - 6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000001DF5E8E20E0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+[2025-03-06 15:55:50] [INFO] 🔍 DEBUG: AI Confidence for GBPUSDm = 0.7342867851257324
+[2025-03-06 15:55:50] [WARNING] ⚠ No order flow data found for GBPUSDm! Using default value.
+[2025-03-06 15:55:50] [INFO] 🔍 DEBUG: Market Spread for GBPUSDm = 0.5
+[2025-03-06 15:55:50] [INFO] ✅ AI Confident: Executing BUY for GBPUSDm
+[2025-03-06 15:55:50] [INFO] 🚀 Executing BUY Trade for GBPUSDm (Lot: 0.1)
+[2025-03-06 15:55:50] [INFO] ✅ Trade Passed Risk Validation: GBPUSDm (BUY, Lot: 0.1)
+[2025-03-06 15:55:50] [INFO] ✅ Trade Executed Successfully for GBPUSDm (BUY) at 1.28688
+[2025-03-06 16:10:59] [INFO] 🤖 AI Learning Module Running...
+[2025-03-06 16:10:59] [INFO] 🔄 DEBUG: AI training iteration started
+[2025-03-06 16:10:59] [INFO] 🔄 Training AI Model...
+[2025-03-06 16:10:59] [INFO] 💾 AI Model Training Completed.
+[2025-03-06 16:10:59] [INFO] 🔄 DEBUG: AI training iteration completed
+[2025-03-06 16:10:59] [INFO] 📈 DEBUG: Checking AI trade decision for EURUSDm
+[2025-03-06 16:10:59] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-06 16:10:59] [INFO] 📰 Fetching Forex News Sentiment for EURUSDm...
+[2025-03-06 17:49:27] [INFO] 📊 Running Backtest for EURUSDm...
+[2025-03-06 17:49:27] [INFO] ✅ Loaded Backtest Data for EURUSDm: (5516, 11)
+[2025-03-06 17:49:29] [INFO] 💰 Initial Balance: $10000.00
+[2025-03-06 17:49:29] [INFO] 🏁 Final Balance: $11702.23
+[2025-03-06 17:49:29] [INFO] 📈 Profit: $1702.23
+[2025-03-06 17:49:29] [INFO] 📊 Total Trades: 3001
+[2025-03-06 17:49:29] [INFO] 🔹 Trade: (np.int64(1740355200), 'EURUSDm', 'BUY', np.float64(334.9557509348969), np.float64(1.0474823713302612))
+[2025-03-06 17:49:29] [INFO] 🔹 Trade: (np.int64(1740441600), 'EURUSDm', 'BUY', np.float64(325.32570725410835), np.float64(1.0461344718933103))
+[2025-03-06 17:49:29] [INFO] 🔹 Trade: (np.int64(1740528000), 'EURUSDm', 'SELL', np.float64(660.2814581890052), np.float64(1.0524100065231323))
+[2025-03-06 17:49:29] [INFO] 🔹 Trade: (np.int64(1740700800), 'EURUSDm', 'BUY', np.float64(337.63061498484956), np.float64(1.039511799812317))
+[2025-03-06 17:49:29] [INFO] 🔹 Trade: (np.int64(1740960000), 'EURUSDm', 'SELL', np.float64(337.63061498484956), np.float64(1.0489877462387085))
+[2025-03-06 17:49:29] [INFO] 📊 Running Backtest for USDJPYm...
+[2025-03-06 17:49:29] [INFO] ✅ Loaded Backtest Data for USDJPYm: (7350, 11)
+[2025-03-06 17:49:31] [INFO] 💰 Initial Balance: $10000.00
+[2025-03-06 17:49:31] [INFO] 🏁 Final Balance: $14334.90
+[2025-03-06 17:49:31] [INFO] 📈 Profit: $4334.90
+[2025-03-06 17:49:31] [INFO] 📊 Total Trades: 994
+[2025-03-06 17:49:31] [INFO] 🔹 Trade: (np.int64(1498608000), 'USDJPYm', 'BUY', np.float64(0.03140388387470263), np.float64(112.18800354003906))
+[2025-03-06 17:49:31] [INFO] 🔹 Trade: (np.int64(1498694400), 'USDJPYm', 'BUY', np.float64(0.030416762887773778), np.float64(112.35399627685548))
+[2025-03-06 17:49:31] [INFO] 🔹 Trade: (np.int64(1501545600), 'USDJPYm', 'BUY', np.float64(0.03003761798753033), np.float64(110.35900115966795))
+[2025-03-06 17:49:31] [INFO] 🔹 Trade: (np.int64(1518652800), 'USDJPYm', 'BUY', np.float64(0.03016759955278143), np.float64(106.58699798583984))
+[2025-03-06 17:49:31] [INFO] 🔹 Trade: (np.int64(1583712000), 'USDJPYm', 'BUY', np.float64(0.030008366048567908), np.float64(103.93800354003906))
+[2025-03-06 17:49:31] [INFO] 📊 Running Backtest for GBPUSDm...
+[2025-03-06 17:49:31] [INFO] ✅ Loaded Backtest Data for GBPUSDm: (5528, 11)
+[2025-03-06 17:49:33] [INFO] 💰 Initial Balance: $10000.00
+[2025-03-06 17:49:33] [INFO] 🏁 Final Balance: $15424.20
+[2025-03-06 17:49:33] [INFO] 📈 Profit: $5424.20
+[2025-03-06 17:49:33] [INFO] 📊 Total Trades: 3098
+[2025-03-06 17:49:33] [INFO] 🔹 Trade: (np.int64(1739750400), 'GBPUSDm', 'SELL', np.float64(728.3925323508172), np.float64(1.2584155797958374))
+[2025-03-06 17:49:33] [INFO] 🔹 Trade: (np.int64(1740009600), 'GBPUSDm', 'BUY', np.float64(367.58016852510326), np.float64(1.2584155797958374))
+[2025-03-06 17:49:33] [INFO] 🔹 Trade: (np.int64(1740096000), 'GBPUSDm', 'SELL', np.float64(367.58016852510326), np.float64(1.267040133476257))
+[2025-03-06 17:49:33] [INFO] 🔹 Trade: (np.int64(1740441600), 'GBPUSDm', 'BUY', np.float64(366.6748635433528), np.float64(1.261781930923462))
+[2025-03-06 17:49:33] [INFO] 🔹 Trade: (np.int64(1740528000), 'GBPUSDm', 'SELL', np.float64(366.6748635433528), np.float64(1.2674431800842283))
+[2025-03-06 18:04:15] [INFO] 🤖 AI Learning Module Running...
+[2025-03-06 18:04:15] [INFO] 🔄 DEBUG: AI training iteration started
+[2025-03-06 18:04:15] [INFO] 🔄 Training AI Model...
+[2025-03-06 18:04:15] [INFO] 💾 AI Model Training Completed.
+[2025-03-06 18:04:15] [INFO] 🔄 DEBUG: AI training iteration completed
+[2025-03-06 18:04:15] [INFO] 📈 DEBUG: Checking AI trade decision for EURUSDm
+[2025-03-06 18:04:16] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-06 18:04:16] [INFO] 📰 Fetching Forex News Sentiment for EURUSDm...
+[2025-03-06 18:14:55] [INFO] 📰 Fetching Forex News Sentiment for EURUSDm...
+[2025-03-06 18:21:37] [INFO] 📰 Fetching Forex News Sentiment for EURUSDm...
+2025-03-06 18:21:37,612 - INFO - ====== WebDriver manager ======
+2025-03-06 18:21:38,865 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-06 18:21:39,706 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-06 18:21:39,769 - INFO - There is no [win64] chromedriver "133.0.6943.141" for browser google-chrome "133.0.6943" in cache
+2025-03-06 18:21:39,770 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-06 18:21:39,985 - INFO - WebDriver version 133.0.6943.141 selected
+2025-03-06 18:21:39,989 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.141/win32/chromedriver-win32.zip
+2025-03-06 18:21:39,989 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.141/win32/chromedriver-win32.zip
+2025-03-06 18:21:40,935 - INFO - Driver downloading response is 200
+2025-03-06 18:21:44,119 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-06 18:21:47,003 - INFO - Driver has been saved in cache [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\133.0.6943.141]
+2025-03-06 19:08:44,466 - INFO - patching driver executable C:\Users\Lenovo\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-06 19:12:28,325 - INFO - patching driver executable C:\Users\Lenovo\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[2025-03-06 19:12:32] [INFO] 📰 Fetching Forex News Sentiment for EURUSD=X...
+[2025-03-06 19:13:21] [INFO] 📰 Fetching Forex News Sentiment for EURUSD=X...
+[2025-03-06 19:13:52] [INFO] 📰 Fetching Forex News Sentiment for EURUSD=X...
+[2025-03-06 19:17:37] [INFO] 📰 Fetching Forex News Sentiment for EURUSD=X...
+[2025-03-06 19:17:39] [INFO] 📰 Fetching Forex News Sentiment for EURUSD=X...
+[2025-03-06 19:24:13] [INFO] 📰 Fetching Forex News Sentiment for EURUSD=X...
+[2025-03-06 19:24:14] [INFO] 📰 Fetching Forex News Sentiment for EURUSD=X...
+[2025-03-06 19:24:16] [INFO] 📰 Fetching Forex News Sentiment for EURUSD=X...
+[2025-03-06 19:27:51] [INFO] 📰 Fetching Forex News Sentiment for EURUSD=X...
+[2025-03-06 19:27:52] [INFO] 📰 Fetching Forex News Sentiment for EURUSD=X...
+[2025-03-06 19:27:54] [INFO] 🤖 AI Learning Module Running...
+[2025-03-06 19:27:54] [INFO] 🔄 DEBUG: AI training iteration started
+[2025-03-06 19:27:54] [INFO] 🔄 Training AI Model...
+[2025-03-06 19:27:54] [INFO] 💾 AI Model Training Completed.
+[2025-03-06 19:27:54] [INFO] 🔄 DEBUG: AI training iteration completed
+[2025-03-06 19:27:54] [INFO] 📈 DEBUG: Checking AI trade decision for EURUSDm
+[2025-03-06 19:27:59] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-06 19:27:59] [INFO] 📰 Fetching Forex News Sentiment for EURUSDm...
+[2025-03-06 19:32:19] [INFO] 📰 Fetching Forex News Sentiment for EURUSD=X...
+[2025-03-06 19:32:20] [INFO] 📰 Fetching Forex News Sentiment for EURUSD=X...
+[2025-03-06 19:32:22] [INFO] 🤖 AI Learning Module Running...
+[2025-03-06 19:32:22] [INFO] 🔄 DEBUG: AI training iteration started
+[2025-03-06 19:32:22] [INFO] 🔄 Training AI Model...
+[2025-03-06 19:32:22] [INFO] 💾 AI Model Training Completed.
+[2025-03-06 19:32:22] [INFO] 🔄 DEBUG: AI training iteration completed
+[2025-03-06 19:32:22] [INFO] 📈 DEBUG: Checking AI trade decision for EURUSDm
+[2025-03-06 19:32:22] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-06 19:32:22] [INFO] 📰 Fetching Forex News Sentiment for EURUSDm...
+[2025-03-06 19:34:23] [INFO] 📰 Fetching Forex News Sentiment for EURUSD=X...
+[2025-03-06 19:34:25] [INFO] 📰 Fetching Forex News Sentiment for EURUSD=X...
+[2025-03-06 19:34:27] [INFO] 🤖 AI Learning Module Running...
+[2025-03-06 19:34:27] [INFO] 🔄 DEBUG: AI training iteration started
+[2025-03-06 19:34:27] [INFO] 🔄 Training AI Model...
+[2025-03-06 19:34:27] [INFO] 💾 AI Model Training Completed.
+[2025-03-06 19:34:27] [INFO] 🔄 DEBUG: AI training iteration completed
+[2025-03-06 19:34:27] [INFO] 📈 DEBUG: Checking AI trade decision for EURUSDm
+[2025-03-06 19:34:27] [WARNING] ⚠ No order flow data found for EURUSDm! Using default value.
+[2025-03-06 19:34:27] [INFO] 📰 Fetching Forex News Sentiment for EURUSDm...
+[2025-03-06 19:43:33] [INFO] 📰 Fetching Forex News Sentiment for EURUSD=X...
+[2025-03-06 19:43:34] [INFO] 📰 Fetching Forex News Sentiment for EURUSD=X...
+[2025-03-06 19:43:36] [INFO] 📰 Fetching Forex News Sentiment for EURUSD=X...
+[2025-03-06 22:33:47] [WARNING] ⚠ No order flow data found for EURUSD=X! Using default value.
+[2025-03-06 22:36:23] [INFO] 🛠 Simulating Order Flow Data for EURUSD=X...
+[2025-03-06 22:39:02] [INFO] 🛠 Simulating Order Flow Data for EURUSD=X...
+[2025-03-06 22:39:02] [INFO] 📊 Order Flow: {'buy_volume': 0.46, 'sell_volume': 0.54}
+[2025-03-06 22:42:54] [WARNING] ⚠ No order flow data found for EURUSD=X!
+[2025-03-06 22:44:25] [WARNING] ⚠ No order flow data found for EURUSDm!
+[2025-03-06 23:14:47] [INFO] 🔍 Testing Order Flow for EURUSDm...
+[2025-03-06 23:14:47] [INFO] 🌍 Fetching Real Order Flow Data for EURUSDm...
+[2025-03-06 23:14:47] [INFO] 
+📊 Order Flow Results:
+[2025-03-06 23:14:47] [INFO] {'buy_volume': 578556.6, 'sell_volume': 729143.4}
+[2025-03-06 23:15:11] [INFO] 🔍 Testing Order Flow for USDJPYm...
+[2025-03-06 23:15:11] [INFO] 🌍 Fetching Real Order Flow Data for USDJPYm...
+[2025-03-06 23:15:11] [WARNING] ⚠ MT5 API failed for USDJPYm: HTTPConnectionPool(host='your-mt5-broker.com', port=80): Max retries exceeded with url: /api/order_flow?symbol=USDJPYm (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001D3A55ACC70>: Failed to resolve 'your-mt5-broker.com' ([Errno 11001] getaddrinfo failed)"))
+[2025-03-06 23:15:11] [INFO] 🛠 Using Simulated Order Flow Data for USDJPYm...
+[2025-03-06 23:15:11] [INFO] 📊 Simulated Order Flow: {'buy_volume': 19148.19, 'sell_volume': 5883.02}
+[2025-03-06 23:15:11] [INFO] 
+📊 Order Flow Results:
+[2025-03-06 23:15:11] [INFO] {'buy_volume': 19148.19, 'sell_volume': 5883.02}
+[2025-03-06 23:18:18] [INFO] 🔍 Testing Real Order Flow for EURUSDm...
+[2025-03-06 23:18:18] [INFO] ✅ Connected to MT5 API!
+[2025-03-06 23:18:18] [WARNING] ⚠ No order book data found for EURUSDm
+[2025-03-06 23:18:18] [INFO] 
+📊 Order Flow Results:
+[2025-03-06 23:18:18] [INFO] {'buy_volume': None, 'sell_volume': None}
+[2025-03-06 23:19:45] [INFO] 🔍 Testing Real Order Flow for EURUSDm...
+[2025-03-06 23:19:45] [INFO] ✅ Connected to MT5 API!
+[2025-03-06 23:19:45] [WARNING] ⚠ No order book data found for EURUSDm
+[2025-03-06 23:19:45] [INFO] 
+📊 Order Flow Results:
+[2025-03-06 23:19:45] [INFO] {'buy_volume': None, 'sell_volume': None}
+[2025-03-06 23:30:16] [INFO] ✅ Connected to MT5 API!
+[2025-03-06 23:30:16] [WARNING] ⚠ No order book data found for EURUSDm
+[2025-03-06 23:30:30] [INFO] ✅ Connected to MT5 API!
+[2025-03-06 23:30:30] [WARNING] ⚠ No order book data found for EURUSD
+[2025-03-06 23:30:52] [INFO] ✅ Connected to MT5 API!
+[2025-03-06 23:30:52] [WARNING] ⚠ No order book data found for USDCLP
+[2025-03-07 12:38:24] [INFO] 🔍 Fetching Order Flow for EURUSDm (EURUSDT)...
+[2025-03-07 12:38:26] [INFO] 🔍 Fetching Order Flow for GBPUSDm (GBPUSDT)...
+[2025-03-07 12:41:34] [INFO] 🔍 Fetching Order Flow for EURUSDm (EURUSDT)...
+[2025-03-07 12:41:34] [INFO] 📝 [INFO] 🔍 Fetching Order Flow for EURUSDm (EURUSDT)...
+[2025-03-07 12:41:35] [INFO] 🔍 Fetching Order Flow for GBPUSDm (GBPUSDT)...
+[2025-03-07 12:41:35] [INFO] 📝 [INFO] 🔍 Fetching Order Flow for GBPUSDm (GBPUSDT)...
+[2025-03-07 12:41:35] [INFO] ⚠ Market Depth unavailable for GBPUSDm (GBPUSDT). Order book is empty.
+[2025-03-07 12:41:36] [INFO] 🔍 Fetching Order Flow for USDJPYm (USDJPY)...
+[2025-03-07 12:41:36] [INFO] 📝 [INFO] 🔍 Fetching Order Flow for USDJPYm (USDTJPY)...
+[2025-03-07 12:41:37] [WARNING] ⚠ Binance API error: {'code': -1121, 'msg': 'Invalid symbol.'}
+[2025-03-07 12:41:38] [INFO] 🔍 Fetching Order Flow for AUDUSDm (AUDUSDT)...
+[2025-03-07 12:41:38] [INFO] 📝 [INFO] 🔍 Fetching Order Flow for AUDUSDm (AUDUSDT)...
+[2025-03-07 12:41:38] [INFO] ⚠ Market Depth unavailable for AUDUSDm (AUDUSDT). Order book is empty.
+[2025-03-07 12:41:39] [INFO] 🔍 Fetching Order Flow for USDCADm (USDCAD)...
+[2025-03-07 12:41:39] [INFO] 📝 [INFO] 🔍 Fetching Order Flow for USDCADm (USDTCAD)...
+[2025-03-07 12:41:39] [WARNING] ⚠ Binance API error: {'code': -1121, 'msg': 'Invalid symbol.'}
+[2025-03-07 12:41:40] [INFO] 🔍 Fetching Order Flow for USDCHFm (USDCHF)...
+[2025-03-07 12:41:40] [INFO] 📝 [INFO] 🔍 Fetching Order Flow for USDCHFm (USDTCHF)...
+[2025-03-07 12:41:41] [WARNING] ⚠ Binance API error: {'code': -1121, 'msg': 'Invalid symbol.'}
+[2025-03-07 12:41:42] [INFO] 🔍 Fetching Order Flow for NZDUSDm (NZDUSDT)...
+[2025-03-07 12:41:42] [INFO] 📝 [INFO] 🔍 Fetching Order Flow for NZDUSDm (NZDUSDT)...
+[2025-03-07 12:41:42] [WARNING] ⚠ Binance API error: {'code': -1121, 'msg': 'Invalid symbol.'}
+[2025-03-07 12:41:43] [INFO] 📝 [INFO] 🔍 Fetching Order Flow for EURUSDm (EURUSDT)...
+[2025-03-07 12:41:43] [INFO] 📝 [INFO] 🔍 Fetching Order Flow for GBPUSDm (GBPUSDT)...
+[2025-03-07 12:41:43] [INFO] ⚠ Market Depth unavailable for GBPUSDm (GBPUSDT). Order book is empty.
+[2025-03-07 12:41:43] [INFO] 📝 [INFO] 🔍 Fetching Order Flow for USDJPYm (USDTJPY)...
+[2025-03-07 12:41:44] [WARNING] ⚠ Binance API error: {'code': -1121, 'msg': 'Invalid symbol.'}
+[2025-03-07 12:53:23] [INFO] 🔍 Fetching Order Flow for EURUSDm (EURUSDT)...
+[2025-03-07 12:53:23] [INFO] 🔍 Fetching Order Flow for EURUSDm (EURUSDT)...
+[2025-03-07 12:53:24] [INFO] 🔍 Fetching Order Flow for GBPUSDm (GBPUSDT)...
+[2025-03-07 12:53:24] [INFO] 🔍 Fetching Order Flow for GBPUSDm (GBPUSDT)...
+[2025-03-07 12:53:24] [INFO] ⚠ Market Depth unavailable for GBPUSDm (GBPUSDT). Order book is empty.
+[2025-03-07 12:53:25] [INFO] 🔍 Fetching Order Flow for USDJPYm (USDJPY)...
+[2025-03-07 12:53:25] [INFO] 🔍 Fetching Order Flow for USDJPYm (USDJPY)...
+[2025-03-07 12:53:26] [WARNING] ⚠ Binance API error: {'code': -1121, 'msg': 'Invalid symbol.'}
+[2025-03-07 12:53:27] [INFO] 🔍 Fetching Order Flow for AUDUSDm (AUDUSDT)...
+[2025-03-07 12:53:27] [INFO] 🔍 Fetching Order Flow for AUDUSDm (AUDUSDT)...
+[2025-03-07 12:53:27] [INFO] ⚠ Market Depth unavailable for AUDUSDm (AUDUSDT). Order book is empty.
+[2025-03-07 12:53:28] [INFO] 🔍 Fetching Order Flow for USDCADm (USDCAD)...
+[2025-03-07 12:53:28] [INFO] 🔍 Fetching Order Flow for USDCADm (USDCAD)...
+[2025-03-07 12:53:28] [WARNING] ⚠ Binance API error: {'code': -1121, 'msg': 'Invalid symbol.'}
+[2025-03-07 12:53:29] [INFO] 🔍 Fetching Order Flow for USDCHFm (USDCHF)...
+[2025-03-07 12:53:29] [INFO] 🔍 Fetching Order Flow for USDCHFm (USDCHF)...
+[2025-03-07 12:53:30] [WARNING] ⚠ Binance API error: {'code': -1121, 'msg': 'Invalid symbol.'}
+[2025-03-07 12:53:31] [INFO] 🔍 Fetching Order Flow for NZDUSDm (NZDUSDT)...
+[2025-03-07 12:53:31] [INFO] 🔍 Fetching Order Flow for NZDUSDm (NZDUSDT)...
+[2025-03-07 12:53:31] [WARNING] ⚠ Binance API error: {'code': -1121, 'msg': 'Invalid symbol.'}
+[2025-03-07 12:53:32] [INFO] 🔍 Fetching Order Flow for EURUSDm (EURUSDT)...
+[2025-03-07 12:53:32] [INFO] 🔍 Fetching Order Flow for GBPUSDm (GBPUSDT)...
+[2025-03-07 12:53:32] [INFO] ⚠ Market Depth unavailable for GBPUSDm (GBPUSDT). Order book is empty.
+[2025-03-07 12:53:32] [INFO] 🔍 Fetching Order Flow for USDJPYm (USDJPY)...
+[2025-03-07 12:53:33] [WARNING] ⚠ Binance API error: {'code': -1121, 'msg': 'Invalid symbol.'}
+[2025-03-07 19:05:00] [ERROR] ❌ ERROR: Not enough data to calculate volatility for USDJPYm
+[2025-03-07 19:11:16] [ERROR] ❌ ERROR: Not enough data to calculate volatility for USDJPYm
+[2025-03-07 22:46:58] [ERROR] ❌ ERROR: Not enough data to calculate volatility for USDJPYm
+2025-03-07 23:26:38.494052 - RISK EVALUATION: USDJPYm | Risk Score: Trade Type: BUY | Lot: 0.2 | Balance: 10000 | Allowed Lot: 0.2
+[2025-03-08 16:42:18] [INFO] 📊 Running Backtest for EURUSDm...
+[2025-03-08 16:42:18] [INFO] ✅ Loaded Backtest Data for EURUSDm: (5516, 11)
+[2025-03-08 16:42:20] [INFO] 💰 Initial Balance: $10000.00
+[2025-03-08 16:42:20] [INFO] 🏁 Final Balance: $15534.79
+[2025-03-08 16:42:20] [INFO] 📈 Profit: $5534.79
+[2025-03-08 16:42:20] [INFO] 📊 Total Trades: 4866
+[2025-03-08 16:42:20] [INFO] 🔹 Trade: (np.int64(1740355200), 'EURUSDm', 'BUY', np.float64(444.6558402916117), np.float64(1.0474823713302612))
+[2025-03-08 16:42:20] [INFO] 🔹 Trade: (np.int64(1740441600), 'EURUSDm', 'BUY', np.float64(431.87189747834674), np.float64(1.0461344718933103))
+[2025-03-08 16:42:20] [INFO] 🔹 Trade: (np.int64(1740528000), 'EURUSDm', 'SELL', np.float64(876.5277377699584), np.float64(1.0524100065231323))
+[2025-03-08 16:42:20] [INFO] 🔹 Trade: (np.int64(1740700800), 'EURUSDm', 'BUY', np.float64(448.20673893561997), np.float64(1.039511799812317))
+[2025-03-08 16:42:20] [INFO] 🔹 Trade: (np.int64(1740960000), 'EURUSDm', 'BUY', np.float64(430.83316243025286), np.float64(1.0489877462387085))
+[2025-03-08 16:42:20] [INFO] 📊 Running Backtest for USDJPYm...
+[2025-03-08 16:42:20] [INFO] ✅ Loaded Backtest Data for USDJPYm: (7350, 11)
+[2025-03-08 16:42:22] [INFO] 💰 Initial Balance: $10000.00
+[2025-03-08 16:42:22] [INFO] 🏁 Final Balance: $9306.58
+[2025-03-08 16:42:22] [INFO] 📈 Profit: $-693.42
+[2025-03-08 16:42:22] [INFO] 📊 Total Trades: 4904
+[2025-03-08 16:42:22] [INFO] 🔹 Trade: (np.int64(1740441600), 'USDJPYm', 'BUY', np.float64(0.18277465227230608), np.float64(149.86399841308594))
+[2025-03-08 16:42:22] [INFO] 🔹 Trade: (np.int64(1740528000), 'USDJPYm', 'BUY', np.float64(0.17822615992969842), np.float64(149.0780029296875))
+[2025-03-08 16:42:22] [INFO] 🔹 Trade: (np.int64(1740614400), 'USDJPYm', 'BUY', np.float64(0.1731581480285209), np.float64(148.83799743652344))
+[2025-03-08 16:42:22] [INFO] 🔹 Trade: (np.int64(1740700800), 'USDJPYm', 'BUY', np.float64(0.16664891962727313), np.float64(150.01199340820312))
+[2025-03-08 16:42:22] [INFO] 🔹 Trade: (np.int64(1740960000), 'USDJPYm', 'BUY', np.float64(0.1615654415704089), np.float64(150.08999633789062))
+[2025-03-08 16:42:22] [INFO] 📊 Running Backtest for GBPUSDm...
+[2025-03-08 16:42:22] [INFO] ✅ Loaded Backtest Data for GBPUSDm: (5528, 11)
+[2025-03-08 16:42:24] [INFO] 💰 Initial Balance: $10000.00
+[2025-03-08 16:42:24] [INFO] 🏁 Final Balance: $18766.12
+[2025-03-08 16:42:24] [INFO] 📈 Profit: $8766.12
+[2025-03-08 16:42:24] [INFO] 📊 Total Trades: 4273
+[2025-03-08 16:42:24] [INFO] 🔹 Trade: (np.int64(1740441600), 'GBPUSDm', 'BUY', np.float64(308.248713530164), np.float64(1.261781930923462))
+[2025-03-08 16:42:24] [INFO] 🔹 Trade: (np.int64(1740528000), 'GBPUSDm', 'BUY', np.float64(297.66571250066505), np.float64(1.2674431800842283))
+[2025-03-08 16:42:24] [INFO] 🔹 Trade: (np.int64(1740614400), 'GBPUSDm', 'SELL', np.float64(5174.489395229939), np.float64(1.2682307958602903))
+[2025-03-08 16:42:24] [INFO] 🔹 Trade: (np.int64(1740700800), 'GBPUSDm', 'BUY', np.float64(446.72909106236085), np.float64(1.259890079498291))
+[2025-03-08 16:42:24] [INFO] 🔹 Trade: (np.int64(1740960000), 'GBPUSDm', 'BUY', np.float64(429.4127521395496), np.float64(1.271375060081482))
+[2025-03-08 21:40:13] [INFO] 📊 Running Backtest for EURUSDm...
+[2025-03-08 21:40:13] [INFO] ✅ Loaded Backtest Data for EURUSDm: (5516, 11)
+[2025-03-08 21:40:16] [INFO] 💰 Initial Balance: $10000.00
+[2025-03-08 21:40:16] [INFO] 🏁 Final Balance: $15534.79
+[2025-03-08 21:40:16] [INFO] 📈 Profit: $5534.79
+[2025-03-08 21:40:16] [INFO] 📊 Total Trades: 4866
+[2025-03-08 21:40:16] [INFO] 🔹 Trade: (np.int64(1740355200), 'EURUSDm', 'BUY', np.float64(444.6558402916117), np.float64(1.0474823713302612))
+[2025-03-08 21:40:16] [INFO] 🔹 Trade: (np.int64(1740441600), 'EURUSDm', 'BUY', np.float64(431.87189747834674), np.float64(1.0461344718933103))
+[2025-03-08 21:40:16] [INFO] 🔹 Trade: (np.int64(1740528000), 'EURUSDm', 'SELL', np.float64(876.5277377699584), np.float64(1.0524100065231323))
+[2025-03-08 21:40:16] [INFO] 🔹 Trade: (np.int64(1740700800), 'EURUSDm', 'BUY', np.float64(448.20673893561997), np.float64(1.039511799812317))
+[2025-03-08 21:40:16] [INFO] 🔹 Trade: (np.int64(1740960000), 'EURUSDm', 'BUY', np.float64(430.83316243025286), np.float64(1.0489877462387085))
+[2025-03-08 21:40:16] [INFO] 📊 Running Backtest for USDJPYm...
+[2025-03-08 21:40:16] [INFO] ✅ Loaded Backtest Data for USDJPYm: (7350, 11)
+[2025-03-08 21:40:18] [INFO] 💰 Initial Balance: $10000.00
+[2025-03-08 21:40:18] [INFO] 🏁 Final Balance: $9306.58
+[2025-03-08 21:40:18] [INFO] 📈 Profit: $-693.42
+[2025-03-08 21:40:18] [INFO] 📊 Total Trades: 4904
+[2025-03-08 21:40:18] [INFO] 🔹 Trade: (np.int64(1740441600), 'USDJPYm', 'BUY', np.float64(0.18277465227230608), np.float64(149.86399841308594))
+[2025-03-08 21:40:18] [INFO] 🔹 Trade: (np.int64(1740528000), 'USDJPYm', 'BUY', np.float64(0.17822615992969842), np.float64(149.0780029296875))
+[2025-03-08 21:40:18] [INFO] 🔹 Trade: (np.int64(1740614400), 'USDJPYm', 'BUY', np.float64(0.1731581480285209), np.float64(148.83799743652344))
+[2025-03-08 21:40:18] [INFO] 🔹 Trade: (np.int64(1740700800), 'USDJPYm', 'BUY', np.float64(0.16664891962727313), np.float64(150.01199340820312))
+[2025-03-08 21:40:18] [INFO] 🔹 Trade: (np.int64(1740960000), 'USDJPYm', 'BUY', np.float64(0.1615654415704089), np.float64(150.08999633789062))
+[2025-03-08 21:40:18] [INFO] 📊 Running Backtest for GBPUSDm...
+[2025-03-08 21:40:18] [INFO] ✅ Loaded Backtest Data for GBPUSDm: (5528, 11)
+[2025-03-08 21:40:20] [INFO] 💰 Initial Balance: $10000.00
+[2025-03-08 21:40:20] [INFO] 🏁 Final Balance: $18766.12
+[2025-03-08 21:40:20] [INFO] 📈 Profit: $8766.12
+[2025-03-08 21:40:20] [INFO] 📊 Total Trades: 4273
+[2025-03-08 21:40:20] [INFO] 🔹 Trade: (np.int64(1740441600), 'GBPUSDm', 'BUY', np.float64(308.248713530164), np.float64(1.261781930923462))
+[2025-03-08 21:40:20] [INFO] 🔹 Trade: (np.int64(1740528000), 'GBPUSDm', 'BUY', np.float64(297.66571250066505), np.float64(1.2674431800842283))
+[2025-03-08 21:40:20] [INFO] 🔹 Trade: (np.int64(1740614400), 'GBPUSDm', 'SELL', np.float64(5174.489395229939), np.float64(1.2682307958602903))
+[2025-03-08 21:40:20] [INFO] 🔹 Trade: (np.int64(1740700800), 'GBPUSDm', 'BUY', np.float64(446.72909106236085), np.float64(1.259890079498291))
+[2025-03-08 21:40:20] [INFO] 🔹 Trade: (np.int64(1740960000), 'GBPUSDm', 'BUY', np.float64(429.4127521395496), np.float64(1.271375060081482))
+2025-03-10 08:18:22.150612 - RISK EVALUATION: USDJPYm | Risk Score: Trade Type: BUY | Lot: 0.2 | Balance: 10000 | Allowed Lot: 0.2
+2025-03-10 09:03:48.041245 - RISK EVALUATION: USDJPYm | Risk Score: Trade Type: BUY | Lot: 0.2 | Balance: 10000 | Allowed Lot: 0.2
